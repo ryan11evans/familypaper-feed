@@ -3,6 +3,7 @@
 The shared, kid-friendly daily content for the **Family Paper: Daily Printable** iOS app: three short news stories, a fun fact, a joke, and a riddle.
 
 - Feed URL: https://ryan11evans.github.io/familypaper-feed/feed.json
+- App privacy policy: https://ryan11evans.github.io/familypaper-feed/privacy.html · Terms of Use: https://ryan11evans.github.io/familypaper-feed/terms.html
 - Updated once each morning (Pacific time). Every family gets the same file; it contains no personal or family information.
 - The app reads it with a plain HTTPS GET and sends nothing about its users.
 
