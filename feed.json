@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "news": [
+    {
+      "emoji": "⚾",
+      "tag": "Sports",
+      "headline": "Dodgers Win! On to the Next Round",
+      "body": "The Dodgers beat the Braves 4–1 on Wednesday. Andy Pages got the big hit that broke the tie! Next they play the Milwaukee Brewers, starting Sunday.",
+      "source_name": "AP News / MLB.com",
+      "url": "https://apnews.com/article/dodgers-braves-score-nlds-pages-muncy-e6f70cc747da347610157ec4b359979f"
+    },
+    {
+      "emoji": "🚀",
+      "tag": "Space",
+      "headline": "Astronauts Splash Down Near L.A.!",
+      "body": "Four astronauts came home Thursday after 237 days on the International Space Station. Their capsule floated down on big parachutes and landed in the ocean off Los Angeles. They traveled more than 100 million miles!",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
+    },
+    {
+      "emoji": "🐱",
+      "tag": "Animals",
+      "headline": "Kittens Take a Field Trip to the Aquarium",
+      "body": "About two dozen rescue kittens visited an aquarium in Minnesota. They stared at sharks and sea turtles — and some took naps in the blue underwater tunnel! Their names include Funnel Cake and Turkey Leg.",
+      "source_name": "AP News",
+      "url": "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
+    }
+  ],
+  "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! 🌅",
+  "joke": {
+    "q": "Why are baseball games played at night?",
+    "a": "Because bats sleep during the day! 🦇"
+  },
+  "riddle": {
+    "q": "I have hands and a face, but I can't hold anything and I can't smile. What am I?",
+    "a": "A clock! 🕰️"
+  }
+}
