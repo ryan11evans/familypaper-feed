@@ -3,37 +3,37 @@
   "date": "2026-10-09",
   "news": [
     {
-      "emoji": "⚾",
-      "tag": "Sports",
-      "headline": "Dodgers Win! On to the Next Round",
-      "body": "The Dodgers beat the Braves 4–1 on Wednesday. Andy Pages got the big hit that broke the tie! Next they play the Milwaukee Brewers, starting Sunday.",
-      "source_name": "AP News / MLB.com",
-      "url": "https://apnews.com/article/dodgers-braves-score-nlds-pages-muncy-e6f70cc747da347610157ec4b359979f"
-    },
-    {
-      "emoji": "🚀",
+      "emoji": "🌕",
       "tag": "Space",
-      "headline": "Astronauts Splash Down Near L.A.!",
-      "body": "Four astronauts came home Thursday after 237 days on the International Space Station. Their capsule floated down on big parachutes and landed in the ocean off Los Angeles. They traveled more than 100 million miles!",
+      "headline": "Moon Photos for Everyone!",
+      "body": "NASA just shared more than 11,000 pictures and videos from the Artemis II astronauts' trip around the Moon. Anyone can look at them, even kids! Scientists hope the photos will help plan the next trips to the Moon.",
       "source_name": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/"
+      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/"
     },
     {
-      "emoji": "🐱",
+      "emoji": "🦫",
       "tag": "Animals",
-      "headline": "Kittens Take a Field Trip to the Aquarium",
-      "body": "About two dozen rescue kittens visited an aquarium in Minnesota. They stared at sharks and sea turtles — and some took naps in the blue underwater tunnel! Their names include Funnel Cake and Turkey Leg.",
-      "source_name": "AP News",
-      "url": "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
+      "headline": "Two Baby Capybaras Move to the Zoo",
+      "body": "Two capybara siblings just moved into their new home at the San Francisco Zoo. They are only four months old, and they don't have names yet! Capybaras love to swim, and these two may be ready for visitors next week.",
+      "source_name": "SFGate / Bay City News",
+      "url": "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php"
+    },
+    {
+      "emoji": "🦗",
+      "tag": "Nature",
+      "headline": "A Giant Bug Makes a Big Comeback",
+      "body": "The wētāpunga is a huge insect from New Zealand, and some weigh more than a mouse! Not long ago there were very few left. Helpers at zoos raised more than 11,000 of them and set them free on safe islands.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
     }
   ],
-  "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! 🌅",
+  "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! 🌊",
   "joke": {
-    "q": "Why are baseball games played at night?",
-    "a": "Because bats sleep during the day! 🦇"
+    "q": "Why did the cow go to outer space?",
+    "a": "To see the moooon! 🐄"
   },
   "riddle": {
-    "q": "I have hands and a face, but I can't hold anything and I can't smile. What am I?",
-    "a": "A clock! 🕰️"
+    "q": "The more of me someone takes, the more they leave behind. What am I?",
+    "a": "Footsteps! 👣"
   }
 }
