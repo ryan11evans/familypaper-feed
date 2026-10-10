@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "news": [
     {
-      "emoji": "🌕",
-      "tag": "Space",
-      "headline": "Moon Photos for Everyone!",
-      "body": "NASA just shared more than 11,000 pictures and videos from the Artemis II astronauts' trip around the Moon. Anyone can look at them, even kids! Scientists hope the photos will help plan the next trips to the Moon.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/"
-    },
-    {
-      "emoji": "🦫",
+      "emoji": "🐆",
       "tag": "Animals",
-      "headline": "Two Baby Capybaras Move to the Zoo",
-      "body": "Two capybara siblings just moved into their new home at the San Francisco Zoo. They are only four months old, and they don't have names yet! Capybaras love to swim, and these two may be ready for visitors next week.",
-      "source_name": "SFGate / Bay City News",
-      "url": "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php"
+      "headline": "Five Cheetah Cubs Are Born!",
+      "body": "Five healthy cheetah cubs were born on October 5 at a Smithsonian animal center in Virginia. Their mom, Zura, is taking good care of them. People can watch the cubs snuggle and nap on a live video camera called the Cheetah Cub Cam!",
+      "source_name": "Smithsonian's National Zoo",
+      "url": "https://nationalzoo.si.edu/animals/news/smithsonian-national-zoos-cheetah-cub-cam-returns-five-adorable-reasons-tune"
     },
     {
-      "emoji": "🦗",
+      "emoji": "🪷",
       "tag": "Nature",
-      "headline": "A Giant Bug Makes a Big Comeback",
-      "body": "The wētāpunga is a huge insect from New Zealand, and some weigh more than a mouse! Not long ago there were very few left. Helpers at zoos raised more than 11,000 of them and set them free on safe islands.",
+      "headline": "A Waterlily So Big It Can Be Seen From Space",
+      "body": "Scientists found a brand-new kind of giant waterlily in Colombia, a country in South America. Its lily pads can grow more than 6 feet wide! A plant expert first spotted it in photos someone shared online, then traveled there to find it.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
+      "url": "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo"
+    },
+    {
+      "emoji": "🐝",
+      "tag": "World",
+      "headline": "Animals Will Star on New Money",
+      "body": "England is making new paper money with animals on it! More than 2.5 million votes picked the puffin, barn owl, bumblebee, and hedgehog. The bumblebee got the most votes of all.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
     }
   ],
-  "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! 🌊",
+  "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
   "joke": {
-    "q": "Why did the cow go to outer space?",
-    "a": "To see the moooon! 🐄"
+    "q": "Why are cheetahs so bad at hide-and-seek?",
+    "a": "Because they're always spotted! 🐆"
   },
   "riddle": {
-    "q": "The more of me someone takes, the more they leave behind. What am I?",
-    "a": "Footsteps! 👣"
+    "q": "What has to be broken before anyone can use it?",
+    "a": "An egg! 🥚"
   }
 }

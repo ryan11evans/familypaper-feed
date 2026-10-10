@@ -1,0 +1,52 @@
+{
+  "editions": [
+    {
+      "date": "2026-10-09",
+      "headlines": [
+        "Dodgers Win! On to the Next Round",
+        "Astronauts Splash Down Near L.A.!",
+        "Kittens Take a Field Trip to the Aquarium"
+      ],
+      "urls": [
+        "https://apnews.com/article/dodgers-braves-score-nlds-pages-muncy-e6f70cc747da347610157ec4b359979f",
+        "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+        "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
+      ],
+      "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! 🌅",
+      "joke": "Why are baseball games played at night?",
+      "riddle": "I have hands and a face, but I can't hold anything and I can't smile. What am I?"
+    },
+    {
+      "date": "2026-10-09",
+      "headlines": [
+        "Moon Photos for Everyone!",
+        "Two Baby Capybaras Move to the Zoo",
+        "A Giant Bug Makes a Big Comeback"
+      ],
+      "urls": [
+        "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
+        "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php",
+        "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
+      ],
+      "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! 🌊",
+      "joke": "Why did the cow go to outer space?",
+      "riddle": "The more of me someone takes, the more they leave behind. What am I?"
+    },
+    {
+      "date": "2026-10-10",
+      "headlines": [
+        "Five Cheetah Cubs Are Born!",
+        "A Waterlily So Big It Can Be Seen From Space",
+        "Animals Will Star on New Money"
+      ],
+      "urls": [
+        "https://nationalzoo.si.edu/animals/news/smithsonian-national-zoos-cheetah-cub-cam-returns-five-adorable-reasons-tune",
+        "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo",
+        "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
+      ],
+      "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
+      "joke": "Why are cheetahs so bad at hide-and-seek?",
+      "riddle": "What has to be broken before anyone can use it?"
+    }
+  ]
+}
