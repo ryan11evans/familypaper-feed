@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "news": [
     {
-      "emoji": "🐆",
-      "tag": "Animals",
-      "headline": "Five Cheetah Cubs Are Born!",
-      "body": "Five healthy cheetah cubs were born on October 5 at a Smithsonian animal center in Virginia. Their mom, Zura, is taking good care of them. People can watch the cubs snuggle and nap on a live video camera called the Cheetah Cub Cam!",
-      "source_name": "Smithsonian's National Zoo",
-      "url": "https://nationalzoo.si.edu/animals/news/smithsonian-national-zoos-cheetah-cub-cam-returns-five-adorable-reasons-tune"
+      "emoji": "🦦",
+      "tag": "Fossils",
+      "headline": "A Furry Swimmer From the Dinosaur Days",
+      "body": "Scientists found the fossil of a furry, otter-like animal that swam in lakes and rivers in China about 165 million years ago. It is called Megacauda, and it had a wide, flat tail like a beaver's. It was about 20 inches long and probably caught fish while dinosaurs walked nearby!",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/ck4g196v358po"
     },
     {
-      "emoji": "🪷",
-      "tag": "Nature",
-      "headline": "A Waterlily So Big It Can Be Seen From Space",
-      "body": "Scientists found a brand-new kind of giant waterlily in Colombia, a country in South America. Its lily pads can grow more than 6 feet wide! A plant expert first spotted it in photos someone shared online, then traveled there to find it.",
+      "emoji": "🎂",
+      "tag": "People",
+      "headline": "The World's Oldest Birthday Buddies",
+      "body": "The two oldest men in the world share the very same birthday, October 5, but they were born one year apart. João lives in Brazil and just turned 114, and Ken lives in Australia and just turned 113. They sent each other happy birthday wishes from opposite sides of the world!",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo"
+      "url": "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do"
     },
     {
-      "emoji": "🐝",
-      "tag": "World",
-      "headline": "Animals Will Star on New Money",
-      "body": "England is making new paper money with animals on it! More than 2.5 million votes picked the puffin, barn owl, bumblebee, and hedgehog. The bumblebee got the most votes of all.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
+      "emoji": "🔭",
+      "tag": "Space",
+      "headline": "A Space Picture Like a Fun-House Mirror",
+      "body": "NASA shared a new picture from the James Webb Space Telescope of a giant group of galaxies. Their gravity is so strong that it bends the light from galaxies far behind them. That makes the faraway galaxies look stretched and copied, like reflections in fun-house mirrors!",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
     }
   ],
-  "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
+  "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
   "joke": {
-    "q": "Why are cheetahs so bad at hide-and-seek?",
-    "a": "Because they're always spotted! 🐆"
+    "q": "What is a sleeping dinosaur called?",
+    "a": "A dino-snore! 🦕💤"
   },
   "riddle": {
-    "q": "What has to be broken before anyone can use it?",
-    "a": "An egg! 🥚"
+    "q": "What has a neck but no head?",
+    "a": "A bottle! 🍾"
   }
 }

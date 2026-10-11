@@ -47,6 +47,22 @@
       "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
       "joke": "Why are cheetahs so bad at hide-and-seek?",
       "riddle": "What has to be broken before anyone can use it?"
+    },
+    {
+      "date": "2026-10-11",
+      "headlines": [
+        "A Furry Swimmer From the Dinosaur Days",
+        "The World's Oldest Birthday Buddies",
+        "A Space Picture Like a Fun-House Mirror"
+      ],
+      "urls": [
+        "https://www.bbc.co.uk/newsround/articles/ck4g196v358po",
+        "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do",
+        "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+      ],
+      "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
+      "joke": "What is a sleeping dinosaur called?",
+      "riddle": "What has a neck but no head?"
     }
   ]
 }
