@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "news": [
     {
-      "emoji": "🦦",
-      "tag": "Fossils",
-      "headline": "A Furry Swimmer From the Dinosaur Days",
-      "body": "Scientists found the fossil of a furry, otter-like animal that swam in lakes and rivers in China about 165 million years ago. It is called Megacauda, and it had a wide, flat tail like a beaver's. It was about 20 inches long and probably caught fish while dinosaurs walked nearby!",
+      "emoji": "🌳",
+      "tag": "Nature",
+      "headline": "The \"Bendy Tree\" Wins Tree of the Year",
+      "body": "A 150-year-old elm tree in Northern Ireland was just named the UK's Tree of the Year. Strong winds from the sea pushed its trunk almost sideways, so people call it the \"Bendy Tree.\" Its leafy branches now stretch over a seaside path and give people shade!",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/ck4g196v358po"
+      "url": "https://www.bbc.co.uk/newsround/articles/cqvg0mg4jee3o"
     },
     {
-      "emoji": "🎂",
-      "tag": "People",
-      "headline": "The World's Oldest Birthday Buddies",
-      "body": "The two oldest men in the world share the very same birthday, October 5, but they were born one year apart. João lives in Brazil and just turned 114, and Ken lives in Australia and just turned 113. They sent each other happy birthday wishes from opposite sides of the world!",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do"
-    },
-    {
-      "emoji": "🔭",
+      "emoji": "📻",
       "tag": "Space",
-      "headline": "A Space Picture Like a Fun-House Mirror",
-      "body": "NASA shared a new picture from the James Webb Space Telescope of a giant group of galaxies. Their gravity is so strong that it bends the light from galaxies far behind them. That makes the faraway galaxies look stretched and copied, like reflections in fun-house mirrors!",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+      "headline": "Kids Talk to an Astronaut in Space by Radio",
+      "body": "Students at a school in Scotland used a radio to talk live with astronaut Joshua Kutryk on the International Space Station. He told them that everything is hard in space, even brushing teeth! He also said astronauts play card games up there, just like people do on Earth.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o"
+    },
+    {
+      "emoji": "🍯",
+      "tag": "Books",
+      "headline": "Happy 100th Birthday, Winnie-the-Pooh!",
+      "body": "The very first Winnie-the-Pooh book came out 100 years ago, in 1926. To celebrate, the Royal Mail in the UK made new stamps showing Pooh, Piglet, Tigger, Eeyore, and their friends. Pooh's stories have been translated into about 80 languages!",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
     }
   ],
-  "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
+  "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
   "joke": {
-    "q": "What is a sleeping dinosaur called?",
-    "a": "A dino-snore! 🦕💤"
+    "q": "Why did the tree go to the dentist?",
+    "a": "To get a root canal! 🌲🦷"
   },
   "riddle": {
-    "q": "What has a neck but no head?",
-    "a": "A bottle! 🍾"
+    "q": "What has lots of keys but can't open a single lock?",
+    "a": "A piano! 🎹"
   }
 }

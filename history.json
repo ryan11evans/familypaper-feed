@@ -63,6 +63,22 @@
       "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
       "joke": "What is a sleeping dinosaur called?",
       "riddle": "What has a neck but no head?"
+    },
+    {
+      "date": "2026-10-12",
+      "headlines": [
+        "The \"Bendy Tree\" Wins Tree of the Year",
+        "Kids Talk to an Astronaut in Space by Radio",
+        "Happy 100th Birthday, Winnie-the-Pooh!"
+      ],
+      "urls": [
+        "https://www.bbc.co.uk/newsround/articles/cqvg0mg4jee3o",
+        "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o",
+        "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
+      ],
+      "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
+      "joke": "Why did the tree go to the dentist?",
+      "riddle": "What has lots of keys but can't open a single lock?"
     }
   ]
 }
