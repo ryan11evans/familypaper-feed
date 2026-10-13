@@ -79,6 +79,22 @@
       "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
       "joke": "Why did the tree go to the dentist?",
       "riddle": "What has lots of keys but can't open a single lock?"
+    },
+    {
+      "date": "2026-10-13",
+      "headlines": [
+        "A Thumb-Sized Mouse Makes a Comeback",
+        "Radio Signals Heard From a Faraway Planet",
+        "Meet Maggie Moo, the First Highland Calf"
+      ],
+      "urls": [
+        "https://www.bbc.co.uk/newsround/articles/ck86zpn89l1do",
+        "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo",
+        "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
+      ],
+      "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! 🐋",
+      "joke": "Why did the mouse take a pencil to bed?",
+      "riddle": "What gets wetter the more it dries?"
     }
   ]
 }

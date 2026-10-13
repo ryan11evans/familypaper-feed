@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "news": [
     {
-      "emoji": "🌳",
+      "emoji": "🐭",
       "tag": "Nature",
-      "headline": "The \"Bendy Tree\" Wins Tree of the Year",
-      "body": "A 150-year-old elm tree in Northern Ireland was just named the UK's Tree of the Year. Strong winds from the sea pushed its trunk almost sideways, so people call it the \"Bendy Tree.\" Its leafy branches now stretch over a seaside path and give people shade!",
+      "headline": "A Thumb-Sized Mouse Makes a Comeback",
+      "body": "The Pacific pocket mouse is one of the smallest mammals in North America — shorter than a human thumb! Scientists once thought it was gone forever, but San Diego Zoo Wildlife Alliance has released about 500 of the tiny mice back into the wild in California. The team even runs a kind of \"mouse boot camp\" so the animals practice finding food and staying safe before they go free.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cqvg0mg4jee3o"
+      "url": "https://www.bbc.co.uk/newsround/articles/ck86zpn89l1do"
     },
     {
-      "emoji": "📻",
+      "emoji": "📡",
       "tag": "Space",
-      "headline": "Kids Talk to an Astronaut in Space by Radio",
-      "body": "Students at a school in Scotland used a radio to talk live with astronaut Joshua Kutryk on the International Space Station. He told them that everything is hard in space, even brushing teeth! He also said astronauts play card games up there, just like people do on Earth.",
+      "headline": "Radio Signals Heard From a Faraway Planet",
+      "body": "For the first time, scientists have picked up radio waves coming from a single planet outside our Solar System. The giant world, called Beta Pictoris b, sits about 63 light years from Earth and is many times heavier than Jupiter. Researchers think the signals are linked to huge auroras — like Earth's Northern Lights — and that the planet's magnetic field is thousands of times stronger than ours.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o"
+      "url": "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo"
     },
     {
-      "emoji": "🍯",
-      "tag": "Books",
-      "headline": "Happy 100th Birthday, Winnie-the-Pooh!",
-      "body": "The very first Winnie-the-Pooh book came out 100 years ago, in 1926. To celebrate, the Royal Mail in the UK made new stamps showing Pooh, Piglet, Tigger, Eeyore, and their friends. Pooh's stories have been translated into about 80 languages!",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
+      "emoji": "🐮",
+      "tag": "Animals",
+      "headline": "Meet Maggie Moo, the First Highland Calf",
+      "body": "A wildlife park in England is celebrating its first Highland calf, born on October 1. The fluffy newcomer is named Maggie after her mom, Morag, and visitors already call her Maggie Moo. Keepers say she bonded with the herd within an hour and quickly became a star with park guests snapping photos at the fence.",
+      "source_name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
     }
   ],
-  "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
+  "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! 🐋",
   "joke": {
-    "q": "Why did the tree go to the dentist?",
-    "a": "To get a root canal! 🌲🦷"
+    "q": "Why did the mouse take a pencil to bed?",
+    "a": "To draw the curtains! ✏️🐭"
   },
   "riddle": {
-    "q": "What has lots of keys but can't open a single lock?",
-    "a": "A piano! 🎹"
+    "q": "What gets wetter the more it dries?",
+    "a": "A towel! 🧺"
   }
 }
