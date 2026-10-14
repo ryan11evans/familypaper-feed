@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "news": [
     {
-      "emoji": "🐭",
-      "tag": "Nature",
-      "headline": "A Thumb-Sized Mouse Makes a Comeback",
-      "body": "The Pacific pocket mouse is one of the smallest mammals in North America — shorter than a human thumb! Scientists once thought it was gone forever, but San Diego Zoo Wildlife Alliance has released about 500 of the tiny mice back into the wild in California. The team even runs a kind of \"mouse boot camp\" so the animals practice finding food and staying safe before they go free.",
+      "emoji": "\ud83c\udf83",
+      "tag": "World Record",
+      "headline": "Bagheera the Giant Squash Breaks a World Record",
+      "body": "A giant squash named Bagheera has been crowned the heaviest in the world by Guinness World Records. It weighed about 2,857 pounds (1,295.8 kg) \u2014 more than a white rhino! Its grower in England spent up to six hours a day caring for it, and it drank nearly 160 gallons of water a day during the hot summer.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/ck86zpn89l1do"
+      "url": "https://www.bbc.co.uk/newsround/articles/crkg78xgwnzxo"
     },
     {
-      "emoji": "📡",
-      "tag": "Space",
-      "headline": "Radio Signals Heard From a Faraway Planet",
-      "body": "For the first time, scientists have picked up radio waves coming from a single planet outside our Solar System. The giant world, called Beta Pictoris b, sits about 63 light years from Earth and is many times heavier than Jupiter. Researchers think the signals are linked to huge auroras — like Earth's Northern Lights — and that the planet's magnetic field is thousands of times stronger than ours.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo"
-    },
-    {
-      "emoji": "🐮",
+      "emoji": "\ud83d\udc22",
       "tag": "Animals",
-      "headline": "Meet Maggie Moo, the First Highland Calf",
-      "body": "A wildlife park in England is celebrating its first Highland calf, born on October 1. The fluffy newcomer is named Maggie after her mom, Morag, and visitors already call her Maggie Moo. Keepers say she bonded with the herd within an hour and quickly became a star with park guests snapping photos at the fence.",
-      "source_name": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
+      "headline": "180,000 Giant Tortoises Counted on One Island",
+      "body": "Scientists counted about 180,000 Aldabra giant tortoises on Aldabra Atoll, a faraway island in the Indian Ocean that belongs to Seychelles. That's the most ever recorded for these gentle giants, which were once endangered and are now \"thriving and stable.\" Aldabra is one of only two places in the world where giant tortoises live in the wild \u2014 the other is the Gal\u00e1pagos Islands.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/cqdr8yd8ndd2o"
+    },
+    {
+      "emoji": "\ud83d\udef9",
+      "tag": "Sports",
+      "headline": "Sky Brown Skates to a Silver Medal",
+      "body": "Skateboarding star Sky Brown, 18, won silver at the World Skate Games in Paraguay, just behind Japan's Mizuho Hasegawa, who took gold. Sky first skated in the Olympics when she was only 13! This result puts her on track to compete for Great Britain at the 2028 Olympic Games in Los Angeles.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/c81dw4v3kgngo"
     }
   ],
-  "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! 🐋",
+  "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! \ud83c\udf83",
   "joke": {
-    "q": "Why did the mouse take a pencil to bed?",
-    "a": "To draw the curtains! ✏️🐭"
+    "q": "What do you call a really chubby pumpkin?",
+    "a": "A plumpkin! \ud83c\udf83\ud83d\ude04"
   },
   "riddle": {
-    "q": "What gets wetter the more it dries?",
-    "a": "A towel! 🧺"
+    "q": "What has one eye but can't see?",
+    "a": "A needle! \ud83e\udea1"
   }
 }
