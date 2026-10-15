@@ -12,7 +12,7 @@
         "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
         "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
       ],
-      "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! \ud83c\udf05",
+      "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! 🌅",
       "joke": "Why are baseball games played at night?",
       "riddle": "I have hands and a face, but I can't hold anything and I can't smile. What am I?"
     },
@@ -28,7 +28,7 @@
         "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php",
         "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
       ],
-      "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! \ud83c\udf0a",
+      "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! 🌊",
       "joke": "Why did the cow go to outer space?",
       "riddle": "The more of me someone takes, the more they leave behind. What am I?"
     },
@@ -44,7 +44,7 @@
         "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo",
         "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
       ],
-      "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! \ud83c\udfce\ufe0f",
+      "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
       "joke": "Why are cheetahs so bad at hide-and-seek?",
       "riddle": "What has to be broken before anyone can use it?"
     },
@@ -60,7 +60,7 @@
         "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do",
         "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
       ],
-      "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. \ud83e\uddab",
+      "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
       "joke": "What is a sleeping dinosaur called?",
       "riddle": "What has a neck but no head?"
     },
@@ -76,7 +76,7 @@
         "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o",
         "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
       ],
-      "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! \ud83d\udc1d",
+      "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
       "joke": "Why did the tree go to the dentist?",
       "riddle": "What has lots of keys but can't open a single lock?"
     },
@@ -92,7 +92,7 @@
         "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo",
         "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
       ],
-      "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! \ud83d\udc0b",
+      "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! 🐋",
       "joke": "Why did the mouse take a pencil to bed?",
       "riddle": "What gets wetter the more it dries?"
     },
@@ -108,9 +108,25 @@
         "https://www.bbc.co.uk/newsround/articles/cqdr8yd8ndd2o",
         "https://www.bbc.co.uk/newsround/articles/c81dw4v3kgngo"
       ],
-      "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! \ud83c\udf83",
+      "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! 🎃",
       "joke": "What do you call a really chubby pumpkin?",
       "riddle": "What has one eye but can't see?"
+    },
+    {
+      "date": "2026-10-15",
+      "headlines": [
+        "A Teen's Beetle Photo Wins a Big Prize",
+        "Timekeepers May Swap Leap Seconds for a Leap Hour",
+        "Student-Built Satellites Ride a Rocket to Space"
+      ],
+      "urls": [
+        "https://www.bbc.co.uk/newsround/articles/cj62yz714g21o",
+        "https://www.bbc.co.uk/newsround/articles/c6wydn0lxeveo",
+        "https://www.nasa.gov/blogs/smallsatellites/2026/10/13/nasa-launches-cubesats-to-test-communications-build-experience/"
+      ],
+      "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! 🌌",
+      "joke": "Why did the bee get such good grades?",
+      "riddle": "What can travel around the world while staying in a corner?"
     }
   ]
 }

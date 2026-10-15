@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "news": [
     {
-      "emoji": "\ud83c\udf83",
-      "tag": "World Record",
-      "headline": "Bagheera the Giant Squash Breaks a World Record",
-      "body": "A giant squash named Bagheera has been crowned the heaviest in the world by Guinness World Records. It weighed about 2,857 pounds (1,295.8 kg) \u2014 more than a white rhino! Its grower in England spent up to six hours a day caring for it, and it drank nearly 160 gallons of water a day during the hot summer.",
+      "emoji": "🪲",
+      "tag": "Nature",
+      "headline": "A Teen's Beetle Photo Wins a Big Prize",
+      "body": "Oscar Whitfield, a young photographer from the UK who lives in Zimbabwe, won the Natural History Museum's Young Wildlife Photographer of the Year award for 2026. His black-and-white picture, called \"Labour of Love,\" shows a dung beetle pushing a ball of animal poo across the sand in Zambezi National Park. Oscar lay flat on the ground so his camera was at the beetle's eye level. Amelie Davis, also from the UK, won the 10-and-under prize with a colorful bee photo she snapped on her dad's phone.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/crkg78xgwnzxo"
+      "url": "https://www.bbc.co.uk/newsround/articles/cj62yz714g21o"
     },
     {
-      "emoji": "\ud83d\udc22",
-      "tag": "Animals",
-      "headline": "180,000 Giant Tortoises Counted on One Island",
-      "body": "Scientists counted about 180,000 Aldabra giant tortoises on Aldabra Atoll, a faraway island in the Indian Ocean that belongs to Seychelles. That's the most ever recorded for these gentle giants, which were once endangered and are now \"thriving and stable.\" Aldabra is one of only two places in the world where giant tortoises live in the wild \u2014 the other is the Gal\u00e1pagos Islands.",
+      "emoji": "⏰",
+      "tag": "Science",
+      "headline": "Timekeepers May Swap Leap Seconds for a Leap Hour",
+      "body": "Since 1972, experts have added an extra \"leap second\" to our clocks 27 times so atomic time stays lined up with Earth's slightly wobbly spin. Computers sometimes get confused by those sudden extra seconds. This week, international timekeepers are voting on whether to stop leap seconds and someday use a \"leap hour\" instead. That big one-hour fix might not be needed for more than a thousand years.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cqdr8yd8ndd2o"
+      "url": "https://www.bbc.co.uk/newsround/articles/c6wydn0lxeveo"
     },
     {
-      "emoji": "\ud83d\udef9",
-      "tag": "Sports",
-      "headline": "Sky Brown Skates to a Silver Medal",
-      "body": "Skateboarding star Sky Brown, 18, won silver at the World Skate Games in Paraguay, just behind Japan's Mizuho Hasegawa, who took gold. Sky first skated in the Olympics when she was only 13! This result puts her on track to compete for Great Britain at the 2028 Olympic Games in Los Angeles.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/c81dw4v3kgngo"
+      "emoji": "🛰️",
+      "tag": "Space",
+      "headline": "Student-Built Satellites Ride a Rocket to Space",
+      "body": "Two tiny CubeSats built by university students launched toward the International Space Station aboard a SpaceX Falcon 9 rocket carrying NASA cargo. The satellites are part of a multi-school project that teaches young engineers how spacecraft work, using shared open designs. Once they leave the station, the CubeSats will test radio messages and even try sending signals between satellites. NASA's CubeSat Launch Initiative helps student teams get their inventions into orbit.",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/10/13/nasa-launches-cubesats-to-test-communications-build-experience/"
     }
   ],
-  "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! \ud83c\udf83",
+  "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! 🌌",
   "joke": {
-    "q": "What do you call a really chubby pumpkin?",
-    "a": "A plumpkin! \ud83c\udf83\ud83d\ude04"
+    "q": "Why did the bee get such good grades?",
+    "a": "Because it was always buzzing with ideas! 🐝"
   },
   "riddle": {
-    "q": "What has one eye but can't see?",
-    "a": "A needle! \ud83e\udea1"
+    "q": "What can travel around the world while staying in a corner?",
+    "a": "A stamp! 📮"
   }
 }
