@@ -1,39 +1,39 @@
 {
   "schema_version": 1,
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "news": [
     {
-      "emoji": "🪲",
-      "tag": "Nature",
-      "headline": "A Teen's Beetle Photo Wins a Big Prize",
-      "body": "Oscar Whitfield, a young photographer from the UK who lives in Zimbabwe, won the Natural History Museum's Young Wildlife Photographer of the Year award for 2026. His black-and-white picture, called \"Labour of Love,\" shows a dung beetle pushing a ball of animal poo across the sand in Zambezi National Park. Oscar lay flat on the ground so his camera was at the beetle's eye level. Amelie Davis, also from the UK, won the 10-and-under prize with a colorful bee photo she snapped on her dad's phone.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cj62yz714g21o"
-    },
-    {
-      "emoji": "⏰",
-      "tag": "Science",
-      "headline": "Timekeepers May Swap Leap Seconds for a Leap Hour",
-      "body": "Since 1972, experts have added an extra \"leap second\" to our clocks 27 times so atomic time stays lined up with Earth's slightly wobbly spin. Computers sometimes get confused by those sudden extra seconds. This week, international timekeepers are voting on whether to stop leap seconds and someday use a \"leap hour\" instead. That big one-hour fix might not be needed for more than a thousand years.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/c6wydn0lxeveo"
-    },
-    {
-      "emoji": "🛰️",
+      "emoji": "😊",
       "tag": "Space",
-      "headline": "Student-Built Satellites Ride a Rocket to Space",
-      "body": "Two tiny CubeSats built by university students launched toward the International Space Station aboard a SpaceX Falcon 9 rocket carrying NASA cargo. The satellites are part of a multi-school project that teaches young engineers how spacecraft work, using shared open designs. Once they leave the station, the CubeSats will test radio messages and even try sending signals between satellites. NASA's CubeSat Launch Initiative helps student teams get their inventions into orbit.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/10/13/nasa-launches-cubesats-to-test-communications-build-experience/"
+      "headline": "Say Cheese! A Smiley Face Spotted in Space",
+      "body": "NASA shared a Hubble Space Telescope picture of a galaxy cluster that looks like a giant smiling face. Two bright orange galaxies make the eyes, a white galaxy makes the nose, and curved streaks of light make the smile. Those streaks happen because the cluster is so heavy it bends and stretches light from galaxies behind it, like a magnifying glass. The smiley face is about 4.5 billion light-years away from Earth!",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/cmn4eqv1j15qo"
+    },
+    {
+      "emoji": "🏺",
+      "tag": "History",
+      "headline": "Divers Find the World's Oldest Known Shipwreck Cargo",
+      "body": "Underwater archaeologists off the coast of Turkey found the remains of a cargo ship from the Bronze Age, about 4,500 years ago, around when Egypt's Great Pyramid was being built. The wooden ship is long gone, but divers found about 30 big clay storage jars and three huge stone anchors on the seafloor. Some jars still have a shiny goo inside! Scientists are now testing it to learn if the ship carried olive oil, wine, or tree sap.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo"
+    },
+    {
+      "emoji": "🐧",
+      "tag": "Nature",
+      "headline": "A Team Heads to Antarctica to Fix a Penguin-Filled Base",
+      "body": "An eight-person team, including a carpenter and a mail carrier, will spend five months fixing up an old British research base on Goudier Island in Antarctica. The island is about the size of a soccer field, and they will share it with around a thousand gentoo penguins! Before leaving, the team even took lessons about penguins so they can be good neighbors. One team member will run the world's southernmost post office.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o"
     }
   ],
-  "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! 🌌",
+  "fun_fact": "Gentoo penguins are the fastest swimmers of all penguins. They can zoom through the water at about 22 miles per hour! 🐧",
   "joke": {
-    "q": "Why did the bee get such good grades?",
-    "a": "Because it was always buzzing with ideas! 🐝"
+    "q": "What do penguins wear on their heads?",
+    "a": "Ice caps! 🧊"
   },
   "riddle": {
-    "q": "What can travel around the world while staying in a corner?",
-    "a": "A stamp! 📮"
+    "q": "What has lots of teeth but can't bite?",
+    "a": "A comb! 💇"
   }
 }

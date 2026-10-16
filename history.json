@@ -127,6 +127,22 @@
       "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! 🌌",
       "joke": "Why did the bee get such good grades?",
       "riddle": "What can travel around the world while staying in a corner?"
+    },
+    {
+      "date": "2026-10-16",
+      "headlines": [
+        "Say Cheese! A Smiley Face Spotted in Space",
+        "Divers Find the World's Oldest Known Shipwreck Cargo",
+        "A Team Heads to Antarctica to Fix a Penguin-Filled Base"
+      ],
+      "urls": [
+        "https://www.bbc.co.uk/newsround/articles/cmn4eqv1j15qo",
+        "https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo",
+        "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o"
+      ],
+      "fun_fact": "Gentoo penguins are the fastest swimmers of all penguins. They can zoom through the water at about 22 miles per hour! 🐧",
+      "joke": "What do penguins wear on their heads?",
+      "riddle": "What has lots of teeth but can't bite?"
     }
   ]
 }
