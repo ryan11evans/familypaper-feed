@@ -1,39 +1,46 @@
 {
-  "schema_version": 1,
-  "date": "2026-10-16",
+  "schema_version": 2,
+  "date": "2026-10-17",
   "news": [
     {
-      "emoji": "😊",
-      "tag": "Space",
-      "headline": "Say Cheese! A Smiley Face Spotted in Space",
-      "body": "NASA shared a Hubble Space Telescope picture of a galaxy cluster that looks like a giant smiling face. Two bright orange galaxies make the eyes, a white galaxy makes the nose, and curved streaks of light make the smile. Those streaks happen because the cluster is so heavy it bends and stretches light from galaxies behind it, like a magnifying glass. The smiley face is about 4.5 billion light-years away from Earth!",
+      "emoji": "🐕",
+      "tag": "Animals",
+      "headline": "A Super-Sniffer Labrador Is Animal of the Year",
+      "body": "A black Labrador named Sgiath (pronounced \"Skee-ah\") from the Scottish Highlands was named Animal of the Year by the animal charity IFAW. Sgiath used to help find lost hikers in the mountains, but now she sniffs out a slimy sea creature nicknamed \"sea vomit\" that harms ocean wildlife. When she finds it, she stands very still and stares instead of barking. She has already found hundreds of patches of the gooey stuff!",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cmn4eqv1j15qo"
+      "url": "https://www.bbc.co.uk/newsround/articles/c5gm0jn4zkvjo"
     },
     {
-      "emoji": "🏺",
-      "tag": "History",
-      "headline": "Divers Find the World's Oldest Known Shipwreck Cargo",
-      "body": "Underwater archaeologists off the coast of Turkey found the remains of a cargo ship from the Bronze Age, about 4,500 years ago, around when Egypt's Great Pyramid was being built. The wooden ship is long gone, but divers found about 30 big clay storage jars and three huge stone anchors on the seafloor. Some jars still have a shiny goo inside! Scientists are now testing it to learn if the ship carried olive oil, wine, or tree sap.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo"
-    },
-    {
-      "emoji": "🐧",
+      "emoji": "🐸",
       "tag": "Nature",
-      "headline": "A Team Heads to Antarctica to Fix a Penguin-Filled Base",
-      "body": "An eight-person team, including a carpenter and a mail carrier, will spend five months fixing up an old British research base on Goudier Island in Antarctica. The island is about the size of a soccer field, and they will share it with around a thousand gentoo penguins! Before leaving, the team even took lessons about penguins so they can be good neighbors. One team member will run the world's southernmost post office.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o"
+      "headline": "15 Teeny-Tiny Froglets Hatch in a World First",
+      "body": "London Zoo welcomed 15 baby Afia Birago's puddle frogs, one of the rarest and smallest frogs on Earth. Each froglet is about as big as the tip of a pencil! It is the first time this kind of frog has ever been born in a zoo. In the wild, they live in just two pools in a forest in Ghana, so keepers are sharing what they learn to help the frogs back home.",
+      "source_name": "London Zoo",
+      "url": "https://www.londonzoo.org/zoo-stories/news/rare-froglets-born-london-zoo-world-first"
+    },
+    {
+      "emoji": "🛹",
+      "tag": "Sports",
+      "headline": "A Skateboarder Zooms Into the Record Books",
+      "body": "Pro skateboarder Diego Poncelet set a new world record for the fastest standing ride down a hill: about 94 miles per hour! He raced down a long, curvy road in Quebec, Canada, wearing a special suit and riding a board with a smooth shell to slice through the wind. Guinness World Records says he went as fast as hurricane winds. He even beat the old record held by his friend.",
+      "source_name": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2026/10/redbull-skateboarder-breaks-record-for-fastest-downhill-speed-ever-topping-over-90-mph"
     }
   ],
-  "fun_fact": "Gentoo penguins are the fastest swimmers of all penguins. They can zoom through the water at about 22 miles per hour! 🐧",
+  "fun_fact": "Most frogs don't drink water with their mouths. They soak it up through their skin, especially a special patch on their belly! 🐸",
   "joke": {
-    "q": "What do penguins wear on their heads?",
-    "a": "Ice caps! 🧊"
+    "q": "Why are frogs always so happy?",
+    "a": "They eat whatever bugs them! 🪰"
   },
   "riddle": {
-    "q": "What has lots of teeth but can't bite?",
-    "a": "A comb! 💇"
-  }
+    "q": "What has four wheels and flies?",
+    "a": "A garbage truck! 🚛"
+  },
+  "word_of_the_day": {
+    "word": "nimble",
+    "meaning": "able to move quickly and lightly",
+    "sentence": "The nimble froglet hopped from leaf to leaf without a splash."
+  },
+  "this_day_in_history": "On October 17, 1979, Mother Teresa was awarded the Nobel Peace Prize for her work helping people in need.",
+  "did_you_know": "A group of frogs is called an army, and a group of owls is called a parliament!"
 }
