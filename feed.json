@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "news": [
     {
-      "emoji": "🐕",
+      "emoji": "🎥",
       "tag": "Animals",
-      "headline": "A Super-Sniffer Labrador Is Animal of the Year",
-      "body": "A black Labrador named Sgiath (pronounced \"Skee-ah\") from the Scottish Highlands was named Animal of the Year by the animal charity IFAW. Sgiath used to help find lost hikers in the mountains, but now she sniffs out a slimy sea creature nicknamed \"sea vomit\" that harms ocean wildlife. When she finds it, she stands very still and stares instead of barking. She has already found hundreds of patches of the gooey stuff!",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/c5gm0jn4zkvjo"
+      "headline": "A Baby Giant Armadillo Caught on Camera!",
+      "body": "Scientists in the Amazon rainforest in Peru set up a hidden camera and filmed something super rare: a baby giant armadillo exploring the forest. Giant armadillos are the biggest armadillos in the world, and they are so hard to spot that some teams wait more than a year to film just one. Local Indigenous experts helped pick the perfect spot. Giant armadillos dig big burrows that lots of other animals use as homes, too!",
+      "source_name": "Discover Wildlife",
+      "url": "https://www.discoverwildlife.com/animal-facts/mammals/baby-giant-armadillo-camera-trap-amazon"
     },
     {
-      "emoji": "🐸",
+      "emoji": "🪐",
+      "tag": "Space",
+      "headline": "Webb Telescope Spots Weather on a Faraway World",
+      "body": "The James Webb Space Telescope spent 11 hours watching WISE 0855, a \"failed star\" called a brown dwarf. It is about as big as Jupiter, about 7.5 light-years away, and the coldest one ever found, around 17 degrees Fahrenheit. Scientists saw its water clouds getting thicker and thinner as it spun, a lot like weather on Earth! It is the first time anyone has seen changing water clouds outside our solar system.",
+      "source_name": "University of Arizona",
+      "url": "https://news.arizona.edu/news/discovery-marks-first-detection-variable-water-clouds-outside-our-solar-system"
+    },
+    {
+      "emoji": "🐯",
       "tag": "Nature",
-      "headline": "15 Teeny-Tiny Froglets Hatch in a World First",
-      "body": "London Zoo welcomed 15 baby Afia Birago's puddle frogs, one of the rarest and smallest frogs on Earth. Each froglet is about as big as the tip of a pencil! It is the first time this kind of frog has ever been born in a zoo. In the wild, they live in just two pools in a forest in Ghana, so keepers are sharing what they learn to help the frogs back home.",
-      "source_name": "London Zoo",
-      "url": "https://www.londonzoo.org/zoo-stories/news/rare-froglets-born-london-zoo-world-first"
-    },
-    {
-      "emoji": "🛹",
-      "tag": "Sports",
-      "headline": "A Skateboarder Zooms Into the Record Books",
-      "body": "Pro skateboarder Diego Poncelet set a new world record for the fastest standing ride down a hill: about 94 miles per hour! He raced down a long, curvy road in Quebec, Canada, wearing a special suit and riding a board with a smooth shell to slice through the wind. Guinness World Records says he went as fast as hurricane winds. He even beat the old record held by his friend.",
-      "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/2026/10/redbull-skateboarder-breaks-record-for-fastest-downhill-speed-ever-topping-over-90-mph"
+      "headline": "Tigers, Tuna and Turtles Make a Comeback",
+      "body": "A big new report from the wildlife charity WWF shares some happy news. Wild tigers have almost doubled in about 15 years, from about 3,200 to about 5,700. Bluefin tuna as big as dolphins are leaping off the coast of the UK again after almost disappearing. And green sea turtles are doing so well that they are no longer listed as endangered. Scientists say it shows that helping nature really works.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/cv0ldpngd9g7o"
     }
   ],
-  "fun_fact": "Most frogs don't drink water with their mouths. They soak it up through their skin, especially a special patch on their belly! 🐸",
+  "fun_fact": "Nine-banded armadillos almost always have four identical babies at a time. They're born as quadruplets! 🐣",
   "joke": {
-    "q": "Why are frogs always so happy?",
-    "a": "They eat whatever bugs them! 🪰"
+    "q": "What do clouds wear under their clothes?",
+    "a": "Thunderwear! ⛈️"
   },
   "riddle": {
-    "q": "What has four wheels and flies?",
-    "a": "A garbage truck! 🚛"
+    "q": "What kind of room has no doors or windows?",
+    "a": "A mushroom! 🍄"
   },
   "word_of_the_day": {
-    "word": "nimble",
-    "meaning": "able to move quickly and lightly",
-    "sentence": "The nimble froglet hopped from leaf to leaf without a splash."
+    "word": "thrive",
+    "meaning": "to grow strong and healthy",
+    "sentence": "Green sea turtles began to thrive once people protected the beaches where they lay eggs."
   },
-  "this_day_in_history": "On October 17, 1979, Mother Teresa was awarded the Nobel Peace Prize for her work helping people in need.",
-  "did_you_know": "A group of frogs is called an army, and a group of owls is called a parliament!"
+  "this_day_in_history": "On October 18, 2019, astronauts Christina Koch and Jessica Meir made the first spacewalk ever done by an all-woman team, outside the space station.",
+  "did_you_know": "Tigers have striped skin, not just striped fur! Even if a tiger's fur were shaved off, its stripes would still show. 🐅"
 }
