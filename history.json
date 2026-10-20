@@ -200,6 +200,25 @@
       "word_of_the_day": "dense",
       "this_day_in_history": "On October 19, 2017, a telescope in Hawaii spotted 'Oumuamua, the first object ever seen visiting our solar system from beyond it.",
       "did_you_know": "Pigs can hardly sweat at all, so they roll around in mud to stay cool. The mud also works like sunscreen for their skin! 🐖"
+    },
+    {
+      "date": "2026-10-20",
+      "headlines": [
+        "A Spacecraft Blasts Off to Visit the Moons of Mars",
+        "A 6-Year-Old Finds a Super-Rare Fossil",
+        "Eight Capybara Babies Draw Record Crowds"
+      ],
+      "urls": [
+        "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+        "https://outdoornebraska.gov/about/press-events/news/6-year-old-finds-rare-fossil-at-schramm/",
+        "https://www.bbc.com/news/articles/cw7vplvjd3elo"
+      ],
+      "fun_fact": "Mars has the tallest volcano in the whole solar system, Olympus Mons. It's about two and a half times as tall as Mount Everest! 🌋",
+      "joke": "What kind of music do planets like best?",
+      "riddle": "What goes up but never comes down?",
+      "word_of_the_day": "sample",
+      "this_day_in_history": "On October 20, 1973, the Sydney Opera House in Australia opened. Its famous roof looks like giant white sails!",
+      "did_you_know": "Mars's moon Phobos is slowly creeping closer to Mars, about 6 feet every 100 years. 🌑"
     }
   ]
 }
