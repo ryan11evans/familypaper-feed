@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "news": [
     {
-      "emoji": "🚀",
-      "tag": "Space",
-      "headline": "A Spacecraft Blasts Off to Visit the Moons of Mars",
-      "body": "Japan's space agency launched a spacecraft called MMX on a giant H3 rocket. It is headed for Mars, where it will study the planet's two lumpy, potato-shaped moons, Phobos and Deimos. The plan is to land on Phobos twice, scoop up a little bit of its soil, and bring it back to Earth in 2031. A small rover from France and Germany will ride along, too. Scientists hope the soil will solve a big mystery: where did Mars get its moons?",
-      "source_name": "Space.com",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos"
-    },
-    {
-      "emoji": "🪨",
-      "tag": "Science",
-      "headline": "A 6-Year-Old Finds a Super-Rare Fossil",
-      "body": "Leo, a 6-year-old from Nebraska, flipped over a big rock at a state park, hoping to find a fossil. He found something much rarer: the print of a conulariid, an ancient sea animal shaped like an upside-down pyramid. These soft, jellyfish-like creatures lived hundreds of millions of years ago and almost never turned into fossils. It is the first one found in Nebraska in more than 55 years! The fossil will stay at the park so other kids can learn from it.",
-      "source_name": "Nebraska Game and Parks",
-      "url": "https://outdoornebraska.gov/about/press-events/news/6-year-old-finds-rare-fossil-at-schramm/"
-    },
-    {
-      "emoji": "🐾",
+      "emoji": "🦓",
       "tag": "Animals",
-      "headline": "Eight Capybara Babies Draw Record Crowds",
-      "body": "A wildlife park on the Isle of Man, an island between England and Ireland, welcomed eight capybara pups! Two moms had their babies just days apart. So many people came to see them that the park had its busiest October weekend ever. Capybaras come from South America and love wet, marshy places. The park says the cute pups are helping visitors learn why wetlands are so important for animals and people.",
-      "source_name": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cw7vplvjd3elo"
+      "headline": "A Baby Zebra Named Astra Is Born",
+      "body": "The Oklahoma City Zoo welcomed a brand-new zebra foal on Monday! Her name is Astra, which means \"star\" in Greek, and she weighed 82 pounds when she was born. That's about as heavy as a big dog! All the zebras at the zoo get space-themed names. Astra is a Plains zebra, the smallest and most common kind of zebra. Plains zebras come from the grasslands of eastern and southern Africa, and zoos are helping them because they are losing some of their wild homes.",
+      "source_name": "News 9",
+      "url": "https://www.news9.com/oklahoma-city-news/oklahoma-city-zoo-birth-female-plains-zebra-astra"
+    },
+    {
+      "emoji": "💨",
+      "tag": "Inventions",
+      "headline": "Kids Dream Up the World's Biggest Hairdryer",
+      "body": "More than 5,000 kids ages 4 to 11 sent in ideas for a record-breaking invention. The winners, two girls named Kiki and Thea, picked a giant hairdryer! Engineers from the YouTube channel Kids Invent Stuff built it in three weeks. It is 1.6 meters (about 5 feet 3 inches) tall, roughly as tall as a grown-up, and about eight times bigger than a normal hairdryer. It takes four people to move it. Guinness World Records made it official, and yes, it really dried someone's hair!",
+      "source_name": "Guinness World Records Kids",
+      "url": "https://kids.guinnessworldrecords.com/news/2026/10/this-hairdryer-is-taller-than-a-zebra"
+    },
+    {
+      "emoji": "🚁",
+      "tag": "Space",
+      "headline": "New Blades Could Help Mars Helicopters Fly Farther",
+      "body": "In 2021, a little helicopter named Ingenuity became the first aircraft to fly on another planet: Mars! Now NASA engineers are testing new helicopter blades that are thinner and sharper. Mars has very thin air, so flying there is tricky. Computer tests show the new blades could let a Mars helicopter fly about 11 miles in one trip, instead of less than half a mile like Ingenuity. The blades aren't ready for Mars yet, but they could help future helicopters explore much more of the Red Planet.",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
     }
   ],
-  "fun_fact": "Mars has the tallest volcano in the whole solar system, Olympus Mons. It's about two and a half times as tall as Mount Everest! 🌋",
+  "fun_fact": "A zebra's stripes are like a fingerprint. No two zebras in the whole world have exactly the same stripe pattern! 🦓",
   "joke": {
-    "q": "What kind of music do planets like best?",
-    "a": "Nep-tunes! 🪐"
+    "q": "Why do zebras love old movies?",
+    "a": "Because they're in black and white! 🎬"
   },
   "riddle": {
-    "q": "What goes up but never comes down?",
-    "a": "Your age! 🎂"
+    "q": "What can you catch but never throw?",
+    "a": "A cold! 🤧"
   },
   "word_of_the_day": {
-    "word": "sample",
-    "meaning": "a small piece of something that shows what the rest of it is like",
-    "sentence": "The MMX spacecraft will scoop up a tiny sample of soil from a moon of Mars and carry it all the way back to Earth."
+    "word": "enormous",
+    "meaning": "very, very big",
+    "sentence": "Two kids dreamed up an enormous hairdryer that is as tall as a grown-up!"
   },
-  "this_day_in_history": "On October 20, 1973, the Sydney Opera House in Australia opened. Its famous roof looks like giant white sails!",
-  "did_you_know": "Mars's moon Phobos is slowly creeping closer to Mars, about 6 feet every 100 years. 🌑"
+  "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! 🐚",
+  "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. 🌀"
 }

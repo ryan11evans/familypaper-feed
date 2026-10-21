@@ -219,6 +219,25 @@
       "word_of_the_day": "sample",
       "this_day_in_history": "On October 20, 1973, the Sydney Opera House in Australia opened. Its famous roof looks like giant white sails!",
       "did_you_know": "Mars's moon Phobos is slowly creeping closer to Mars, about 6 feet every 100 years. 🌑"
+    },
+    {
+      "date": "2026-10-21",
+      "headlines": [
+        "A Baby Zebra Named Astra Is Born",
+        "Kids Dream Up the World's Biggest Hairdryer",
+        "New Blades Could Help Mars Helicopters Fly Farther"
+      ],
+      "urls": [
+        "https://www.news9.com/oklahoma-city-news/oklahoma-city-zoo-birth-female-plains-zebra-astra",
+        "https://kids.guinnessworldrecords.com/news/2026/10/this-hairdryer-is-taller-than-a-zebra",
+        "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+      ],
+      "fun_fact": "A zebra's stripes are like a fingerprint. No two zebras in the whole world have exactly the same stripe pattern! 🦓",
+      "joke": "Why do zebras love old movies?",
+      "riddle": "What can you catch but never throw?",
+      "word_of_the_day": "enormous",
+      "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! 🐚",
+      "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. 🌀"
     }
   ]
 }
