@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "news": [
     {
-      "emoji": "🦓",
-      "tag": "Animals",
-      "headline": "A Baby Zebra Named Astra Is Born",
-      "body": "The Oklahoma City Zoo welcomed a brand-new zebra foal on Monday! Her name is Astra, which means \"star\" in Greek, and she weighed 82 pounds when she was born. That's about as heavy as a big dog! All the zebras at the zoo get space-themed names. Astra is a Plains zebra, the smallest and most common kind of zebra. Plains zebras come from the grasslands of eastern and southern Africa, and zoos are helping them because they are losing some of their wild homes.",
-      "source_name": "News 9",
-      "url": "https://www.news9.com/oklahoma-city-news/oklahoma-city-zoo-birth-female-plains-zebra-astra"
-    },
-    {
-      "emoji": "💨",
-      "tag": "Inventions",
-      "headline": "Kids Dream Up the World's Biggest Hairdryer",
-      "body": "More than 5,000 kids ages 4 to 11 sent in ideas for a record-breaking invention. The winners, two girls named Kiki and Thea, picked a giant hairdryer! Engineers from the YouTube channel Kids Invent Stuff built it in three weeks. It is 1.6 meters (about 5 feet 3 inches) tall, roughly as tall as a grown-up, and about eight times bigger than a normal hairdryer. It takes four people to move it. Guinness World Records made it official, and yes, it really dried someone's hair!",
-      "source_name": "Guinness World Records Kids",
-      "url": "https://kids.guinnessworldrecords.com/news/2026/10/this-hairdryer-is-taller-than-a-zebra"
-    },
-    {
-      "emoji": "🚁",
+      "emoji": "🚙",
       "tag": "Space",
-      "headline": "New Blades Could Help Mars Helicopters Fly Farther",
-      "body": "In 2021, a little helicopter named Ingenuity became the first aircraft to fly on another planet: Mars! Now NASA engineers are testing new helicopter blades that are thinner and sharper. Mars has very thin air, so flying there is tricky. Computer tests show the new blades could let a Mars helicopter fly about 11 miles in one trip, instead of less than half a mile like Ingenuity. The blades aren't ready for Mars yet, but they could help future helicopters explore much more of the Red Planet.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+      "headline": "A Mars Rover Sets a New Driving Record",
+      "body": "NASA's Perseverance rover has now driven farther than any vehicle on another world! On October 11, its trip meter reached about 28 miles (45 kilometers). That might not sound far for a car, but on Mars the rover has to steer around giant boulders and up steep, rocky slopes all by itself. Engineers taught it new tricks, like figuring out exactly where it is by comparing its own photos with pictures taken from space. Its practice twin on Earth even got a Guinness World Records plaque!",
+      "source_name": "NASA Science",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/"
+    },
+    {
+      "emoji": "🤠",
+      "tag": "Records",
+      "headline": "The World's Biggest Cowboy Hat Lands in Texas",
+      "body": "A racetrack in Austin, Texas, just showed off a cowboy hat sculpture so big it set a world record! The hat is 43 feet wide, 47 feet long, and 17 feet tall. That's taller than a giraffe! A judge from Guinness World Records measured it on Monday and named it the world's largest fiberglass sculpture of a hat. The giant hat was built to celebrate a big Formula 1 car race coming to the track. Good luck finding a cowboy big enough to wear it!",
+      "source_name": "UPI",
+      "url": "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/"
+    },
+    {
+      "emoji": "🍚",
+      "tag": "Kindness",
+      "headline": "Helpers Pack Almost a Million Meals in One Hour",
+      "body": "More than 1,000 volunteers in Des Moines, Iowa, teamed up to pack 990,864 meals in just one hour, a new world record! Working at 60 tables, they filled bags with rice, soy, dried vegetables, and vitamins. Each meal can be cooked with just boiling water. Half of the meals will go to people in Iowa and the rest to communities around the world. Together, they could give about 2,000 children healthy food for a whole year. Teamwork really adds up!",
+      "source_name": "World Food Prize",
+      "url": "https://www.worldfoodprize.org/blog/2026/10/20/volunteers-pack-990864-meals-to-take-guinness-world-records-title-for-the-most-hunger-relief-meals-packaged-in-one-hour/"
     }
   ],
-  "fun_fact": "A zebra's stripes are like a fingerprint. No two zebras in the whole world have exactly the same stripe pattern! 🦓",
+  "fun_fact": "A day on Mars is called a sol, and it lasts about 40 minutes longer than a day on Earth. That's a little extra time to play! 🔴",
   "joke": {
-    "q": "Why do zebras love old movies?",
-    "a": "Because they're in black and white! 🎬"
+    "q": "Why did the robot go on vacation?",
+    "a": "It needed to recharge its batteries! 🔋"
   },
   "riddle": {
-    "q": "What can you catch but never throw?",
-    "a": "A cold! 🤧"
+    "q": "What has lots of rings but no fingers?",
+    "a": "A tree! 🌳"
   },
   "word_of_the_day": {
-    "word": "enormous",
-    "meaning": "very, very big",
-    "sentence": "Two kids dreamed up an enormous hairdryer that is as tall as a grown-up!"
+    "word": "volunteer",
+    "meaning": "a person who chooses to help without getting paid",
+    "sentence": "Every volunteer at the table helped pack meals for kids around the world."
   },
-  "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! 🐚",
-  "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. 🌀"
+  "this_day_in_history": "On October 22, 1797, André-Jacques Garnerin jumped from a hot-air balloon high above Paris and floated down safely with a parachute, the first jump of its kind! 🪂",
+  "did_you_know": "Rice is a main food for more than half of all the people in the world. Some rice plants grow in fields flooded with water! 🌾"
 }

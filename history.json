@@ -238,6 +238,25 @@
       "word_of_the_day": "enormous",
       "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! 🐚",
       "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. 🌀"
+    },
+    {
+      "date": "2026-10-22",
+      "headlines": [
+        "A Mars Rover Sets a New Driving Record",
+        "The World's Biggest Cowboy Hat Lands in Texas",
+        "Helpers Pack Almost a Million Meals in One Hour"
+      ],
+      "urls": [
+        "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+        "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/",
+        "https://www.worldfoodprize.org/blog/2026/10/20/volunteers-pack-990864-meals-to-take-guinness-world-records-title-for-the-most-hunger-relief-meals-packaged-in-one-hour/"
+      ],
+      "fun_fact": "A day on Mars is called a sol, and it lasts about 40 minutes longer than a day on Earth. That's a little extra time to play! 🔴",
+      "joke": "Why did the robot go on vacation?",
+      "riddle": "What has lots of rings but no fingers?",
+      "word_of_the_day": "volunteer",
+      "this_day_in_history": "On October 22, 1797, André-Jacques Garnerin jumped from a hot-air balloon high above Paris and floated down safely with a parachute, the first jump of its kind! 🪂",
+      "did_you_know": "Rice is a main food for more than half of all the people in the world. Some rice plants grow in fields flooded with water! 🌾"
     }
   ]
 }
