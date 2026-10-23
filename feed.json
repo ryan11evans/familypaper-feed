@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "news": [
     {
-      "emoji": "🚙",
-      "tag": "Space",
-      "headline": "A Mars Rover Sets a New Driving Record",
-      "body": "NASA's Perseverance rover has now driven farther than any vehicle on another world! On October 11, its trip meter reached about 28 miles (45 kilometers). That might not sound far for a car, but on Mars the rover has to steer around giant boulders and up steep, rocky slopes all by itself. Engineers taught it new tricks, like figuring out exactly where it is by comparing its own photos with pictures taken from space. Its practice twin on Earth even got a Guinness World Records plaque!",
-      "source_name": "NASA Science",
-      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/"
+      "emoji": "🦁",
+      "tag": "Animals",
+      "headline": "Two Lion Cubs Are Born in Scotland",
+      "body": "Edinburgh Zoo in Scotland has two brand-new Asiatic lion cubs, its first lion cubs in seven years! Their mom, Bindee, gave birth on October 11, and keepers watched it all on cameras inside her cozy den. This is Bindee's first litter, and keepers say she is doing a wonderful job. Dad, named Jay, is staying his usual calm, relaxed self. The cubs will stay snug in the den for a few months before they come out to explore. Asiatic lions are endangered, so every new cub is a big deal!",
+      "source_name": "Edinburgh Zoo",
+      "url": "https://www.edinburghzoo.org.uk/news/edinburgh-zoo-celebrates-roaring-success-birth-first-lion-cubs-seven-years"
     },
     {
-      "emoji": "🤠",
+      "emoji": "🏆",
       "tag": "Records",
-      "headline": "The World's Biggest Cowboy Hat Lands in Texas",
-      "body": "A racetrack in Austin, Texas, just showed off a cowboy hat sculpture so big it set a world record! The hat is 43 feet wide, 47 feet long, and 17 feet tall. That's taller than a giraffe! A judge from Guinness World Records measured it on Monday and named it the world's largest fiberglass sculpture of a hat. The giant hat was built to celebrate a big Formula 1 car race coming to the track. Good luck finding a cowboy big enough to wear it!",
-      "source_name": "UPI",
-      "url": "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/"
+      "headline": "A Whole Family of World Record Holders",
+      "body": "Everyone in the Rush family from Boise, Idaho, now holds a Guinness World Records title, even 3-year-old Felicity! Her dad, David, has broken more than 400 records over the years. He teamed up with each of his kids for their records. One son helped make a sandwich blindfolded with no hands in 36.5 seconds. Another cleared a game of Hungry Hungry Hippos in just 5.36 seconds! David says he has also failed thousands of times, but he keeps practicing because you can get better at anything.",
+      "source_name": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2026/10/meet-the-record-breaking-rush-family-as-davids-wife-and-kids-join-him-in-gwr-glory"
     },
     {
-      "emoji": "🍚",
-      "tag": "Kindness",
-      "headline": "Helpers Pack Almost a Million Meals in One Hour",
-      "body": "More than 1,000 volunteers in Des Moines, Iowa, teamed up to pack 990,864 meals in just one hour, a new world record! Working at 60 tables, they filled bags with rice, soy, dried vegetables, and vitamins. Each meal can be cooked with just boiling water. Half of the meals will go to people in Iowa and the rest to communities around the world. Together, they could give about 2,000 children healthy food for a whole year. Teamwork really adds up!",
-      "source_name": "World Food Prize",
-      "url": "https://www.worldfoodprize.org/blog/2026/10/20/volunteers-pack-990864-meals-to-take-guinness-world-records-title-for-the-most-hunger-relief-meals-packaged-in-one-hour/"
+      "emoji": "👻",
+      "tag": "Space",
+      "headline": "Sky Watchers Find New \"Ghosts\" in Space",
+      "body": "Just in time for Halloween, a team of sky watchers spotted three faint, glowing clouds hiding in the star pattern called Cassiopeia. They sit near two famous clouds nicknamed the Ghosts of Cassiopeia. The team needed 100 hours of looking through a telescope with a special filter to see them! The new clouds glow blue because they contain a gas called oxygen that has been energized. Nobody knows for sure what made them glow, so scientists are calling it a mystery to solve. Boo!",
+      "source_name": "NASA Science",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
     }
   ],
-  "fun_fact": "A day on Mars is called a sol, and it lasts about 40 minutes longer than a day on Earth. That's a little extra time to play! 🔴",
+  "fun_fact": "A lion's roar is so loud it can be heard up to 5 miles away. That's like hearing someone call your name from the next town over! 🦁",
   "joke": {
-    "q": "Why did the robot go on vacation?",
-    "a": "It needed to recharge its batteries! 🔋"
+    "q": "Why are ghosts such bad liars?",
+    "a": "Because you can see right through them! 👻"
   },
   "riddle": {
-    "q": "What has lots of rings but no fingers?",
-    "a": "A tree! 🌳"
+    "q": "What has a bottom at the top?",
+    "a": "Your legs! 🦵"
   },
   "word_of_the_day": {
-    "word": "volunteer",
-    "meaning": "a person who chooses to help without getting paid",
-    "sentence": "Every volunteer at the table helped pack meals for kids around the world."
+    "word": "persevere",
+    "meaning": "to keep trying even when something is hard",
+    "sentence": "The record breaker failed many times, but he chose to persevere until he finally won."
   },
-  "this_day_in_history": "On October 22, 1797, André-Jacques Garnerin jumped from a hot-air balloon high above Paris and floated down safely with a parachute, the first jump of its kind! 🪂",
-  "did_you_know": "Rice is a main food for more than half of all the people in the world. Some rice plants grow in fields flooded with water! 🌾"
+  "this_day_in_history": "On October 23, 2001, Apple introduced the very first iPod, a music player small enough for a pocket that could hold about 1,000 songs! 🎵",
+  "did_you_know": "Wild Asiatic lions live in just one place on Earth: the Gir Forest area of India. Their numbers have grown a lot thanks to people protecting them. 🌳"
 }
