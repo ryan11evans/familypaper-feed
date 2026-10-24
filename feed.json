@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "news": [
     {
-      "emoji": "🦁",
-      "tag": "Animals",
-      "headline": "Two Lion Cubs Are Born in Scotland",
-      "body": "Edinburgh Zoo in Scotland has two brand-new Asiatic lion cubs, its first lion cubs in seven years! Their mom, Bindee, gave birth on October 11, and keepers watched it all on cameras inside her cozy den. This is Bindee's first litter, and keepers say she is doing a wonderful job. Dad, named Jay, is staying his usual calm, relaxed self. The cubs will stay snug in the den for a few months before they come out to explore. Asiatic lions are endangered, so every new cub is a big deal!",
-      "source_name": "Edinburgh Zoo",
-      "url": "https://www.edinburghzoo.org.uk/news/edinburgh-zoo-celebrates-roaring-success-birth-first-lion-cubs-seven-years"
-    },
-    {
-      "emoji": "🏆",
+      "emoji": "🎃",
       "tag": "Records",
-      "headline": "A Whole Family of World Record Holders",
-      "body": "Everyone in the Rush family from Boise, Idaho, now holds a Guinness World Records title, even 3-year-old Felicity! Her dad, David, has broken more than 400 records over the years. He teamed up with each of his kids for their records. One son helped make a sandwich blindfolded with no hands in 36.5 seconds. Another cleared a game of Hungry Hungry Hippos in just 5.36 seconds! David says he has also failed thousands of times, but he keeps practicing because you can get better at anything.",
+      "headline": "The First 3,000-Pound Pumpkin Ever!",
+      "body": "A grower named Ron Wallace from Rhode Island just set a new world record for the heaviest pumpkin. His giant gourd weighed 3,156 pounds, about as much as a small car! It is the first pumpkin, and the first fruit of any kind, to ever weigh more than 3,000 pounds. Ron planted the seed in his greenhouse in April, and it grew for almost six months. Amazingly, he beat a record that had been set in England just one week earlier, by nearly 300 pounds!",
       "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/2026/10/meet-the-record-breaking-rush-family-as-davids-wife-and-kids-join-him-in-gwr-glory"
+      "url": "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week"
     },
     {
-      "emoji": "👻",
-      "tag": "Space",
-      "headline": "Sky Watchers Find New \"Ghosts\" in Space",
-      "body": "Just in time for Halloween, a team of sky watchers spotted three faint, glowing clouds hiding in the star pattern called Cassiopeia. They sit near two famous clouds nicknamed the Ghosts of Cassiopeia. The team needed 100 hours of looking through a telescope with a special filter to see them! The new clouds glow blue because they contain a gas called oxygen that has been energized. Nobody knows for sure what made them glow, so scientists are calling it a mystery to solve. Boo!",
-      "source_name": "NASA Science",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
+      "emoji": "✈️",
+      "tag": "Science",
+      "headline": "A New Pilot Flies NASA's Super-Quiet Speedy Jet",
+      "body": "NASA has a special airplane called the X-59 that can fly faster than the speed of sound. Usually that makes a loud BOOM, but the X-59 is shaped to make only a soft thump instead. This week, NASA test pilot Mike Lippert flew it for the very first time over the California desert. He zoomed to 1.4 times the speed of sound and climbed to 55,000 feet, way higher than regular airliners fly. He said it was a dream come true!",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/"
+    },
+    {
+      "emoji": "🐌",
+      "tag": "Animals",
+      "headline": "A See-Through Snail Is Found in a Dark Cave",
+      "body": "Scientists exploring a cave high in the mountains of China found a brand-new kind of snail. It is tiny, has no eyes at all, and its shell is so clear you can almost see through it! The snail lives in shallow water where sunlight never reaches, so it doesn't need eyes. It is the first freshwater cave snail ever found in China. Scientists named it Erhaia dijiang and hope to learn more about the secret creatures living underground.",
+      "source_name": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/10/261019093445.htm"
     }
   ],
-  "fun_fact": "A lion's roar is so loud it can be heard up to 5 miles away. That's like hearing someone call your name from the next town over! 🦁",
+  "fun_fact": "Snails have thousands of teeny-tiny teeth on a ribbon-shaped tongue. They use it like a file to scrape up their food! 🐌",
   "joke": {
-    "q": "Why are ghosts such bad liars?",
-    "a": "Because you can see right through them! 👻"
+    "q": "What do you call a snail on a ship?",
+    "a": "A snailor! ⛵"
   },
   "riddle": {
-    "q": "What has a bottom at the top?",
-    "a": "Your legs! 🦵"
+    "q": "What has lots of words but never speaks?",
+    "a": "A book! 📖"
   },
   "word_of_the_day": {
-    "word": "persevere",
-    "meaning": "to keep trying even when something is hard",
-    "sentence": "The record breaker failed many times, but he chose to persevere until he finally won."
+    "word": "supersonic",
+    "meaning": "faster than the speed of sound",
+    "sentence": "The supersonic jet flew so fast that it zoomed past its own sound."
   },
-  "this_day_in_history": "On October 23, 2001, Apple introduced the very first iPod, a music player small enough for a pocket that could hold about 1,000 songs! 🎵",
-  "did_you_know": "Wild Asiatic lions live in just one place on Earth: the Gir Forest area of India. Their numbers have grown a lot thanks to people protecting them. 🌳"
+  "this_day_in_history": "On October 24, 1945, the United Nations was officially started so countries around the world could work together for peace. That's why today is United Nations Day! 🌍",
+  "did_you_know": "A pumpkin is about 90 percent water. That's why giant pumpkins need to drink lots and lots of water to grow so big! 💧"
 }
