@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "news": [
     {
-      "emoji": "🎃",
-      "tag": "Records",
-      "headline": "The First 3,000-Pound Pumpkin Ever!",
-      "body": "A grower named Ron Wallace from Rhode Island just set a new world record for the heaviest pumpkin. His giant gourd weighed 3,156 pounds, about as much as a small car! It is the first pumpkin, and the first fruit of any kind, to ever weigh more than 3,000 pounds. Ron planted the seed in his greenhouse in April, and it grew for almost six months. Amazingly, he beat a record that had been set in England just one week earlier, by nearly 300 pounds!",
-      "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week"
+      "emoji": "🕷️",
+      "tag": "Nature",
+      "headline": "Kindergarteners Find a Super-Rare Spider",
+      "body": "During an outdoor learning day at their school in Michigan, a class of kindergarteners lifted a rock and found a big, dark brown spider. Their teachers didn't know what it was, so they asked an expert at Michigan State University. He said it was a folding-door spider, one of the hardest spiders in the state to find! These spiders live in tunnels underground and build a little door out of silk and dirt that blends right in. Before this, only three had been spotted in Michigan on a popular nature app.",
+      "source_name": "Michigan State University",
+      "url": "https://www.canr.msu.edu/news/kindergarteners-spider-discovery-leads-to-rare-identification-by-msu-entomologist"
     },
     {
-      "emoji": "✈️",
-      "tag": "Science",
-      "headline": "A New Pilot Flies NASA's Super-Quiet Speedy Jet",
-      "body": "NASA has a special airplane called the X-59 that can fly faster than the speed of sound. Usually that makes a loud BOOM, but the X-59 is shaped to make only a soft thump instead. This week, NASA test pilot Mike Lippert flew it for the very first time over the California desert. He zoomed to 1.4 times the speed of sound and climbed to 55,000 feet, way higher than regular airliners fly. He said it was a dream come true!",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/"
+      "emoji": "🚀",
+      "tag": "Space",
+      "headline": "NASA's Flying Robot Practices Its First Flight",
+      "body": "NASA is building a car-sized flying robot called Dragonfly that will explore Titan, Saturn's biggest moon. This week, engineers tested its very first flight, but on computers here on Earth! In the practice run, Dragonfly zoomed over sand dunes, scanned the ground for a safe spot, circled back, and landed all by itself. Dragonfly is planned to launch no earlier than 2028 and reach Titan in 2034. Then it will spend three years hopping from place to place to learn about this strange moon.",
+      "source_name": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/"
     },
     {
-      "emoji": "🐌",
-      "tag": "Animals",
-      "headline": "A See-Through Snail Is Found in a Dark Cave",
-      "body": "Scientists exploring a cave high in the mountains of China found a brand-new kind of snail. It is tiny, has no eyes at all, and its shell is so clear you can almost see through it! The snail lives in shallow water where sunlight never reaches, so it doesn't need eyes. It is the first freshwater cave snail ever found in China. Scientists named it Erhaia dijiang and hope to learn more about the secret creatures living underground.",
-      "source_name": "ScienceDaily",
-      "url": "http://www.sciencedaily.com/releases/2026/10/261019093445.htm"
+      "emoji": "🌳",
+      "tag": "Kids",
+      "headline": "Students Plant a Tiny Forest at School",
+      "body": "Fourth graders at a school in Australia spent a whole week planting about 1,000 native plants in a bare patch of their playground. They are making a microforest, a thick little forest about the size of a tennis court. The plants are packed close together, which helps them grow up to 10 times faster than normal. In just two or three years, the forest could be about 23 feet tall! It will give the kids shade and make a home for birds, bugs, and other wildlife.",
+      "source_name": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384"
     }
   ],
-  "fun_fact": "Snails have thousands of teeny-tiny teeth on a ribbon-shaped tongue. They use it like a file to scrape up their food! 🐌",
+  "fun_fact": "Titan, Saturn's biggest moon, is larger than the planet Mercury. It's also the only moon in our solar system with a thick blanket of air! 🪐",
   "joke": {
-    "q": "What do you call a snail on a ship?",
-    "a": "A snailor! ⛵"
+    "q": "Why did the spider go to the computer?",
+    "a": "To check its website! 🕸️"
   },
   "riddle": {
-    "q": "What has lots of words but never speaks?",
-    "a": "A book! 📖"
+    "q": "What has roots that nobody sees and is taller than trees, but never grows?",
+    "a": "A mountain! ⛰️"
   },
   "word_of_the_day": {
-    "word": "supersonic",
-    "meaning": "faster than the speed of sound",
-    "sentence": "The supersonic jet flew so fast that it zoomed past its own sound."
+    "word": "camouflage",
+    "meaning": "colors or coverings that help something blend into its surroundings",
+    "sentence": "The spider's camouflage made its little door almost impossible to see."
   },
-  "this_day_in_history": "On October 24, 1945, the United Nations was officially started so countries around the world could work together for peace. That's why today is United Nations Day! 🌍",
-  "did_you_know": "A pumpkin is about 90 percent water. That's why giant pumpkins need to drink lots and lots of water to grow so big! 💧"
+  "this_day_in_history": "On October 25, 1881, the famous artist Pablo Picasso was born in Spain. He made more than 20,000 paintings, drawings, and sculptures in his life! 🎨",
+  "did_you_know": "Trees can talk to each other, sort of! Their roots connect underground through tiny threads of fungus that pass along water and food. 🍄"
 }
