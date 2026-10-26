@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "news": [
     {
-      "emoji": "🕷️",
-      "tag": "Nature",
-      "headline": "Kindergarteners Find a Super-Rare Spider",
-      "body": "During an outdoor learning day at their school in Michigan, a class of kindergarteners lifted a rock and found a big, dark brown spider. Their teachers didn't know what it was, so they asked an expert at Michigan State University. He said it was a folding-door spider, one of the hardest spiders in the state to find! These spiders live in tunnels underground and build a little door out of silk and dirt that blends right in. Before this, only three had been spotted in Michigan on a popular nature app.",
-      "source_name": "Michigan State University",
-      "url": "https://www.canr.msu.edu/news/kindergarteners-spider-discovery-leads-to-rare-identification-by-msu-entomologist"
-    },
-    {
-      "emoji": "🚀",
+      "emoji": "🧑‍🚀",
       "tag": "Space",
-      "headline": "NASA's Flying Robot Practices Its First Flight",
-      "body": "NASA is building a car-sized flying robot called Dragonfly that will explore Titan, Saturn's biggest moon. This week, engineers tested its very first flight, but on computers here on Earth! In the practice run, Dragonfly zoomed over sand dunes, scanned the ground for a safe spot, circled back, and landed all by itself. Dragonfly is planned to launch no earlier than 2028 and reach Titan in 2034. Then it will spend three years hopping from place to place to learn about this strange moon.",
-      "source_name": "NASA Science",
-      "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/"
+      "headline": "Astronauts Get Ready for Spacewalk No. 100",
+      "body": "This Thursday, two astronauts will float outside the International Space Station to give it more power. Anil Menon from NASA and Joshua Kutryk from Canada will add a new solar panel that rolls out like a giant mat to soak up sunlight. NASA is calling it U.S. spacewalk number 100! A second spacewalk on November 5 will add one more panel, the last of eight new roll-out panels. Together, they can boost the station's power by up to 30 percent.",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
     },
     {
-      "emoji": "🌳",
-      "tag": "Kids",
-      "headline": "Students Plant a Tiny Forest at School",
-      "body": "Fourth graders at a school in Australia spent a whole week planting about 1,000 native plants in a bare patch of their playground. They are making a microforest, a thick little forest about the size of a tennis court. The plants are packed close together, which helps them grow up to 10 times faster than normal. In just two or three years, the forest could be about 23 feet tall! It will give the kids shade and make a home for birds, bugs, and other wildlife.",
-      "source_name": "ABC News (Australia)",
-      "url": "https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384"
+      "emoji": "🐆",
+      "tag": "Animals",
+      "headline": "Two Rare Leopard Cubs Are Born in Europe",
+      "body": "Two Sri Lankan leopard cubs were born at Ostrava Zoo in the country of Czechia, about an hour apart. Their mom is an experienced mother, and she is taking care of the cubs all by herself while keepers give the family peace and quiet. These leopards are rare, with fewer than 60 living in 27 zoos that are part of a European breeding program. The cubs are the only ones born in that program in the past year! Their first checkup with the vet will happen when they are a month old.",
+      "source_name": "Around Prague",
+      "url": "https://aroundprague.cz/en/news/curious/two-rare-sri-lankan-leopard-cubs-born-at-ostrava-zoo"
+    },
+    {
+      "emoji": "🍟",
+      "tag": "Records",
+      "headline": "The World's Biggest Serving of French Fries!",
+      "body": "Potato lovers in Boise, Idaho, just set a delicious world record. Volunteers from a restaurant called Spud Daddy and the Idaho Potato Commission cooked a giant pile of French fries in four huge fryers. It weighed 1,474 pounds, about as heavy as a full-grown cow! That beat the old record, which had stood since 2018. When the weighing was done, the crowd got to munch on the record-breaking fries.",
+      "source_name": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/commercial/2026/10/fry-day-night-fever-idaho-spud-lovers-break-record-with-largest-serving-of-french-fries"
     }
   ],
-  "fun_fact": "Titan, Saturn's biggest moon, is larger than the planet Mercury. It's also the only moon in our solar system with a thick blanket of air! 🪐",
+  "fun_fact": "Leopards are amazing climbers. They often nap up in trees, and they're strong enough to carry their dinner way up into the branches! 🌳",
   "joke": {
-    "q": "Why did the spider go to the computer?",
-    "a": "To check its website! 🕸️"
+    "q": "What do you call a potato that watches TV all day?",
+    "a": "A couch potato! 🥔"
   },
   "riddle": {
-    "q": "What has roots that nobody sees and is taller than trees, but never grows?",
-    "a": "A mountain! ⛰️"
+    "q": "What can fill a whole room but takes up no space at all?",
+    "a": "Light! 💡"
   },
   "word_of_the_day": {
-    "word": "camouflage",
-    "meaning": "colors or coverings that help something blend into its surroundings",
-    "sentence": "The spider's camouflage made its little door almost impossible to see."
+    "word": "orbit",
+    "meaning": "the curved path something travels around a planet, moon, or star",
+    "sentence": "The space station stays in orbit around Earth, circling it again and again."
   },
-  "this_day_in_history": "On October 25, 1881, the famous artist Pablo Picasso was born in Spain. He made more than 20,000 paintings, drawings, and sculptures in his life! 🎨",
-  "did_you_know": "Trees can talk to each other, sort of! Their roots connect underground through tiny threads of fungus that pass along water and food. 🍄"
+  "this_day_in_history": "On October 26, 1825, the Erie Canal opened in New York. This 363-mile waterway let boats travel all the way from the Great Lakes to New York City! 🚤",
+  "did_you_know": "Potatoes were the first vegetable ever grown in space! Potato plants grew aboard the space shuttle Columbia in 1995. 🚀"
 }
