@@ -1,338 +1,357 @@
 {
-  "editions": [
-    {
-      "date": "2026-10-09",
-      "headlines": [
-        "Dodgers Win! On to the Next Round",
-        "Astronauts Splash Down Near L.A.!",
-        "Kittens Take a Field Trip to the Aquarium"
-      ],
-      "urls": [
-        "https://apnews.com/article/dodgers-braves-score-nlds-pages-muncy-e6f70cc747da347610157ec4b359979f",
-        "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-        "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
-      ],
-      "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! 🌅",
-      "joke": "Why are baseball games played at night?",
-      "riddle": "I have hands and a face, but I can't hold anything and I can't smile. What am I?"
-    },
-    {
-      "date": "2026-10-09",
-      "headlines": [
-        "Moon Photos for Everyone!",
-        "Two Baby Capybaras Move to the Zoo",
-        "A Giant Bug Makes a Big Comeback"
-      ],
-      "urls": [
-        "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
-        "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php",
-        "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
-      ],
-      "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! 🌊",
-      "joke": "Why did the cow go to outer space?",
-      "riddle": "The more of me someone takes, the more they leave behind. What am I?"
-    },
-    {
-      "date": "2026-10-10",
-      "headlines": [
-        "Five Cheetah Cubs Are Born!",
-        "A Waterlily So Big It Can Be Seen From Space",
-        "Animals Will Star on New Money"
-      ],
-      "urls": [
-        "https://nationalzoo.si.edu/animals/news/smithsonian-national-zoos-cheetah-cub-cam-returns-five-adorable-reasons-tune",
-        "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo",
-        "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
-      ],
-      "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! 🏎️",
-      "joke": "Why are cheetahs so bad at hide-and-seek?",
-      "riddle": "What has to be broken before anyone can use it?"
-    },
-    {
-      "date": "2026-10-11",
-      "headlines": [
-        "A Furry Swimmer From the Dinosaur Days",
-        "The World's Oldest Birthday Buddies",
-        "A Space Picture Like a Fun-House Mirror"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/ck4g196v358po",
-        "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do",
-        "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
-      ],
-      "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. 🦫",
-      "joke": "What is a sleeping dinosaur called?",
-      "riddle": "What has a neck but no head?"
-    },
-    {
-      "date": "2026-10-12",
-      "headlines": [
-        "The \"Bendy Tree\" Wins Tree of the Year",
-        "Kids Talk to an Astronaut in Space by Radio",
-        "Happy 100th Birthday, Winnie-the-Pooh!"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/cqvg0mg4jee3o",
-        "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o",
-        "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
-      ],
-      "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! 🐝",
-      "joke": "Why did the tree go to the dentist?",
-      "riddle": "What has lots of keys but can't open a single lock?"
-    },
-    {
-      "date": "2026-10-13",
-      "headlines": [
-        "A Thumb-Sized Mouse Makes a Comeback",
-        "Radio Signals Heard From a Faraway Planet",
-        "Meet Maggie Moo, the First Highland Calf"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/ck86zpn89l1do",
-        "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo",
-        "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
-      ],
-      "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! 🐋",
-      "joke": "Why did the mouse take a pencil to bed?",
-      "riddle": "What gets wetter the more it dries?"
-    },
-    {
-      "date": "2026-10-14",
-      "headlines": [
-        "Bagheera the Giant Squash Breaks a World Record",
-        "180,000 Giant Tortoises Counted on One Island",
-        "Sky Brown Skates to a Silver Medal"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/crkg78xgwnzxo",
-        "https://www.bbc.co.uk/newsround/articles/cqdr8yd8ndd2o",
-        "https://www.bbc.co.uk/newsround/articles/c81dw4v3kgngo"
-      ],
-      "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! 🎃",
-      "joke": "What do you call a really chubby pumpkin?",
-      "riddle": "What has one eye but can't see?"
-    },
-    {
-      "date": "2026-10-15",
-      "headlines": [
-        "A Teen's Beetle Photo Wins a Big Prize",
-        "Timekeepers May Swap Leap Seconds for a Leap Hour",
-        "Student-Built Satellites Ride a Rocket to Space"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/cj62yz714g21o",
-        "https://www.bbc.co.uk/newsround/articles/c6wydn0lxeveo",
-        "https://www.nasa.gov/blogs/smallsatellites/2026/10/13/nasa-launches-cubesats-to-test-communications-build-experience/"
-      ],
-      "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! 🌌",
-      "joke": "Why did the bee get such good grades?",
-      "riddle": "What can travel around the world while staying in a corner?"
-    },
-    {
-      "date": "2026-10-16",
-      "headlines": [
-        "Say Cheese! A Smiley Face Spotted in Space",
-        "Divers Find the World's Oldest Known Shipwreck Cargo",
-        "A Team Heads to Antarctica to Fix a Penguin-Filled Base"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/cmn4eqv1j15qo",
-        "https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo",
-        "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o"
-      ],
-      "fun_fact": "Gentoo penguins are the fastest swimmers of all penguins. They can zoom through the water at about 22 miles per hour! 🐧",
-      "joke": "What do penguins wear on their heads?",
-      "riddle": "What has lots of teeth but can't bite?"
-    },
-    {
-      "date": "2026-10-17",
-      "headlines": [
-        "A Super-Sniffer Labrador Is Animal of the Year",
-        "15 Teeny-Tiny Froglets Hatch in a World First",
-        "A Skateboarder Zooms Into the Record Books"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/c5gm0jn4zkvjo",
-        "https://www.londonzoo.org/zoo-stories/news/rare-froglets-born-london-zoo-world-first",
-        "https://www.guinnessworldrecords.com/news/2026/10/redbull-skateboarder-breaks-record-for-fastest-downhill-speed-ever-topping-over-90-mph"
-      ],
-      "fun_fact": "Most frogs don't drink water with their mouths. They soak it up through their skin, especially a special patch on their belly! 🐸",
-      "joke": "Why are frogs always so happy?",
-      "riddle": "What has four wheels and flies?",
-      "word_of_the_day": "nimble",
-      "this_day_in_history": "On October 17, 1979, Mother Teresa was awarded the Nobel Peace Prize for her work helping people in need.",
-      "did_you_know": "A group of frogs is called an army, and a group of owls is called a parliament!"
-    },
-    {
-      "date": "2026-10-18",
-      "headlines": [
-        "A Baby Giant Armadillo Caught on Camera!",
-        "Webb Telescope Spots Weather on a Faraway World",
-        "Tigers, Tuna and Turtles Make a Comeback"
-      ],
-      "urls": [
-        "https://www.discoverwildlife.com/animal-facts/mammals/baby-giant-armadillo-camera-trap-amazon",
-        "https://news.arizona.edu/news/discovery-marks-first-detection-variable-water-clouds-outside-our-solar-system",
-        "https://www.bbc.co.uk/newsround/articles/cv0ldpngd9g7o"
-      ],
-      "fun_fact": "Nine-banded armadillos almost always have four identical babies at a time. They're born as quadruplets! 🐣",
-      "joke": "What do clouds wear under their clothes?",
-      "riddle": "What kind of room has no doors or windows?",
-      "word_of_the_day": "thrive",
-      "this_day_in_history": "On October 18, 2019, astronauts Christina Koch and Jessica Meir made the first spacewalk ever done by an all-woman team, outside the space station.",
-      "did_you_know": "Tigers have striped skin, not just striped fur! Even if a tiger's fur were shaved off, its stripes would still show. 🐅"
-    },
-    {
-      "date": "2026-10-19",
-      "headlines": [
-        "Scientists Find the First Green Star!",
-        "Six Rare Piglets Make Zoo History",
-        "A 12-Year-Old Becomes a Go-Kart World Champion"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/newsround/articles/c32l4e0xkpgyo",
-        "https://www.nczoo.org/news/north-carolina-zoo-piglets-make-history",
-        "https://www.bbc.co.uk/newsround/articles/cqx298l5xp0po"
-      ],
-      "fun_fact": "The Sun is actually white! It looks yellow from the ground because Earth's air scatters some of its blue light across the sky. ☀️",
-      "joke": "What do you call a pig that knows karate?",
-      "riddle": "What has a head and a tail but no body?",
-      "word_of_the_day": "dense",
-      "this_day_in_history": "On October 19, 2017, a telescope in Hawaii spotted 'Oumuamua, the first object ever seen visiting our solar system from beyond it.",
-      "did_you_know": "Pigs can hardly sweat at all, so they roll around in mud to stay cool. The mud also works like sunscreen for their skin! 🐖"
-    },
-    {
-      "date": "2026-10-20",
-      "headlines": [
-        "A Spacecraft Blasts Off to Visit the Moons of Mars",
-        "A 6-Year-Old Finds a Super-Rare Fossil",
-        "Eight Capybara Babies Draw Record Crowds"
-      ],
-      "urls": [
-        "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-        "https://outdoornebraska.gov/about/press-events/news/6-year-old-finds-rare-fossil-at-schramm/",
-        "https://www.bbc.com/news/articles/cw7vplvjd3elo"
-      ],
-      "fun_fact": "Mars has the tallest volcano in the whole solar system, Olympus Mons. It's about two and a half times as tall as Mount Everest! 🌋",
-      "joke": "What kind of music do planets like best?",
-      "riddle": "What goes up but never comes down?",
-      "word_of_the_day": "sample",
-      "this_day_in_history": "On October 20, 1973, the Sydney Opera House in Australia opened. Its famous roof looks like giant white sails!",
-      "did_you_know": "Mars's moon Phobos is slowly creeping closer to Mars, about 6 feet every 100 years. 🌑"
-    },
-    {
-      "date": "2026-10-21",
-      "headlines": [
-        "A Baby Zebra Named Astra Is Born",
-        "Kids Dream Up the World's Biggest Hairdryer",
-        "New Blades Could Help Mars Helicopters Fly Farther"
-      ],
-      "urls": [
-        "https://www.news9.com/oklahoma-city-news/oklahoma-city-zoo-birth-female-plains-zebra-astra",
-        "https://kids.guinnessworldrecords.com/news/2026/10/this-hairdryer-is-taller-than-a-zebra",
-        "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-      ],
-      "fun_fact": "A zebra's stripes are like a fingerprint. No two zebras in the whole world have exactly the same stripe pattern! 🦓",
-      "joke": "Why do zebras love old movies?",
-      "riddle": "What can you catch but never throw?",
-      "word_of_the_day": "enormous",
-      "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! 🐚",
-      "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. 🌀"
-    },
-    {
-      "date": "2026-10-22",
-      "headlines": [
-        "A Mars Rover Sets a New Driving Record",
-        "The World's Biggest Cowboy Hat Lands in Texas",
-        "Helpers Pack Almost a Million Meals in One Hour"
-      ],
-      "urls": [
-        "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-        "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/",
-        "https://www.worldfoodprize.org/blog/2026/10/20/volunteers-pack-990864-meals-to-take-guinness-world-records-title-for-the-most-hunger-relief-meals-packaged-in-one-hour/"
-      ],
-      "fun_fact": "A day on Mars is called a sol, and it lasts about 40 minutes longer than a day on Earth. That's a little extra time to play! 🔴",
-      "joke": "Why did the robot go on vacation?",
-      "riddle": "What has lots of rings but no fingers?",
-      "word_of_the_day": "volunteer",
-      "this_day_in_history": "On October 22, 1797, André-Jacques Garnerin jumped from a hot-air balloon high above Paris and floated down safely with a parachute, the first jump of its kind! 🪂",
-      "did_you_know": "Rice is a main food for more than half of all the people in the world. Some rice plants grow in fields flooded with water! 🌾"
-    },
-    {
-      "date": "2026-10-23",
-      "headlines": [
-        "Two Lion Cubs Are Born in Scotland",
-        "A Whole Family of World Record Holders",
-        "Sky Watchers Find New \"Ghosts\" in Space"
-      ],
-      "urls": [
-        "https://www.edinburghzoo.org.uk/news/edinburgh-zoo-celebrates-roaring-success-birth-first-lion-cubs-seven-years",
-        "https://www.guinnessworldrecords.com/news/2026/10/meet-the-record-breaking-rush-family-as-davids-wife-and-kids-join-him-in-gwr-glory",
-        "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
-      ],
-      "fun_fact": "A lion's roar is so loud it can be heard up to 5 miles away. That's like hearing someone call your name from the next town over! 🦁",
-      "joke": "Why are ghosts such bad liars?",
-      "riddle": "What has a bottom at the top?",
-      "word_of_the_day": "persevere",
-      "this_day_in_history": "On October 23, 2001, Apple introduced the very first iPod, a music player small enough for a pocket that could hold about 1,000 songs! 🎵",
-      "did_you_know": "Wild Asiatic lions live in just one place on Earth: the Gir Forest area of India. Their numbers have grown a lot thanks to people protecting them. 🌳"
-    },
-    {
-      "date": "2026-10-24",
-      "headlines": [
-        "The First 3,000-Pound Pumpkin Ever!",
-        "A New Pilot Flies NASA's Super-Quiet Speedy Jet",
-        "A See-Through Snail Is Found in a Dark Cave"
-      ],
-      "urls": [
-        "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week",
-        "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/",
-        "http://www.sciencedaily.com/releases/2026/10/261019093445.htm"
-      ],
-      "fun_fact": "Snails have thousands of teeny-tiny teeth on a ribbon-shaped tongue. They use it like a file to scrape up their food! 🐌",
-      "joke": "What do you call a snail on a ship?",
-      "riddle": "What has lots of words but never speaks?",
-      "word_of_the_day": "supersonic",
-      "this_day_in_history": "On October 24, 1945, the United Nations was officially started so countries around the world could work together for peace. That's why today is United Nations Day! 🌍",
-      "did_you_know": "A pumpkin is about 90 percent water. That's why giant pumpkins need to drink lots and lots of water to grow so big! 💧"
-    },
-    {
-      "date": "2026-10-25",
-      "headlines": [
-        "Kindergarteners Find a Super-Rare Spider",
-        "NASA's Flying Robot Practices Its First Flight",
-        "Students Plant a Tiny Forest at School"
-      ],
-      "urls": [
-        "https://www.canr.msu.edu/news/kindergarteners-spider-discovery-leads-to-rare-identification-by-msu-entomologist",
-        "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/",
-        "https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384"
-      ],
-      "fun_fact": "Titan, Saturn's biggest moon, is larger than the planet Mercury. It's also the only moon in our solar system with a thick blanket of air! 🪐",
-      "joke": "Why did the spider go to the computer?",
-      "riddle": "What has roots that nobody sees and is taller than trees, but never grows?",
-      "word_of_the_day": "camouflage",
-      "this_day_in_history": "On October 25, 1881, the famous artist Pablo Picasso was born in Spain. He made more than 20,000 paintings, drawings, and sculptures in his life! 🎨",
-      "did_you_know": "Trees can talk to each other, sort of! Their roots connect underground through tiny threads of fungus that pass along water and food. 🍄"
-    },
-    {
-      "date": "2026-10-26",
-      "headlines": [
-        "Astronauts Get Ready for Spacewalk No. 100",
-        "Two Rare Leopard Cubs Are Born in Europe",
-        "The World's Biggest Serving of French Fries!"
-      ],
-      "urls": [
-        "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-        "https://aroundprague.cz/en/news/curious/two-rare-sri-lankan-leopard-cubs-born-at-ostrava-zoo",
-        "https://www.guinnessworldrecords.com/news/commercial/2026/10/fry-day-night-fever-idaho-spud-lovers-break-record-with-largest-serving-of-french-fries"
-      ],
-      "fun_fact": "Leopards are amazing climbers. They often nap up in trees, and they're strong enough to carry their dinner way up into the branches! 🌳",
-      "joke": "What do you call a potato that watches TV all day?",
-      "riddle": "What can fill a whole room but takes up no space at all?",
-      "word_of_the_day": "orbit",
-      "this_day_in_history": "On October 26, 1825, the Erie Canal opened in New York. This 363-mile waterway let boats travel all the way from the Great Lakes to New York City! 🚤",
-      "did_you_know": "Potatoes were the first vegetable ever grown in space! Potato plants grew aboard the space shuttle Columbia in 1995. 🚀"
-    }
-  ]
+ "editions": [
+  {
+   "date": "2026-10-09",
+   "headlines": [
+    "Dodgers Win! On to the Next Round",
+    "Astronauts Splash Down Near L.A.!",
+    "Kittens Take a Field Trip to the Aquarium"
+   ],
+   "urls": [
+    "https://apnews.com/article/dodgers-braves-score-nlds-pages-muncy-e6f70cc747da347610157ec4b359979f",
+    "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+    "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c"
+   ],
+   "fun_fact": "The space station zooms around Earth about 16 times a day. That means astronauts see about 16 sunrises every single day! \ud83c\udf05",
+   "joke": "Why are baseball games played at night?",
+   "riddle": "I have hands and a face, but I can't hold anything and I can't smile. What am I?"
+  },
+  {
+   "date": "2026-10-09",
+   "headlines": [
+    "Moon Photos for Everyone!",
+    "Two Baby Capybaras Move to the Zoo",
+    "A Giant Bug Makes a Big Comeback"
+   ],
+   "urls": [
+    "https://www.nasa.gov/blogs/missions/2026/10/07/nasa-releases-artemis-ii-lunar-science-data-images/",
+    "https://www.sfgate.com/news/bayarea/article/sf-2-new-capybaras-at-sf-zoo-are-the-first-in-22469569.php",
+    "https://www.bbc.com/newsround/articles/c6zjx92wd47do"
+   ],
+   "fun_fact": "The capybara is the biggest rodent in the world. It can hold its breath underwater for about five minutes! \ud83c\udf0a",
+   "joke": "Why did the cow go to outer space?",
+   "riddle": "The more of me someone takes, the more they leave behind. What am I?"
+  },
+  {
+   "date": "2026-10-10",
+   "headlines": [
+    "Five Cheetah Cubs Are Born!",
+    "A Waterlily So Big It Can Be Seen From Space",
+    "Animals Will Star on New Money"
+   ],
+   "urls": [
+    "https://nationalzoo.si.edu/animals/news/smithsonian-national-zoos-cheetah-cub-cam-returns-five-adorable-reasons-tune",
+    "https://www.bbc.co.uk/newsround/articles/cv5yne8eplkwo",
+    "https://www.bbc.co.uk/newsround/articles/cw0k0548300do"
+   ],
+   "fun_fact": "Cheetahs are the fastest animals on land. They can sprint about 60 to 70 miles per hour, as fast as a car on the highway! \ud83c\udfce\ufe0f",
+   "joke": "Why are cheetahs so bad at hide-and-seek?",
+   "riddle": "What has to be broken before anyone can use it?"
+  },
+  {
+   "date": "2026-10-11",
+   "headlines": [
+    "A Furry Swimmer From the Dinosaur Days",
+    "The World's Oldest Birthday Buddies",
+    "A Space Picture Like a Fun-House Mirror"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/ck4g196v358po",
+    "https://www.bbc.co.uk/newsround/articles/cwly4vlljz5do",
+    "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/"
+   ],
+   "fun_fact": "Beavers have orange teeth! Their front teeth have iron in them, which makes them extra strong for chewing through wood. \ud83e\uddab",
+   "joke": "What is a sleeping dinosaur called?",
+   "riddle": "What has a neck but no head?"
+  },
+  {
+   "date": "2026-10-12",
+   "headlines": [
+    "The \"Bendy Tree\" Wins Tree of the Year",
+    "Kids Talk to an Astronaut in Space by Radio",
+    "Happy 100th Birthday, Winnie-the-Pooh!"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/cqvg0mg4jee3o",
+    "https://www.bbc.co.uk/newsround/articles/c94g1jle86y8o",
+    "https://www.bbc.co.uk/newsround/articles/c69wzld1rjgpo"
+   ],
+   "fun_fact": "Honeybees visit about 2 million flowers to make just one pound of honey. That's a lot of buzzing! \ud83d\udc1d",
+   "joke": "Why did the tree go to the dentist?",
+   "riddle": "What has lots of keys but can't open a single lock?"
+  },
+  {
+   "date": "2026-10-13",
+   "headlines": [
+    "A Thumb-Sized Mouse Makes a Comeback",
+    "Radio Signals Heard From a Faraway Planet",
+    "Meet Maggie Moo, the First Highland Calf"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/ck86zpn89l1do",
+    "https://www.bbc.co.uk/newsround/articles/cmy56yvqkkgqo",
+    "https://www.bbc.com/news/articles/cq4g1xpgwp75o"
+   ],
+   "fun_fact": "A blue whale's heart is about the size of a small car, and a child could crawl through some of its arteries! \ud83d\udc0b",
+   "joke": "Why did the mouse take a pencil to bed?",
+   "riddle": "What gets wetter the more it dries?"
+  },
+  {
+   "date": "2026-10-14",
+   "headlines": [
+    "Bagheera the Giant Squash Breaks a World Record",
+    "180,000 Giant Tortoises Counted on One Island",
+    "Sky Brown Skates to a Silver Medal"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/crkg78xgwnzxo",
+    "https://www.bbc.co.uk/newsround/articles/cqdr8yd8ndd2o",
+    "https://www.bbc.co.uk/newsround/articles/c81dw4v3kgngo"
+   ],
+   "fun_fact": "Pumpkins are actually fruits, not vegetables, because they grow from flowers and have seeds inside! \ud83c\udf83",
+   "joke": "What do you call a really chubby pumpkin?",
+   "riddle": "What has one eye but can't see?"
+  },
+  {
+   "date": "2026-10-15",
+   "headlines": [
+    "A Teen's Beetle Photo Wins a Big Prize",
+    "Timekeepers May Swap Leap Seconds for a Leap Hour",
+    "Student-Built Satellites Ride a Rocket to Space"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/cj62yz714g21o",
+    "https://www.bbc.co.uk/newsround/articles/c6wydn0lxeveo",
+    "https://www.nasa.gov/blogs/smallsatellites/2026/10/13/nasa-launches-cubesats-to-test-communications-build-experience/"
+   ],
+   "fun_fact": "Some dung beetles roll their balls in a straight line by checking the glow of the Milky Way. They're among the only animals known to navigate using our galaxy's band of light! \ud83c\udf0c",
+   "joke": "Why did the bee get such good grades?",
+   "riddle": "What can travel around the world while staying in a corner?"
+  },
+  {
+   "date": "2026-10-16",
+   "headlines": [
+    "Say Cheese! A Smiley Face Spotted in Space",
+    "Divers Find the World's Oldest Known Shipwreck Cargo",
+    "A Team Heads to Antarctica to Fix a Penguin-Filled Base"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/cmn4eqv1j15qo",
+    "https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo",
+    "https://www.bbc.co.uk/newsround/articles/ck87z121rn01o"
+   ],
+   "fun_fact": "Gentoo penguins are the fastest swimmers of all penguins. They can zoom through the water at about 22 miles per hour! \ud83d\udc27",
+   "joke": "What do penguins wear on their heads?",
+   "riddle": "What has lots of teeth but can't bite?"
+  },
+  {
+   "date": "2026-10-17",
+   "headlines": [
+    "A Super-Sniffer Labrador Is Animal of the Year",
+    "15 Teeny-Tiny Froglets Hatch in a World First",
+    "A Skateboarder Zooms Into the Record Books"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/c5gm0jn4zkvjo",
+    "https://www.londonzoo.org/zoo-stories/news/rare-froglets-born-london-zoo-world-first",
+    "https://www.guinnessworldrecords.com/news/2026/10/redbull-skateboarder-breaks-record-for-fastest-downhill-speed-ever-topping-over-90-mph"
+   ],
+   "fun_fact": "Most frogs don't drink water with their mouths. They soak it up through their skin, especially a special patch on their belly! \ud83d\udc38",
+   "joke": "Why are frogs always so happy?",
+   "riddle": "What has four wheels and flies?",
+   "word_of_the_day": "nimble",
+   "this_day_in_history": "On October 17, 1979, Mother Teresa was awarded the Nobel Peace Prize for her work helping people in need.",
+   "did_you_know": "A group of frogs is called an army, and a group of owls is called a parliament!"
+  },
+  {
+   "date": "2026-10-18",
+   "headlines": [
+    "A Baby Giant Armadillo Caught on Camera!",
+    "Webb Telescope Spots Weather on a Faraway World",
+    "Tigers, Tuna and Turtles Make a Comeback"
+   ],
+   "urls": [
+    "https://www.discoverwildlife.com/animal-facts/mammals/baby-giant-armadillo-camera-trap-amazon",
+    "https://news.arizona.edu/news/discovery-marks-first-detection-variable-water-clouds-outside-our-solar-system",
+    "https://www.bbc.co.uk/newsround/articles/cv0ldpngd9g7o"
+   ],
+   "fun_fact": "Nine-banded armadillos almost always have four identical babies at a time. They're born as quadruplets! \ud83d\udc23",
+   "joke": "What do clouds wear under their clothes?",
+   "riddle": "What kind of room has no doors or windows?",
+   "word_of_the_day": "thrive",
+   "this_day_in_history": "On October 18, 2019, astronauts Christina Koch and Jessica Meir made the first spacewalk ever done by an all-woman team, outside the space station.",
+   "did_you_know": "Tigers have striped skin, not just striped fur! Even if a tiger's fur were shaved off, its stripes would still show. \ud83d\udc05"
+  },
+  {
+   "date": "2026-10-19",
+   "headlines": [
+    "Scientists Find the First Green Star!",
+    "Six Rare Piglets Make Zoo History",
+    "A 12-Year-Old Becomes a Go-Kart World Champion"
+   ],
+   "urls": [
+    "https://www.bbc.co.uk/newsround/articles/c32l4e0xkpgyo",
+    "https://www.nczoo.org/news/north-carolina-zoo-piglets-make-history",
+    "https://www.bbc.co.uk/newsround/articles/cqx298l5xp0po"
+   ],
+   "fun_fact": "The Sun is actually white! It looks yellow from the ground because Earth's air scatters some of its blue light across the sky. \u2600\ufe0f",
+   "joke": "What do you call a pig that knows karate?",
+   "riddle": "What has a head and a tail but no body?",
+   "word_of_the_day": "dense",
+   "this_day_in_history": "On October 19, 2017, a telescope in Hawaii spotted 'Oumuamua, the first object ever seen visiting our solar system from beyond it.",
+   "did_you_know": "Pigs can hardly sweat at all, so they roll around in mud to stay cool. The mud also works like sunscreen for their skin! \ud83d\udc16"
+  },
+  {
+   "date": "2026-10-20",
+   "headlines": [
+    "A Spacecraft Blasts Off to Visit the Moons of Mars",
+    "A 6-Year-Old Finds a Super-Rare Fossil",
+    "Eight Capybara Babies Draw Record Crowds"
+   ],
+   "urls": [
+    "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+    "https://outdoornebraska.gov/about/press-events/news/6-year-old-finds-rare-fossil-at-schramm/",
+    "https://www.bbc.com/news/articles/cw7vplvjd3elo"
+   ],
+   "fun_fact": "Mars has the tallest volcano in the whole solar system, Olympus Mons. It's about two and a half times as tall as Mount Everest! \ud83c\udf0b",
+   "joke": "What kind of music do planets like best?",
+   "riddle": "What goes up but never comes down?",
+   "word_of_the_day": "sample",
+   "this_day_in_history": "On October 20, 1973, the Sydney Opera House in Australia opened. Its famous roof looks like giant white sails!",
+   "did_you_know": "Mars's moon Phobos is slowly creeping closer to Mars, about 6 feet every 100 years. \ud83c\udf11"
+  },
+  {
+   "date": "2026-10-21",
+   "headlines": [
+    "A Baby Zebra Named Astra Is Born",
+    "Kids Dream Up the World's Biggest Hairdryer",
+    "New Blades Could Help Mars Helicopters Fly Farther"
+   ],
+   "urls": [
+    "https://www.news9.com/oklahoma-city-news/oklahoma-city-zoo-birth-female-plains-zebra-astra",
+    "https://kids.guinnessworldrecords.com/news/2026/10/this-hairdryer-is-taller-than-a-zebra",
+    "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+   ],
+   "fun_fact": "A zebra's stripes are like a fingerprint. No two zebras in the whole world have exactly the same stripe pattern! \ud83e\udd93",
+   "joke": "Why do zebras love old movies?",
+   "riddle": "What can you catch but never throw?",
+   "word_of_the_day": "enormous",
+   "this_day_in_history": "On October 21, 1959, the Guggenheim Museum opened in New York City. Inside, a giant spiral ramp winds up and up like the inside of a seashell! \ud83d\udc1a",
+   "did_you_know": "Mars's air is so thin that Ingenuity's blades had to spin about 2,400 times a minute to fly, around five times faster than most helicopters on Earth. \ud83c\udf00"
+  },
+  {
+   "date": "2026-10-22",
+   "headlines": [
+    "A Mars Rover Sets a New Driving Record",
+    "The World's Biggest Cowboy Hat Lands in Texas",
+    "Helpers Pack Almost a Million Meals in One Hour"
+   ],
+   "urls": [
+    "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+    "https://www.upi.com/Odd_News/2026/10/20/guinness-world-records-cowboy-hat-sculpture/5261792514008/",
+    "https://www.worldfoodprize.org/blog/2026/10/20/volunteers-pack-990864-meals-to-take-guinness-world-records-title-for-the-most-hunger-relief-meals-packaged-in-one-hour/"
+   ],
+   "fun_fact": "A day on Mars is called a sol, and it lasts about 40 minutes longer than a day on Earth. That's a little extra time to play! \ud83d\udd34",
+   "joke": "Why did the robot go on vacation?",
+   "riddle": "What has lots of rings but no fingers?",
+   "word_of_the_day": "volunteer",
+   "this_day_in_history": "On October 22, 1797, Andr\u00e9-Jacques Garnerin jumped from a hot-air balloon high above Paris and floated down safely with a parachute, the first jump of its kind! \ud83e\ude82",
+   "did_you_know": "Rice is a main food for more than half of all the people in the world. Some rice plants grow in fields flooded with water! \ud83c\udf3e"
+  },
+  {
+   "date": "2026-10-23",
+   "headlines": [
+    "Two Lion Cubs Are Born in Scotland",
+    "A Whole Family of World Record Holders",
+    "Sky Watchers Find New \"Ghosts\" in Space"
+   ],
+   "urls": [
+    "https://www.edinburghzoo.org.uk/news/edinburgh-zoo-celebrates-roaring-success-birth-first-lion-cubs-seven-years",
+    "https://www.guinnessworldrecords.com/news/2026/10/meet-the-record-breaking-rush-family-as-davids-wife-and-kids-join-him-in-gwr-glory",
+    "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/"
+   ],
+   "fun_fact": "A lion's roar is so loud it can be heard up to 5 miles away. That's like hearing someone call your name from the next town over! \ud83e\udd81",
+   "joke": "Why are ghosts such bad liars?",
+   "riddle": "What has a bottom at the top?",
+   "word_of_the_day": "persevere",
+   "this_day_in_history": "On October 23, 2001, Apple introduced the very first iPod, a music player small enough for a pocket that could hold about 1,000 songs! \ud83c\udfb5",
+   "did_you_know": "Wild Asiatic lions live in just one place on Earth: the Gir Forest area of India. Their numbers have grown a lot thanks to people protecting them. \ud83c\udf33"
+  },
+  {
+   "date": "2026-10-24",
+   "headlines": [
+    "The First 3,000-Pound Pumpkin Ever!",
+    "A New Pilot Flies NASA's Super-Quiet Speedy Jet",
+    "A See-Through Snail Is Found in a Dark Cave"
+   ],
+   "urls": [
+    "https://www.guinnessworldrecords.com/news/2026/10/pumpkinpalooza-how-the-worlds-biggest-pumpkin-record-fell-twice-in-one-week",
+    "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/",
+    "http://www.sciencedaily.com/releases/2026/10/261019093445.htm"
+   ],
+   "fun_fact": "Snails have thousands of teeny-tiny teeth on a ribbon-shaped tongue. They use it like a file to scrape up their food! \ud83d\udc0c",
+   "joke": "What do you call a snail on a ship?",
+   "riddle": "What has lots of words but never speaks?",
+   "word_of_the_day": "supersonic",
+   "this_day_in_history": "On October 24, 1945, the United Nations was officially started so countries around the world could work together for peace. That's why today is United Nations Day! \ud83c\udf0d",
+   "did_you_know": "A pumpkin is about 90 percent water. That's why giant pumpkins need to drink lots and lots of water to grow so big! \ud83d\udca7"
+  },
+  {
+   "date": "2026-10-25",
+   "headlines": [
+    "Kindergarteners Find a Super-Rare Spider",
+    "NASA's Flying Robot Practices Its First Flight",
+    "Students Plant a Tiny Forest at School"
+   ],
+   "urls": [
+    "https://www.canr.msu.edu/news/kindergarteners-spider-discovery-leads-to-rare-identification-by-msu-entomologist",
+    "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/",
+    "https://www.abc.net.au/news/2026-10-25/microforest-planted-with-1000-native-trees-at-broulee-school/107292384"
+   ],
+   "fun_fact": "Titan, Saturn's biggest moon, is larger than the planet Mercury. It's also the only moon in our solar system with a thick blanket of air! \ud83e\ude90",
+   "joke": "Why did the spider go to the computer?",
+   "riddle": "What has roots that nobody sees and is taller than trees, but never grows?",
+   "word_of_the_day": "camouflage",
+   "this_day_in_history": "On October 25, 1881, the famous artist Pablo Picasso was born in Spain. He made more than 20,000 paintings, drawings, and sculptures in his life! \ud83c\udfa8",
+   "did_you_know": "Trees can talk to each other, sort of! Their roots connect underground through tiny threads of fungus that pass along water and food. \ud83c\udf44"
+  },
+  {
+   "date": "2026-10-26",
+   "headlines": [
+    "Astronauts Get Ready for Spacewalk No. 100",
+    "Two Rare Leopard Cubs Are Born in Europe",
+    "The World's Biggest Serving of French Fries!"
+   ],
+   "urls": [
+    "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+    "https://aroundprague.cz/en/news/curious/two-rare-sri-lankan-leopard-cubs-born-at-ostrava-zoo",
+    "https://www.guinnessworldrecords.com/news/commercial/2026/10/fry-day-night-fever-idaho-spud-lovers-break-record-with-largest-serving-of-french-fries"
+   ],
+   "fun_fact": "Leopards are amazing climbers. They often nap up in trees, and they're strong enough to carry their dinner way up into the branches! \ud83c\udf33",
+   "joke": "What do you call a potato that watches TV all day?",
+   "riddle": "What can fill a whole room but takes up no space at all?",
+   "word_of_the_day": "orbit",
+   "this_day_in_history": "On October 26, 1825, the Erie Canal opened in New York. This 363-mile waterway let boats travel all the way from the Great Lakes to New York City! \ud83d\udea4",
+   "did_you_know": "Potatoes were the first vegetable ever grown in space! Potato plants grew aboard the space shuttle Columbia in 1995. \ud83d\ude80"
+  },
+  {
+   "date": "2026-10-27",
+   "headlines": [
+    "A Giant Sunshade Gets Ready for an Asteroid Hunter",
+    "Kid Hula Hoopers Spin Their Way to Six World Records",
+    "Two New Jelly-Like Creatures Found Deep in the Sea"
+   ],
+   "urls": [
+    "https://science.nasa.gov/blogs/neo-surveyor/2026/10/26/sunshade-for-nasas-neo-surveyor-mission-ready-for-its-day-in-sun/",
+    "https://kids.guinnessworldrecords.com/news/2026/10/these-kids-travelled-from-across-the-globe-to-set-6-hula-hooping-world-records-at-gwr-hq",
+    "https://phys.org/news/2026-10-dna-underwater-footage-reveal-species.html"
+   ],
+   "fun_fact": "Asteroids can have their own moons! Scientists have found hundreds of asteroids with tiny moons circling around them. \ud83c\udf11",
+   "joke": "Why did the hula hoop go to the doctor?",
+   "riddle": "What has a mouth but never eats, and a bed but never sleeps?",
+   "word_of_the_day": "glare",
+   "this_day_in_history": "On October 27, 1904, the New York City subway opened. On its first day, more than 100,000 riders took trains that zoomed under the city streets! \ud83d\ude87",
+   "did_you_know": "Some jellyfish have no brain, no heart, and no bones, and they are made of about 95 percent water! \ud83d\udca7"
+  }
+ ]
 }

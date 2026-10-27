@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "news": [
     {
-      "emoji": "🧑‍🚀",
+      "emoji": "🔭",
       "tag": "Space",
-      "headline": "Astronauts Get Ready for Spacewalk No. 100",
-      "body": "This Thursday, two astronauts will float outside the International Space Station to give it more power. Anil Menon from NASA and Joshua Kutryk from Canada will add a new solar panel that rolls out like a giant mat to soak up sunlight. NASA is calling it U.S. spacewalk number 100! A second spacewalk on November 5 will add one more panel, the last of eight new roll-out panels. Together, they can boost the station's power by up to 30 percent.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/"
+      "headline": "A Giant Sunshade Gets Ready for an Asteroid Hunter",
+      "body": "NASA is building a space telescope called NEO Surveyor to find asteroids and comets that are hard to spot from Earth. Its biggest part is a sunshade that stands 20 feet tall, taller than a giraffe! The sunshade blocks the Sun's glare to keep the telescope cool, and it is covered with 864 solar cells that make all of the spacecraft's power. Workers just finished adding those solar cells, bringing the telescope one step closer to launch.",
+      "source_name": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/neo-surveyor/2026/10/26/sunshade-for-nasas-neo-surveyor-mission-ready-for-its-day-in-sun/"
     },
     {
-      "emoji": "🐆",
-      "tag": "Animals",
-      "headline": "Two Rare Leopard Cubs Are Born in Europe",
-      "body": "Two Sri Lankan leopard cubs were born at Ostrava Zoo in the country of Czechia, about an hour apart. Their mom is an experienced mother, and she is taking care of the cubs all by herself while keepers give the family peace and quiet. These leopards are rare, with fewer than 60 living in 27 zoos that are part of a European breeding program. The cubs are the only ones born in that program in the past year! Their first checkup with the vet will happen when they are a month old.",
-      "source_name": "Around Prague",
-      "url": "https://aroundprague.cz/en/news/curious/two-rare-sri-lankan-leopard-cubs-born-at-ostrava-zoo"
-    },
-    {
-      "emoji": "🍟",
+      "emoji": "🪀",
       "tag": "Records",
-      "headline": "The World's Biggest Serving of French Fries!",
-      "body": "Potato lovers in Boise, Idaho, just set a delicious world record. Volunteers from a restaurant called Spud Daddy and the Idaho Potato Commission cooked a giant pile of French fries in four huge fryers. It weighed 1,474 pounds, about as heavy as a full-grown cow! That beat the old record, which had stood since 2018. When the weighing was done, the crowd got to munch on the record-breaking fries.",
-      "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/commercial/2026/10/fry-day-night-fever-idaho-spud-lovers-break-record-with-largest-serving-of-french-fries"
+      "headline": "Kid Hula Hoopers Spin Their Way to Six World Records",
+      "body": "Young hula hoopers from a club called the Chennai Hoopers traveled from India, the United Kingdom, and the United States to London to try for world records. They set six of them! One girl spun a hoop around her neck for more than 15 minutes while sitting in the splits. Another kept a hoop spinning while standing on one leg, about two and a half spins every second.",
+      "source_name": "Guinness World Records Kids",
+      "url": "https://kids.guinnessworldrecords.com/news/2026/10/these-kids-travelled-from-across-the-globe-to-set-6-hula-hooping-world-records-at-gwr-hq"
+    },
+    {
+      "emoji": "🪼",
+      "tag": "Ocean",
+      "headline": "Two New Jelly-Like Creatures Found Deep in the Sea",
+      "body": "Scientists at the Monterey Bay Aquarium Research Institute discovered two kinds of deep-sea animals nobody knew about before. They are siphonophores, see-through ocean drifters that are related to jellyfish. One has stretchy orange stomachs, and the other has a fiery red body. The team found them by studying underwater robot videos and museum samples, plus clues hidden in the animals' DNA.",
+      "source_name": "MBARI via Phys.org",
+      "url": "https://phys.org/news/2026-10-dna-underwater-footage-reveal-species.html"
     }
   ],
-  "fun_fact": "Leopards are amazing climbers. They often nap up in trees, and they're strong enough to carry their dinner way up into the branches! 🌳",
+  "fun_fact": "Asteroids can have their own moons! Scientists have found hundreds of asteroids with tiny moons circling around them. 🌑",
   "joke": {
-    "q": "What do you call a potato that watches TV all day?",
-    "a": "A couch potato! 🥔"
+    "q": "Why did the hula hoop go to the doctor?",
+    "a": "It was feeling a little run-down from going in circles all day! ⭕"
   },
   "riddle": {
-    "q": "What can fill a whole room but takes up no space at all?",
-    "a": "Light! 💡"
+    "q": "What has a mouth but never eats, and a bed but never sleeps?",
+    "a": "A river! 🏞️"
   },
   "word_of_the_day": {
-    "word": "orbit",
-    "meaning": "the curved path something travels around a planet, moon, or star",
-    "sentence": "The space station stays in orbit around Earth, circling it again and again."
+    "word": "glare",
+    "meaning": "a very bright, harsh light that is hard to look at",
+    "sentence": "The telescope's sunshade blocks the Sun's glare so it can see faint asteroids."
   },
-  "this_day_in_history": "On October 26, 1825, the Erie Canal opened in New York. This 363-mile waterway let boats travel all the way from the Great Lakes to New York City! 🚤",
-  "did_you_know": "Potatoes were the first vegetable ever grown in space! Potato plants grew aboard the space shuttle Columbia in 1995. 🚀"
+  "this_day_in_history": "On October 27, 1904, the New York City subway opened. On its first day, more than 100,000 riders took trains that zoomed under the city streets! 🚇",
+  "did_you_know": "Some jellyfish have no brain, no heart, and no bones, and they are made of about 95 percent water! 💧"
 }
