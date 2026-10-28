@@ -1,46 +1,46 @@
 {
-  "schema_version": 2,
-  "date": "2026-10-27",
-  "news": [
-    {
-      "emoji": "🔭",
-      "tag": "Space",
-      "headline": "A Giant Sunshade Gets Ready for an Asteroid Hunter",
-      "body": "NASA is building a space telescope called NEO Surveyor to find asteroids and comets that are hard to spot from Earth. Its biggest part is a sunshade that stands 20 feet tall, taller than a giraffe! The sunshade blocks the Sun's glare to keep the telescope cool, and it is covered with 864 solar cells that make all of the spacecraft's power. Workers just finished adding those solar cells, bringing the telescope one step closer to launch.",
-      "source_name": "NASA Science",
-      "url": "https://science.nasa.gov/blogs/neo-surveyor/2026/10/26/sunshade-for-nasas-neo-surveyor-mission-ready-for-its-day-in-sun/"
-    },
-    {
-      "emoji": "🪀",
-      "tag": "Records",
-      "headline": "Kid Hula Hoopers Spin Their Way to Six World Records",
-      "body": "Young hula hoopers from a club called the Chennai Hoopers traveled from India, the United Kingdom, and the United States to London to try for world records. They set six of them! One girl spun a hoop around her neck for more than 15 minutes while sitting in the splits. Another kept a hoop spinning while standing on one leg, about two and a half spins every second.",
-      "source_name": "Guinness World Records Kids",
-      "url": "https://kids.guinnessworldrecords.com/news/2026/10/these-kids-travelled-from-across-the-globe-to-set-6-hula-hooping-world-records-at-gwr-hq"
-    },
-    {
-      "emoji": "🪼",
-      "tag": "Ocean",
-      "headline": "Two New Jelly-Like Creatures Found Deep in the Sea",
-      "body": "Scientists at the Monterey Bay Aquarium Research Institute discovered two kinds of deep-sea animals nobody knew about before. They are siphonophores, see-through ocean drifters that are related to jellyfish. One has stretchy orange stomachs, and the other has a fiery red body. The team found them by studying underwater robot videos and museum samples, plus clues hidden in the animals' DNA.",
-      "source_name": "MBARI via Phys.org",
-      "url": "https://phys.org/news/2026-10-dna-underwater-footage-reveal-species.html"
-    }
-  ],
-  "fun_fact": "Asteroids can have their own moons! Scientists have found hundreds of asteroids with tiny moons circling around them. 🌑",
-  "joke": {
-    "q": "Why did the hula hoop go to the doctor?",
-    "a": "It was feeling a little run-down from going in circles all day! ⭕"
+ "schema_version": 2,
+ "date": "2026-10-28",
+ "news": [
+  {
+   "emoji": "🦕",
+   "tag": "Dinosaurs",
+   "headline": "A Brand-New Dinosaur Gets Its Name",
+   "body": "Scientists at London's Natural History Museum took a fresh look at fossil bones found at a brick factory in England back in 2001, and realized they belong to a dinosaur nobody had named before! It's called Paludohadros proudlovii. This plant-eater walked on four legs, had a spiky thumb, and lived in muddy swamps about 125 million years ago. It was about the size of a rhino, and grown-ups of its kind may have been twice as big.",
+   "source_name": "Natural History Museum",
+   "url": "https://www.nhm.ac.uk/press-office/press-releases/new-uk-dinosaur-named-after-devoted-dad-and-husband.html"
   },
-  "riddle": {
-    "q": "What has a mouth but never eats, and a bed but never sleeps?",
-    "a": "A river! 🏞️"
+  {
+   "emoji": "🚀",
+   "tag": "Space",
+   "headline": "A Pretend Mars Crew Comes Home After a Year",
+   "body": "Four volunteers have spent 378 days living inside a 3D-printed pretend Mars home at NASA's Johnson Space Center in Texas. They grew plants, did practice spacewalks, and waited a long time for messages, just like real Mars explorers would. On Saturday, October 31, they will step outside for the first time in more than a year! What NASA learns will help astronauts get ready for trips to the Moon and Mars.",
+   "source_name": "NASA",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
   },
-  "word_of_the_day": {
-    "word": "glare",
-    "meaning": "a very bright, harsh light that is hard to look at",
-    "sentence": "The telescope's sunshade blocks the Sun's glare so it can see faint asteroids."
-  },
-  "this_day_in_history": "On October 27, 1904, the New York City subway opened. On its first day, more than 100,000 riders took trains that zoomed under the city streets! 🚇",
-  "did_you_know": "Some jellyfish have no brain, no heart, and no bones, and they are made of about 95 percent water! 💧"
+  {
+   "emoji": "🦌",
+   "tag": "Animals",
+   "headline": "Two Baby Antelopes Arrive at a Minnesota Zoo",
+   "body": "Como Park Zoo in St. Paul, Minnesota, welcomed two baby nyala, a kind of antelope from southern Africa with stripes on its sides. The first calf, a boy named Hubert, was born October 3. His little sister arrived just 20 days later! Here's a fun twist: the new girl's mom is Hubert's big sister, so Hubert's mom became a new mom and a new grandma in the same month. Volunteers will name the baby girl on November 5.",
+   "source_name": "KSTP 5 Eyewitness News",
+   "url": "https://kstp.com/kstp-news/local-news/pair-of-nyala-calves-born-at-como-park-zoo-3-weeks-apart/"
+  }
+ ],
+ "fun_fact": "When scientists first found an Iguanodon's spiky thumb bone about 200 years ago, they thought it was a horn and put it on the dinosaur's nose! 🦖",
+ "joke": {
+  "q": "What do you call a dinosaur that knows lots of words?",
+  "a": "A thesaurus! 📖"
+ },
+ "riddle": {
+  "q": "What has a thumb and four fingers but isn't alive?",
+  "a": "A glove! 🧤"
+ },
+ "word_of_the_day": {
+  "word": "simulation",
+  "meaning": "a practice version that copies something real so people can learn from it",
+  "sentence": "The crew lived in a Mars simulation so they could practice for a real trip to Mars."
+ },
+ "this_day_in_history": "On October 28, 1886, the Statue of Liberty was officially opened in New York Harbor. She was a gift from the people of France to the United States! 🗽",
+ "did_you_know": "Boy and girl nyala look very different. Grown-up boys are dark gray with long, twisty horns, while girls are reddish-brown with bright white stripes and no horns. 🦌"
 }
