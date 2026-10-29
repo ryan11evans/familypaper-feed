@@ -1,46 +1,46 @@
 {
  "schema_version": 2,
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "news": [
   {
-   "emoji": "🦕",
-   "tag": "Dinosaurs",
-   "headline": "A Brand-New Dinosaur Gets Its Name",
-   "body": "Scientists at London's Natural History Museum took a fresh look at fossil bones found at a brick factory in England back in 2001, and realized they belong to a dinosaur nobody had named before! It's called Paludohadros proudlovii. This plant-eater walked on four legs, had a spiky thumb, and lived in muddy swamps about 125 million years ago. It was about the size of a rhino, and grown-ups of its kind may have been twice as big.",
-   "source_name": "Natural History Museum",
-   "url": "https://www.nhm.ac.uk/press-office/press-releases/new-uk-dinosaur-named-after-devoted-dad-and-husband.html"
-  },
-  {
-   "emoji": "🚀",
+   "emoji": "\ud83d\udef0\ufe0f",
    "tag": "Space",
-   "headline": "A Pretend Mars Crew Comes Home After a Year",
-   "body": "Four volunteers have spent 378 days living inside a 3D-printed pretend Mars home at NASA's Johnson Space Center in Texas. They grew plants, did practice spacewalks, and waited a long time for messages, just like real Mars explorers would. On Saturday, October 31, they will step outside for the first time in more than a year! What NASA learns will help astronauts get ready for trips to the Moon and Mars.",
-   "source_name": "NASA",
-   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
+   "headline": "A Spacecraft Reaches a Brand-New Asteroid Neighborhood",
+   "body": "NASA's Lucy spacecraft has traveled more than 2.2 billion miles since it blasted off in 2021. Now it is the first spacecraft ever to enter the area of the Jupiter Trojan asteroids, where thousands of space rocks travel around the Sun along the same path as the giant planet Jupiter. Lucy will zoom past its first Trojan asteroid, called Eurybates, on August 11, 2027. Scientists hope these old rocks will help explain how the planets formed long, long ago.",
+   "source_name": "NASA Science",
+   "url": "https://science.nasa.gov/blogs/lucy/2026/10/28/nasas-lucy-reaches-trojan-asteroid-region-5-years-after-launch/"
   },
   {
-   "emoji": "🦌",
+   "emoji": "\ud83d\udc3c",
    "tag": "Animals",
-   "headline": "Two Baby Antelopes Arrive at a Minnesota Zoo",
-   "body": "Como Park Zoo in St. Paul, Minnesota, welcomed two baby nyala, a kind of antelope from southern Africa with stripes on its sides. The first calf, a boy named Hubert, was born October 3. His little sister arrived just 20 days later! Here's a fun twist: the new girl's mom is Hubert's big sister, so Hubert's mom became a new mom and a new grandma in the same month. Volunteers will name the baby girl on November 5.",
-   "source_name": "KSTP 5 Eyewitness News",
-   "url": "https://kstp.com/kstp-news/local-news/pair-of-nyala-calves-born-at-como-park-zoo-3-weeks-apart/"
+   "headline": "A Baby Panda Gets Ready to Meet Visitors",
+   "body": "A giant panda cub named Shu Bao will meet visitors for the first time this Friday at Everland, a theme park in South Korea. She was born on June 3 and weighed only about 6 ounces, as light as an apple! Now she weighs more than 20 pounds. Her keepers say she toddles around, plays with her mom, and practices climbing trees. Her name means \"a treasure as bright as the light of dawn,\" and it was picked from about 220,000 votes.",
+   "source_name": "The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10916750"
+  },
+  {
+   "emoji": "\ud83e\udd38",
+   "tag": "Records",
+   "headline": "A Gymnast Balances on His Knuckles for a World Record",
+   "body": "Madden Shelley from Tennessee fell in love with gymnastics at a friend's birthday party when he was a kid. Now he holds a Guinness World Records title! He did a handstand balancing on his knuckles instead of his flat hands and held it for 1 minute and 23 seconds. He trained carefully for months to get strong enough, so this is not a trick to try at home. Next, he hopes to go after another handstand record.",
+   "source_name": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/news/2026/10/american-gymnast-knuckles-down-to-nail-record-breaking-handstand"
   }
  ],
- "fun_fact": "When scientists first found an Iguanodon's spiky thumb bone about 200 years ago, they thought it was a horn and put it on the dinosaur's nose! 🦖",
+ "fun_fact": "A newborn giant panda is pink, nearly hairless, and about the size of a stick of butter. Its mom is about 900 times heavier! \ud83d\udc3c",
  "joke": {
-  "q": "What do you call a dinosaur that knows lots of words?",
-  "a": "A thesaurus! 📖"
+  "q": "What do you call a bear with no teeth?",
+  "a": "A gummy bear! \ud83e\uddf8"
  },
  "riddle": {
-  "q": "What has a thumb and four fingers but isn't alive?",
-  "a": "A glove! 🧤"
+  "q": "What goes up when the rain comes down?",
+  "a": "An umbrella! \u2602\ufe0f"
  },
  "word_of_the_day": {
-  "word": "simulation",
-  "meaning": "a practice version that copies something real so people can learn from it",
-  "sentence": "The crew lived in a Mars simulation so they could practice for a real trip to Mars."
+  "word": "debut",
+  "meaning": "the very first time someone or something is shown to the public",
+  "sentence": "The baby panda will make her debut at the zoo this Friday."
  },
- "this_day_in_history": "On October 28, 1886, the Statue of Liberty was officially opened in New York Harbor. She was a gift from the people of France to the United States! 🗽",
- "did_you_know": "Boy and girl nyala look very different. Grown-up boys are dark gray with long, twisty horns, while girls are reddish-brown with bright white stripes and no horns. 🦌"
+ "this_day_in_history": "On October 29, 1998, John Glenn blasted off on the space shuttle Discovery at age 77, becoming the oldest person to fly in space at that time! \ud83d\ude80",
+ "did_you_know": "The Lucy spacecraft is named after a famous fossil called Lucy, and that fossil got its name from a Beatles song, \"Lucy in the Sky with Diamonds.\" \ud83c\udfb6"
 }
