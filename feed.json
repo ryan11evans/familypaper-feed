@@ -1,46 +1,46 @@
 {
  "schema_version": 2,
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "news": [
   {
-   "emoji": "\ud83d\udc39",
-   "tag": "Animals",
-   "headline": "Surprise! Three Baby Capybaras Arrive at Once",
-   "body": "Zookeepers at Edinburgh Zoo in Scotland got a happy surprise this week. Three capybara pups were born overnight to their parents, Luna and Rodney! The triplets are doing well and are staying close to their mom for now. In a few weeks, the pups will get their first checkup, and then keepers will find out if they are boys or girls and pick their names. Capybaras are the biggest rodents in the whole world.",
-   "source_name": "Edinburgh Zoo",
-   "url": "https://www.edinburghzoo.org.uk/news/whats-water-edinburgh-zoo-celebrates-birth-three-capybara-pups"
-  },
-  {
-   "emoji": "\ud83d\udef0\ufe0f",
-   "tag": "Space",
-   "headline": "Faraway Voyager 1 Finds a Way to Save Energy",
-   "body": "Voyager 1 blasted off way back in 1977, and now it is about 16 billion miles from Earth, out in the space between the stars. Its power slowly runs lower every year, so NASA engineers swapped three of its parts for ones that use less energy. That means its science tools can keep working longer. The spacecraft also went quiet for two days this month, but then it started talking to Earth again all by itself!",
-   "source_name": "NASA JPL",
-   "url": "https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/"
-  },
-  {
-   "emoji": "\ud83c\udfa7",
+   "emoji": "\ud83c\udf83",
    "tag": "Records",
-   "headline": "A 6-Year-Old Becomes the World's Youngest DJ",
-   "body": "Illumi Maeda from Japan started learning to be a DJ when she was only 3 years old. Now, at 6, she holds a Guinness World Records title as the youngest girl ever to DJ at a club! She played music for more than an hour in front of a big, cheering crowd. She felt nervous, but she kept going. Someday she wants to play music at festivals around the world and open an ice cream shop where she can DJ too.",
-   "source_name": "Guinness World Records Kids",
-   "url": "https://kids.guinnessworldrecords.com/news/2026/10/6-year-old-illumi-is-the-worlds-youngest-dj"
+   "headline": "The World's Heaviest Pumpkin Becomes a Giant Jack-o'-Lantern",
+   "body": "Remember the first pumpkin ever to weigh more than 3,000 pounds? Just in time for Halloween, a team of carvers in Salem, Massachusetts, turned it into the heaviest jack-o'-lantern of all time! They spent 32 hours carving flying bats, a witch with a knobbly nose, and a goofy skeleton. A Guinness World Records judge checked, and the carved pumpkin still weighed 3,156 pounds. That's about as heavy as a small car!",
+   "source_name": "Guinness World Records",
+   "url": "https://www.guinnessworldrecords.com/news/commercial/2026/10/heaviest-pumpkin-dons-carved-costume-in-salem-to-turn-into-heftiest-jack-o-lantern-ever"
+  },
+  {
+   "emoji": "\u2600\ufe0f",
+   "tag": "Space",
+   "headline": "Spacewalk No. 100 Gives the Space Station More Power",
+   "body": "Astronauts Anil Menon and Joshua Kutryk floated outside the International Space Station for more than seven hours this week. It was the 100th spacewalk by an American astronaut crew! They unrolled a new solar panel, kind of like unrolling a giant yoga mat, to soak up sunlight and make electricity. One more panel will be added next week, and then the station will have about 30 percent more power.",
+   "source_name": "NASA",
+   "url": "https://www.nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation/"
+  },
+  {
+   "emoji": "\ud83d\udc06",
+   "tag": "Animals",
+   "headline": "A Rare Amur Leopard Cub Is Growing Big and Strong",
+   "body": "The Potawatomi Zoo in South Bend, Indiana, has a brand-new Amur leopard cub! The little boy cub was born in September, and he doesn't have a name yet. Zookeepers have been feeding him and caring for him around the clock, and he is growing healthy and strong. Amur leopards are some of the rarest big cats on Earth. Only about 100 live in the wild, so every new cub is a big deal.",
+   "source_name": "WNDU",
+   "url": "https://www.wndu.com/2026/10/23/zoo-welcomes-birth-critically-endangered-amur-leopard/"
   }
  ],
- "fun_fact": "An octopus has three hearts and blue blood! Two hearts pump blood to its gills, and one pumps it to the rest of its body. \ud83d\udc19",
+ "fun_fact": "Bats are the only mammals that can truly fly. Their wings are really long, thin fingers with skin stretched between them! \ud83e\udd87",
  "joke": {
-  "q": "Why didn't the skeleton go to the party?",
-  "a": "He had no body to go with! \ud83d\udc80"
+  "q": "What is a ghost's favorite dessert?",
+  "a": "I scream! \ud83d\udc7b"
  },
  "riddle": {
-  "q": "What runs all day but never walks?",
-  "a": "A river! \ud83c\udfde\ufe0f"
+  "q": "What has lots of needles but can't sew?",
+  "a": "A porcupine (or a pine tree)! \ud83c\udf32"
  },
  "word_of_the_day": {
-  "word": "triplets",
-  "meaning": "three babies born to the same mom at the same time",
-  "sentence": "The zoo's new capybara triplets snuggle close to their mom."
+  "word": "gourd",
+  "meaning": "a plant with a hard outer shell, in the same family as pumpkins and squash",
+  "sentence": "The giant gourd was carved into a spooky jack-o'-lantern."
  },
- "this_day_in_history": "On October 30, 1735, John Adams was born in Massachusetts. He grew up to become the second president of the United States! \ud83c\uddfa\ud83c\uddf8",
- "did_you_know": "Voyager 1 carries a golden record with sounds from Earth, like music, laughter, and a hello in many languages, in case anyone out in space ever finds it. \ud83d\udcbf"
+ "this_day_in_history": "On October 31, 1941, workers finished carving Mount Rushmore in South Dakota. The faces of four presidents are each about 60 feet tall! \ud83d\uddff",
+ "did_you_know": "Amur leopards grow extra-thick fur in winter, up to about 3 inches long, to stay cozy in the snowy forests where they live. \u2744\ufe0f"
 }
