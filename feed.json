@@ -1,46 +1,46 @@
 {
  "schema_version": 2,
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "news": [
   {
-   "emoji": "🐱",
+   "emoji": "🔭",
    "tag": "Space",
-   "headline": "A Space Telescope Spots a Giant Cat's Head in the Stars",
-   "body": "Meow! NASA's James Webb Space Telescope took a new picture of a huge cloud of gas and dust shaped like a cat's head. It's called the Cat's Head Nebula, and it sits inside a bigger cloud named the Carina Nebula. Super-bright stars nearby blow strong winds and blast powerful light that wear away the softer parts of the cloud, kind of like waves shaping sand. The thicker parts stay behind, leaving a pointy-eared kitty in space!",
+   "headline": "NASA Wants to Give the Hubble Telescope a Boost",
+   "body": "The Hubble Space Telescope has been taking amazing pictures of space for more than 35 years! But Hubble is slowly sinking lower as it circles Earth, and it has no engine of its own to climb back up. Now NASA is asking companies for ideas, like sending a spacecraft to push Hubble higher or even fix it up. Scientists say that could help Hubble keep making new discoveries for many more years.",
    "source_name": "NASA",
-   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+   "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
   },
   {
-   "emoji": "🦌",
+   "emoji": "🐈",
    "tag": "Animals",
-   "headline": "A Teeny Baby Deer Is Born at a Zoo in Japan",
-   "body": "A zoo in Kobe, Japan, has a brand-new pudu fawn! Pudus are the smallest deer in the whole world, and they come from South America. The little boy fawn was named Sazanka, after a pretty winter flower. When he was born in early October, he weighed only about 1.6 pounds, less than a big bag of apples. In just a few weeks, he doubled his weight! His white baby spots will fade away in two or three months.",
-   "source_name": "The Asahi Shimbun",
-   "url": "https://www.asahi.com/articles/ASVBZ2J5WVBZPIHB008M.html"
+   "headline": "Scientists Meet a Brand-New Kind of Wild Cat",
+   "body": "Scientists have found a whole new species of wild cat living in the forests of Bolivia, in South America. It's called the tilcayo, the name local people have used for it for a very long time. The little spotted cat looks a lot like other small wild cats, but it has bigger, wigglier spots, shorter fur and a longer, less bushy tail. Figuring out it was truly new took almost 10 years of detective work!",
+   "source_name": "Guinness World Records Kids",
+   "url": "https://kids.guinnessworldrecords.com/news/2026/10/weird-kitten-found-in-the-bolivian-jungle-is-a-whole-new-species-of-cat"
   },
   {
-   "emoji": "☀️",
-   "tag": "Kids",
-   "headline": "A 13-Year-Old Builds a Solar Gadget to Skip a Chore",
-   "body": "Jason Chang, a seventh grader in Massachusetts, kept getting sent outside to tilt the solar panels on holiday lights so they faced the sun. So he invented a tracker that turns a solar panel all by itself, using gravity instead of electricity! It cost less than $25 to build. In tests, his moving panel made about 20 percent more power than a panel that stayed still. Now he's a national STEM champion!",
-   "source_name": "ZME Science",
-   "url": "https://www.zmescience.com/ecology/renewable-energy-ecology/13-year-old-solar-power-gadget/"
+   "emoji": "🦖",
+   "tag": "Dinosaurs",
+   "headline": "Meet the First Known Fruit-Eating Dinosaur",
+   "body": "Scientists have named a new dinosaur called Infernogallus. It was a small, beaked dinosaur that lived at the same time as T. rex and Triceratops. By scanning its skull, scientists found chewing muscles like the ones fruit-eating parrots have today. That means it could slide its beak back and forth to mash up soft fruit. It's the first dinosaur known to have been built for eating fruit!",
+   "source_name": "Royal Ontario Museum via Phys.org",
+   "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html"
   }
  ],
- "fun_fact": "A hummingbird's heart can beat more than 1,000 times a minute when it's zooming around. That's super speedy! 🐦",
+ "fun_fact": "Cats spend about 12 to 16 hours a day sleeping. That's more than half the day! 😴",
  "joke": {
-  "q": "Why did the deer need braces?",
-  "a": "Because it had buck teeth! 🦌"
+  "q": "Why did the cat sit next to the computer?",
+  "a": "To keep an eye on the mouse! 🐭"
  },
  "riddle": {
-  "q": "What has four legs but can't walk?",
-  "a": "A table! 🪑"
+  "q": "What is full of holes but still holds water?",
+  "a": "A sponge! 🧽"
  },
  "word_of_the_day": {
-  "word": "nebula",
-  "meaning": "a giant cloud of gas and dust in space where new stars can be born",
-  "sentence": "The telescope took a picture of a nebula shaped like a cat."
+  "word": "species",
+  "meaning": "a group of living things that are alike and can have babies together",
+  "sentence": "Scientists found a new species of wild cat in Bolivia."
  },
- "this_day_in_history": "On November 1, 1512, people first saw Michelangelo's famous paintings on the ceiling of the Sistine Chapel in Rome. He painted them standing on tall platforms! 🎨",
- "did_you_know": "A grown-up pudu deer is only about 13 to 17 inches tall at the shoulder. That's around the size of a beagle! 🐶"
+ "this_day_in_history": "On November 2, 1947, a giant wooden airplane nicknamed the Spruce Goose flew for the first and only time. It zoomed about one mile, just above the water in California! ✈️",
+ "did_you_know": "The Hubble Space Telescope zips all the way around Earth about every 95 minutes. That's about 15 trips around the planet every day! 🌍"
 }
