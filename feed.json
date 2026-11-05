@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "news": [
     {
-      "emoji": "🐦",
-      "tag": "Animals",
-      "headline": "Six Rare Baby Birds Hatch at Zoo Atlanta",
-      "body": "Zoo Atlanta says six Bali myna chicks hatched there this year! Bali mynas are snowy-white birds with black tips on their wings and tails and bright blue skin around their eyes. Back in 2001, only six of them were left in the wild. Thanks to people working hard to protect them, there are now about 600. Every new chick helps them keep coming back.",
-      "source_name": "Atlanta News First",
-      "url": "https://www.atlantanewsfirst.com/2026/11/03/zoo-atlanta-welcomes-critically-endangered-bird-hatchlings/"
-    },
-    {
-      "emoji": "🏆",
-      "tag": "Records",
-      "headline": "A Rubber Band Ball as Heavy as an Elephant!",
-      "body": "A man in Detroit named Claude Moore spent 11 years wrapping rubber bands around and around into one giant ball. Now it's the biggest rubber band ball in the world! It weighs 11,578 pounds, about as much as an elephant. It was so heavy that a crane had to lift it to weigh it, and the crowd cheered when it beat the old record.",
-      "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/commercial/2026/11/elephant-sized-rubber-band-ball-built-over-11-years-breaks-record-as-largest-ever"
-    },
-    {
-      "emoji": "🛰️",
+      "emoji": "🪐",
       "tag": "Space",
-      "headline": "Astronauts Get Ready to Add the Last Big Solar Panel",
-      "body": "Astronauts on the International Space Station are getting ready for a spacewalk on Thursday. They plan to unroll the eighth and final new solar panel, like rolling out a giant mat. It finishes a job that started in 2021 to give the station more power from sunlight. The spacewalk should take about seven hours, and people can watch it live.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/blogs/spacestation/2026/11/03/crew-keeps-up-spacewalk-preps-research-and-cargo-operations/"
+      "headline": "Astronomers Spot a Brand-New Dwarf Planet",
+      "body": "Astronomers think they have found a new dwarf planet beyond Pluto! It is nicknamed 2026 ED138 and sits about 4.3 billion miles from Earth. The Vera C. Rubin Observatory in Chile, which has the world's largest camera, snapped it over several months. If other scientists confirm it, it could become the sixth dwarf planet in our Solar System, joining Pluto, Ceres, Eris, Haumea, and Makemake.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.co.uk/newsround/articles/ckg5jl7mnj1mo"
+    },
+    {
+      "emoji": "🦫",
+      "tag": "Animals",
+      "headline": "Beavers Help Keep the Land Wet and Green",
+      "body": "New research from the University of Liverpool says beavers help landscapes even more than people thought. Their dams keep water levels steady, so peat and plants stay wet even in dry summers. At an enclosure in Cheshire, England, the beaver pond stayed wet through a big drought and helped nearby wildlife. Beavers once lived across Britain, and scientists say bringing them back can help wetlands.",
+      "source_name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3qjnx95zwlvo"
+    },
+    {
+      "emoji": "🐧",
+      "tag": "Science",
+      "headline": "Penguin Poo Helps Green Snow Grow",
+      "body": "Scientists in Colorado studied Antarctic snow and found something surprising: penguin poo, called guano, feeds tiny green snow algae. Where lots of penguins live, the algae grows faster and turns the snow green. Green snow soaks up more sunlight, so it melts a bit quicker than clean white snow. The researchers say this penguin effect should be counted when people study how Antarctic snow changes.",
+      "source_name": "BBC Newsround",
+      "url": "https://www.bbc.com/newsround/articles/cm2l48ez5wyko"
     }
   ],
-  "fun_fact": "Natural rubber starts as a milky white sap called latex that drips out of rubber trees, kind of like maple syrup comes from maple trees! 🌳",
+  "fun_fact": "Dwarf planets are round like regular planets, but they share their neighborhood with other space rocks instead of clearing a path around the Sun! 🪐",
   "joke": {
-    "q": "Why do birds fly south for the winter?",
-    "a": "Because it's too far to walk! 🐦"
+    "q": "What do you call a penguin's favorite aunt?",
+    "a": "Aunt-arctica! 🐧"
   },
   "riddle": {
-    "q": "What has one head, one foot, and four legs?",
-    "a": "A bed! 🛏️"
+    "q": "What has cities but no houses, forests but no trees, and rivers but no water?",
+    "a": "A map! 🗺️"
   },
   "word_of_the_day": {
-    "word": "mimic",
-    "meaning": "to copy the way something sounds or acts",
-    "sentence": "Bali myna birds can mimic sounds, and some can even copy words."
+    "word": "observatory",
+    "meaning": "a place with telescopes for studying the sky",
+    "sentence": "An observatory in Chile took the photos that revealed the new dwarf planet."
   },
-  "this_day_in_history": "On November 4, 1922, Howard Carter's team found the first step down to King Tut's tomb in Egypt. Inside were thousands of treasures, including a golden mask! 🏺",
-  "did_you_know": "Starlings are amazing copycats. Some can copy car alarms, phone rings, and the songs of other birds! 🎶"
+  "this_day_in_history": "On November 5, 1935, the board game Monopoly first went on sale in the United States. Players still buy streets, build houses, and try not to go broke! 🎲",
+  "did_you_know": "Beavers slap their flat tails on the water as a loud splash when they sense trouble. That boom tells other beavers to dive and hide! 🦫"
 }
