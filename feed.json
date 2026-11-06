@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "news": [
     {
-      "emoji": "🪐",
-      "tag": "Space",
-      "headline": "Astronomers Spot a Brand-New Dwarf Planet",
-      "body": "Astronomers think they have found a new dwarf planet beyond Pluto! It is nicknamed 2026 ED138 and sits about 4.3 billion miles from Earth. The Vera C. Rubin Observatory in Chile, which has the world's largest camera, snapped it over several months. If other scientists confirm it, it could become the sixth dwarf planet in our Solar System, joining Pluto, Ceres, Eris, Haumea, and Makemake.",
-      "source_name": "BBC Newsround",
-      "url": "https://www.bbc.co.uk/newsround/articles/ckg5jl7mnj1mo"
-    },
-    {
-      "emoji": "🦫",
+      "emoji": "🦧",
       "tag": "Animals",
-      "headline": "Beavers Help Keep the Land Wet and Green",
-      "body": "New research from the University of Liverpool says beavers help landscapes even more than people thought. Their dams keep water levels steady, so peat and plants stay wet even in dry summers. At an enclosure in Cheshire, England, the beaver pond stayed wet through a big drought and helped nearby wildlife. Beavers once lived across Britain, and scientists say bringing them back can help wetlands.",
-      "source_name": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3qjnx95zwlvo"
+      "headline": "A Baby Bonobo Arrives in Florida",
+      "body": "The Jacksonville Zoo and Botanical Gardens welcomed a brand-new baby bonobo! Mom Kimia gave birth just before 10 p.m. on November 3, and keepers say both mom and baby are doing well. It is the zoo's first bonobo birth in more than 10 years. Bonobos are endangered apes from Central Africa, and the zoo is giving the pair quiet time to settle in while the care team checks on them.",
+      "source_name": "First Coast News",
+      "url": "https://www.firstcoastnews.com/article/news/local/kimia-bonobo-gives-birth-jacksonville-zoos-newest-member/77-7c8d7ce4-36b6-4ece-bd68-8742f94ee110"
     },
     {
-      "emoji": "🐧",
-      "tag": "Science",
-      "headline": "Penguin Poo Helps Green Snow Grow",
-      "body": "Scientists in Colorado studied Antarctic snow and found something surprising: penguin poo, called guano, feeds tiny green snow algae. Where lots of penguins live, the algae grows faster and turns the snow green. Green snow soaks up more sunlight, so it melts a bit quicker than clean white snow. The researchers say this penguin effect should be counted when people study how Antarctic snow changes.",
+      "emoji": "🐱",
+      "tag": "Animals",
+      "headline": "Some Cats Are Shy — Just Like Kids",
+      "body": "Scientists at Kyoto University in Japan studied 310 pet cats and found four personality types, including a shy group that is both fearful and curious at once. That mix is a lot like young children who want to say hello but feel a little nervous. The researchers say cats are more complex than simply friendly or timid, and understanding each cat's style can help pets feel safer at home and in shelters.",
       "source_name": "BBC Newsround",
-      "url": "https://www.bbc.com/newsround/articles/cm2l48ez5wyko"
+      "url": "https://www.bbc.co.uk/newsround/articles/c8r4yvz5rw0ro"
+    },
+    {
+      "emoji": "📚",
+      "tag": "World",
+      "headline": "153,862 Readers Set a World Record",
+      "body": "Book lovers in 92 countries teamed up for a giant online reading party and set a Guinness World Record for the most people reading online in 12 hours. About 153,862 readers joined schools, libraries, and families for the Take 10 To Read challenge. On November 4, kids at a London primary school helped celebrate when the record was officially announced.",
+      "source_name": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2026/11/bookworms-from-92-countries-celebrate-national-year-of-reading-with-huge-literary-party"
     }
   ],
-  "fun_fact": "Dwarf planets are round like regular planets, but they share their neighborhood with other space rocks instead of clearing a path around the Sun! 🪐",
+  "fun_fact": "Bonobos and chimpanzees are humans' closest living animal relatives. Scientists say we share nearly 99 percent of our DNA with them! 🦧",
   "joke": {
-    "q": "What do you call a penguin's favorite aunt?",
-    "a": "Aunt-arctica! 🐧"
+    "q": "What building has the most stories?",
+    "a": "A library! 📚"
   },
   "riddle": {
-    "q": "What has cities but no houses, forests but no trees, and rivers but no water?",
-    "a": "A map! 🗺️"
+    "q": "I speak without a mouth and hear without ears. What am I?",
+    "a": "An echo! 🔊"
   },
   "word_of_the_day": {
-    "word": "observatory",
-    "meaning": "a place with telescopes for studying the sky",
-    "sentence": "An observatory in Chile took the photos that revealed the new dwarf planet."
+    "word": "personality",
+    "meaning": "the special mix of traits that makes someone unique",
+    "sentence": "Researchers found that cats can have a shy personality, curious and careful at the same time."
   },
-  "this_day_in_history": "On November 5, 1935, the board game Monopoly first went on sale in the United States. Players still buy streets, build houses, and try not to go broke! 🎲",
-  "did_you_know": "Beavers slap their flat tails on the water as a loud splash when they sense trouble. That boom tells other beavers to dive and hide! 🦫"
+  "this_day_in_history": "On November 6, 1869, Rutgers beat Princeton 6–4 in the first college football game in the United States. Players used a round ball and lots of kicking! 🏈",
+  "did_you_know": "A group of cats is called a clowder, and a group of kittens is called a kindle. Fancy names for a cozy pile of fur! 🐱"
 }
