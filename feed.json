@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-07",
+  "date": "2026-11-10",
   "news": [
     {
-      "emoji": "🦛",
+      "emoji": "🐋",
       "tag": "Animals",
-      "headline": "Famous Hippo Moo Deng Becomes an Aunt!",
-      "body": "Moo Deng, the bouncy baby pygmy hippo who became famous online, is now an aunt! Her older brother Moo Toon and his partner Moo Manao welcomed a healthy baby on November 4 at Khao Kheow Open Zoo in Thailand. The newborn is already walking around and exploring while mom stays close by. Zoo vets are keeping an eye on the pair, and the zoo hasn't picked a date yet for visitors to meet the new baby.",
-      "source_name": "Pattaya Mail",
-      "url": "https://www.pattayamail.com/thailandnews/newborn-pygmy-hippo-brings-joy-to-moo-dengs-growing-family-at-khao-kheow-open-zoo-571162"
+      "headline": "A New Baby Right Whale Gives Scientists Hope",
+      "body": "Researchers found a baby North Atlantic right whale swimming with its mom near Quebec, Canada. That brings this season's count of new right whale calves to 24, the most since 2009. These whales are very rare, with only about 380 left, so every new baby is a big deal for the scientists who protect them.",
+      "source_name": "Los Angeles Times",
+      "url": "https://www.latimes.com/science/story/2026-11-09/baby-right-whale-discovered-off-canada-gives-scientists-cause-for-joy"
     },
     {
-      "emoji": "✈️",
+      "emoji": "🪐",
+      "tag": "Space",
+      "headline": "Astronomers Spot a Possible New Dwarf Planet",
+      "body": "A telescope at the new Vera C. Rubin Observatory in Chile spotted a faraway object named 2026 ED138. It might be between 600 and 1,500 kilometres wide, which could make it one of the biggest dwarf planets ever found. Scientists need more data to be sure. If it is confirmed, it would become the sixth known dwarf planet, joining Pluto, Eris, Haumea, Makemake and Ceres.",
+      "source_name": "CBC Kids News",
+      "url": "https://www.cbc.ca/kidsnews/post/scientists-spot-what-could-be-another-dwarf-planet-lurking-beyond-pluto"
+    },
+    {
+      "emoji": "🦑",
       "tag": "Science",
-      "headline": "NASA Shows Off a Brand-New Test Plane",
-      "body": "NASA unveiled its newest experimental airplane, the X-70 Fractal, at Kennedy Space Center in Florida. Pilots will fly it to test new ways of steering and controlling aircraft, and scientists can quickly swap different experiments in and out. It can fly up to 45,000 feet high, which is higher than most passenger jets. NASA hopes to take it on its first flight within the next two years.",
-      "source_name": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
-    },
-    {
-      "emoji": "🏃",
-      "tag": "Records",
-      "headline": "Running a Mile While Solving Puzzle Cubes",
-      "body": "A speedcubing champion from the UK named George Scholey set a Guinness World Record by solving a puzzle cube, sprinting one lap around a track, and doing it again and again until he had run a whole mile. He solved four cubes and finished in 5 minutes and 9 seconds! After his final lap, he jumped into his friends' arms to celebrate.",
-      "source_name": "Guinness World Records",
-      "url": "https://www.guinnessworldrecords.com/news/2026/11/4-puzzle-cubes-4-laps-5-minutes-runner-breaks-record-by-racing-mile-while-solving-cube"
+      "headline": "Cuttlefish Check Their Work When They Hide",
+      "body": "Cuttlefish can change their skin to look just like the sand and pebbles around them. A study found they do it in steps, pausing and adjusting to get closer to the seafloor pattern each time. It seems they check their own work as they go. Scientists still don't know exactly how the cuttlefish senses what its skin looks like.",
+      "source_name": "Earth.com",
+      "url": "https://www.earth.com/animals/scientists-learn-how-colorblind-cuttlefish-constantly-adjust-their-skin-patterns-to-perfectly-match-the-ocean-floor/"
     }
   ],
-  "fun_fact": "Pygmy hippos are only about 3 feet tall, close to the size of a big dog. They live in the forests and swamps of West Africa. 🦛",
+  "fun_fact": "A cuttlefish has three hearts and blue-green blood! 🦑",
   "joke": {
-    "q": "Why was the math book sad?",
-    "a": "It had too many problems! 📘"
+    "q": "What do you call a sleeping dinosaur?",
+    "a": "A dino-snore! 🦖"
   },
   "riddle": {
-    "q": "What can you hold in your left hand but never in your right hand?",
-    "a": "Your right elbow! 💪"
+    "q": "What has keys but can't open any locks?",
+    "a": "A piano! 🎹"
   },
   "word_of_the_day": {
-    "word": "experimental",
-    "meaning": "made or used to test a new idea and see if it works",
-    "sentence": "NASA's experimental X-70 airplane will help pilots test new ways to fly."
+    "word": "calf",
+    "meaning": "a baby whale, cow, or some other large animals",
+    "sentence": "The whale calf swam close to its mother."
   },
-  "this_day_in_history": "On November 7, 1867, scientist Marie Curie was born in Poland. She became the first woman to win a Nobel Prize, and the first person ever to win two! 🔬",
-  "did_you_know": "A puzzle cube can be mixed up in more than 43 quintillion ways, but scientists proved any scramble can be solved in 20 moves or fewer! 🧩"
+  "this_day_in_history": "On November 10, 1969, the TV show Sesame Street aired for the first time. It has been teaching kids their letters and numbers ever since! 📺",
+  "did_you_know": "Pluto was once called the ninth planet, but it was moved to the dwarf planet group in 2006. 🪐"
 }

@@ -561,6 +561,25 @@
       "word_of_the_day": "experimental",
       "this_day_in_history": "On November 7, 1867, scientist Marie Curie was born in Poland. She became the first woman to win a Nobel Prize, and the first person ever to win two! 🔬",
       "did_you_know": "A puzzle cube can be mixed up in more than 43 quintillion ways, but scientists proved any scramble can be solved in 20 moves or fewer! 🧩"
+    },
+    {
+      "date": "2026-11-10",
+      "headlines": [
+        "A New Baby Right Whale Gives Scientists Hope",
+        "Astronomers Spot a Possible New Dwarf Planet",
+        "Cuttlefish Check Their Work When They Hide"
+      ],
+      "urls": [
+        "https://www.latimes.com/science/story/2026-11-09/baby-right-whale-discovered-off-canada-gives-scientists-cause-for-joy",
+        "https://www.cbc.ca/kidsnews/post/scientists-spot-what-could-be-another-dwarf-planet-lurking-beyond-pluto",
+        "https://www.earth.com/animals/scientists-learn-how-colorblind-cuttlefish-constantly-adjust-their-skin-patterns-to-perfectly-match-the-ocean-floor/"
+      ],
+      "fun_fact": "A cuttlefish has three hearts and blue-green blood! 🦑",
+      "joke": "What do you call a sleeping dinosaur?",
+      "riddle": "What has keys but can't open any locks?",
+      "word_of_the_day": "calf",
+      "this_day_in_history": "On November 10, 1969, the TV show Sesame Street aired for the first time. It has been teaching kids their letters and numbers ever since! 📺",
+      "did_you_know": "Pluto was once called the ninth planet, but it was moved to the dwarf planet group in 2006. 🪐"
     }
   ]
 }
