@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "news": [
     {
-      "emoji": "🐋",
+      "emoji": "🦭",
       "tag": "Animals",
-      "headline": "A New Baby Right Whale Gives Scientists Hope",
-      "body": "Researchers found a baby North Atlantic right whale swimming with its mom near Quebec, Canada. That brings this season's count of new right whale calves to 24, the most since 2009. These whales are very rare, with only about 380 left, so every new baby is a big deal for the scientists who protect them.",
-      "source_name": "Los Angeles Times",
-      "url": "https://www.latimes.com/science/story/2026-11-09/baby-right-whale-discovered-off-canada-gives-scientists-cause-for-joy"
+      "headline": "Rescued Baby Walrus Finds a Forever Home",
+      "body": "A college student studying a beach in Alaska spotted a lone baby walrus and helped rescue him. He was named Annautaq. Experts said he is too used to people to live in the wild, so he now lives at SeaWorld Orlando. He weighs about 250 pounds and gets up to six bottle feedings a day.",
+      "source_name": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/"
     },
     {
-      "emoji": "🪐",
+      "emoji": "🚀",
       "tag": "Space",
-      "headline": "Astronomers Spot a Possible New Dwarf Planet",
-      "body": "A telescope at the new Vera C. Rubin Observatory in Chile spotted a faraway object named 2026 ED138. It might be between 600 and 1,500 kilometres wide, which could make it one of the biggest dwarf planets ever found. Scientists need more data to be sure. If it is confirmed, it would become the sixth known dwarf planet, joining Pluto, Eris, Haumea, Makemake and Ceres.",
-      "source_name": "CBC Kids News",
-      "url": "https://www.cbc.ca/kidsnews/post/scientists-spot-what-could-be-another-dwarf-planet-lurking-beyond-pluto"
+      "headline": "Twin NASA Probes Slingshot Toward Mars",
+      "body": "Two NASA spacecraft called ESCAPADE zoomed close to Earth and fired their engines to get a boost toward Mars. It is the first time NASA has used this trick to send a spacecraft to the Red Planet. Both burns went perfectly, and the probes will study Mars's magnetic field.",
+      "source_name": "Space.com",
+      "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth"
     },
     {
-      "emoji": "🦑",
+      "emoji": "🐙",
       "tag": "Science",
-      "headline": "Cuttlefish Check Their Work When They Hide",
-      "body": "Cuttlefish can change their skin to look just like the sand and pebbles around them. A study found they do it in steps, pausing and adjusting to get closer to the seafloor pattern each time. It seems they check their own work as they go. Scientists still don't know exactly how the cuttlefish senses what its skin looks like.",
-      "source_name": "Earth.com",
-      "url": "https://www.earth.com/animals/scientists-learn-how-colorblind-cuttlefish-constantly-adjust-their-skin-patterns-to-perfectly-match-the-ocean-floor/"
+      "headline": "How Octopuses Squeeze Through Tiny Holes",
+      "body": "Scientists watched octopuses escape through small openings. First an octopus feels the hole with one arm, then it threads more arms through, and finally it pulls its body through. The findings could help engineers build soft rescue robots that fit into tight spaces.",
+      "source_name": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/"
     }
   ],
-  "fun_fact": "A cuttlefish has three hearts and blue-green blood! 🦑",
+  "fun_fact": "An octopus has nine brains: one in its head and one in each arm! 🐙",
   "joke": {
-    "q": "What do you call a sleeping dinosaur?",
-    "a": "A dino-snore! 🦖"
+    "q": "Why did the cookie go to the doctor?",
+    "a": "Because it felt crummy! 🍪"
   },
   "riddle": {
-    "q": "What has keys but can't open any locks?",
-    "a": "A piano! 🎹"
+    "q": "What has hands but cannot clap?",
+    "a": "A clock! ⏰"
   },
   "word_of_the_day": {
-    "word": "calf",
-    "meaning": "a baby whale, cow, or some other large animals",
-    "sentence": "The whale calf swam close to its mother."
+    "word": "gravity",
+    "meaning": "the force that pulls things toward each other, like keeping you on the ground",
+    "sentence": "Gravity helps a spacecraft swing around a planet."
   },
-  "this_day_in_history": "On November 10, 1969, the TV show Sesame Street aired for the first time. It has been teaching kids their letters and numbers ever since! 📺",
-  "did_you_know": "Pluto was once called the ninth planet, but it was moved to the dwarf planet group in 2006. 🪐"
+  "this_day_in_history": "On November 11, 1918, World War I ended, and the day is now remembered as Veterans Day in the United States to thank people who served. 🇺🇸",
+  "did_you_know": "A day on Mars is only about 40 minutes longer than a day on Earth. 🪐"
 }
