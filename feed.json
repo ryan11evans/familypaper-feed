@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "news": [
     {
-      "emoji": "🦭",
+      "emoji": "🦘",
       "tag": "Animals",
-      "headline": "Rescued Baby Walrus Finds a Forever Home",
-      "body": "A college student studying a beach in Alaska spotted a lone baby walrus and helped rescue him. He was named Annautaq. Experts said he is too used to people to live in the wild, so he now lives at SeaWorld Orlando. He weighs about 250 pounds and gets up to six bottle feedings a day.",
-      "source_name": "Smithsonian Magazine",
-      "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/"
+      "headline": "Wombats Turn Out to Be Great for the Land",
+      "body": "Scientists in South Australia studied the southern hairy-nosed wombat for three years. Its digging helps loosen soil so water can soak in, and it helps spread helpful fungi that plants need to grow. Plants grew thicker where wombats lived, so the researcher says these diggers deserve protection.",
+      "source_name": "Phys.org",
+      "url": "https://phys.org/news/2026-11-southern-hairy-nosed-wombat-key.html"
     },
     {
-      "emoji": "🚀",
-      "tag": "Space",
-      "headline": "Twin NASA Probes Slingshot Toward Mars",
-      "body": "Two NASA spacecraft called ESCAPADE zoomed close to Earth and fired their engines to get a boost toward Mars. It is the first time NASA has used this trick to send a spacecraft to the Red Planet. Both burns went perfectly, and the probes will study Mars's magnetic field.",
-      "source_name": "Space.com",
-      "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth"
-    },
-    {
-      "emoji": "🐙",
+      "emoji": "🌊",
       "tag": "Science",
-      "headline": "How Octopuses Squeeze Through Tiny Holes",
-      "body": "Scientists watched octopuses escape through small openings. First an octopus feels the hole with one arm, then it threads more arms through, and finally it pulls its body through. The findings could help engineers build soft rescue robots that fit into tight spaces.",
-      "source_name": "Smithsonian Magazine",
-      "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/"
+      "headline": "14-Year-Old Uses an Underwater Robot to Study Kelp",
+      "body": "Linden, a 14-year-old from Santa Cruz, California, borrowed a small underwater robot to film kelp forests. He wondered if sea urchins explained why some kelp beds are growing back. His videos showed few urchins anywhere, so something else must be helping. Kelp forests are home to many sea animals.",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/underwater-robot-kelp-forests-jic"
+    },
+    {
+      "emoji": "🧬",
+      "tag": "Space",
+      "headline": "Student Space Experiments Land in a Museum",
+      "body": "A science tool that flew to the International Space Station is now on display at the Smithsonian National Air and Space Museum in Washington, D.C. It comes from Genes in Space, a program where students design DNA experiments for astronauts to run in orbit. More than 13,000 students have joined in over the past ten years.",
+      "source_name": "Genes in Space",
+      "url": "https://www.genesinspace.org/news/press/genes-in-space-smithsonian-museum/"
     }
   ],
-  "fun_fact": "An octopus has nine brains: one in its head and one in each arm! 🐙",
+  "fun_fact": "Wombat poop is shaped like little cubes! It's the only animal known to make cube-shaped poop. 🟫",
   "joke": {
-    "q": "Why did the cookie go to the doctor?",
-    "a": "Because it felt crummy! 🍪"
+    "q": "What do you call a wombat who loves to dig?",
+    "a": "A real groundbreaker! ⛏️"
   },
   "riddle": {
-    "q": "What has hands but cannot clap?",
-    "a": "A clock! ⏰"
+    "q": "What has a spine but no bones?",
+    "a": "A book! 📚"
   },
   "word_of_the_day": {
-    "word": "gravity",
-    "meaning": "the force that pulls things toward each other, like keeping you on the ground",
-    "sentence": "Gravity helps a spacecraft swing around a planet."
+    "word": "ecosystem",
+    "meaning": "all the living things in a place and how they depend on each other",
+    "sentence": "A kelp forest is an ecosystem full of fish, otters, and sea stars."
   },
-  "this_day_in_history": "Veterans Day in the United States is on November 11. It is a day to say thank you to people who served in the military and to their families. 🇺🇸",
-  "did_you_know": "A day on Mars is only about 40 minutes longer than a day on Earth. 🪐"
+  "this_day_in_history": "On November 12, 1980, the Voyager 1 spacecraft flew closest to Saturn and sent back amazing pictures of its rings. 🪐",
+  "did_you_know": "Sea otters wrap themselves in kelp while they sleep so they don't drift away. 🦦"
 }
