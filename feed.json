@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "news": [
     {
-      "emoji": "🦘",
-      "tag": "Animals",
-      "headline": "Wombats Turn Out to Be Great for the Land",
-      "body": "Scientists in South Australia studied the southern hairy-nosed wombat for three years. Its digging helps loosen soil so water can soak in, and it helps spread helpful fungi that plants need to grow. Plants grew thicker where wombats lived, so the researcher says these diggers deserve protection.",
-      "source_name": "Phys.org",
-      "url": "https://phys.org/news/2026-11-southern-hairy-nosed-wombat-key.html"
-    },
-    {
-      "emoji": "🌊",
-      "tag": "Science",
-      "headline": "14-Year-Old Uses an Underwater Robot to Study Kelp",
-      "body": "Linden, a 14-year-old from Santa Cruz, California, borrowed a small underwater robot to film kelp forests. He wondered if sea urchins explained why some kelp beds are growing back. His videos showed few urchins anywhere, so something else must be helping. Kelp forests are home to many sea animals.",
+      "emoji": "🦖",
+      "tag": "Dinosaurs",
+      "headline": "Four T. rex Footprints Show How Fast It Walked",
+      "body": "A high school teacher found four fossil footprints in North Dakota that were likely left by a grown-up T. rex. They stretch about 10 feet. The spacing shows the giant ambled along at about 5 feet per second, roughly the speed of a person walking briskly.",
       "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/underwater-robot-kelp-forests-jic"
+      "url": "https://www.snexplores.org/article/footprints-how-fast-t-rex-walked"
     },
     {
-      "emoji": "🧬",
-      "tag": "Space",
-      "headline": "Student Space Experiments Land in a Museum",
-      "body": "A science tool that flew to the International Space Station is now on display at the Smithsonian National Air and Space Museum in Washington, D.C. It comes from Genes in Space, a program where students design DNA experiments for astronauts to run in orbit. More than 13,000 students have joined in over the past ten years.",
-      "source_name": "Genes in Space",
-      "url": "https://www.genesinspace.org/news/press/genes-in-space-smithsonian-museum/"
+      "emoji": "🦭",
+      "tag": "Animals",
+      "headline": "Seals Have a Hearing Superpower",
+      "body": "Seals, sea lions, and walruses can hear well both in the air and underwater. No other mammals can do that. Scientists scanned 217 ear samples from museums and found this ability began about 26.7 million years ago. A mother seal can even pick out her pup's cry on a noisy beach.",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/seal-ears-hearing-air-underwater"
+    },
+    {
+      "emoji": "🍒",
+      "tag": "Dinosaurs",
+      "headline": "Meet the Fruit-Loving Dinosaur",
+      "body": "Scientists named a new dinosaur, Infernogallus jamesi, nicknamed the hell chicken. Its beak and jaw look made for chewing soft food, so it may have munched fruits like cherries and peaches. It might even have helped spread seeds.",
+      "source_name": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/"
     }
   ],
-  "fun_fact": "Wombat poop is shaped like little cubes! It's the only animal known to make cube-shaped poop. 🟫",
+  "fun_fact": "Giraffes have the same number of neck bones as you do: seven! Theirs are just really, really long. 🦒",
   "joke": {
-    "q": "What do you call a wombat who loves to dig?",
-    "a": "A real groundbreaker! ⛏️"
+    "q": "What do you call a dinosaur that is never late?",
+    "a": "A prompt-osaurus! 🦕"
   },
   "riddle": {
-    "q": "What has a spine but no bones?",
-    "a": "A book! 📚"
+    "q": "What gets wetter the more it dries?",
+    "a": "A towel! 🧺"
   },
   "word_of_the_day": {
-    "word": "ecosystem",
-    "meaning": "all the living things in a place and how they depend on each other",
-    "sentence": "A kelp forest is an ecosystem full of fish, otters, and sea stars."
+    "word": "amphibious",
+    "meaning": "able to live or work both on land and in water",
+    "sentence": "Seals have amphibious hearing, so they hear well in and out of the water."
   },
-  "this_day_in_history": "On November 12, 1980, the Voyager 1 spacecraft flew closest to Saturn and sent back amazing pictures of its rings. 🪐",
-  "did_you_know": "Sea otters wrap themselves in kelp while they sleep so they don't drift away. 🦦"
+  "this_day_in_history": "World Kindness Day is celebrated every year on November 13. It reminds people everywhere to be kind to each other. 💛",
+  "did_you_know": "Fruit-eating birds like parrots chew with a sliding jaw, and scientists think a dinosaur did too. 🦜"
 }
