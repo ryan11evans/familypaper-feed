@@ -1,46 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "news": [
     {
-      "emoji": "🦖",
-      "tag": "Dinosaurs",
-      "headline": "Four T. rex Footprints Show How Fast It Walked",
-      "body": "A high school teacher found four fossil footprints in North Dakota that were likely left by a grown-up T. rex. They stretch about 10 feet. The spacing shows the giant ambled along at about 5 feet per second, roughly the speed of a person walking briskly.",
-      "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/footprints-how-fast-t-rex-walked"
-    },
-    {
-      "emoji": "🦭",
+      "emoji": "🐢",
       "tag": "Animals",
-      "headline": "Seals Have a Hearing Superpower",
-      "body": "Seals, sea lions, and walruses can hear well both in the air and underwater. No other mammals can do that. Scientists scanned 217 ear samples from museums and found this ability began about 26.7 million years ago. A mother seal can even pick out her pup's cry on a noisy beach.",
+      "headline": "Rescuers Warm Up Chilly Sea Turtles",
+      "body": "When ocean water drops below 50°F, sea turtles can get too cold to swim or eat. This is called cold stunning, and every winter hundreds wash up on Massachusetts beaches. Rescuers take them to special turtle hospitals and warm them up slowly, about 5°F a day. In recent years, about three-quarters of the rescued turtles got better and were released back to the ocean.",
       "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/seal-ears-hearing-air-underwater"
+      "url": "https://www.snexplores.org/article/cold-sea-turtles-rescue"
     },
     {
-      "emoji": "🍒",
-      "tag": "Dinosaurs",
-      "headline": "Meet the Fruit-Loving Dinosaur",
-      "body": "Scientists named a new dinosaur, Infernogallus jamesi, nicknamed the hell chicken. Its beak and jaw look made for chewing soft food, so it may have munched fruits like cherries and peaches. It might even have helped spread seeds.",
-      "source_name": "Smithsonian Magazine",
-      "url": "https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/"
+      "emoji": "🐜",
+      "tag": "Science",
+      "headline": "One Ant Can Wake a Whole Colony",
+      "body": "Acorn ant colonies often rest quietly, then suddenly the whole nest bursts into action with no leader in charge. A new computer model shows that one ant starting to move can set off the rest, like falling dominoes. Each ant it bumps starts moving too. Scientists still need to test the idea with real ants.",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/ants-sudden-activity-bursts"
     }
   ],
-  "fun_fact": "Giraffes have the same number of neck bones as you do: seven! Theirs are just really, really long. 🦒",
+  "fun_fact": "Honey never spoils! Jars of honey found in ancient Egyptian tombs were still good to eat after thousands of years. 🍯",
   "joke": {
-    "q": "What do you call a dinosaur that is never late?",
-    "a": "A prompt-osaurus! 🦕"
+    "q": "Why did the turtle cross the road?",
+    "a": "To get to the shell station! 🐢"
   },
   "riddle": {
-    "q": "What gets wetter the more it dries?",
-    "a": "A towel! 🧺"
+    "q": "What can you break without ever touching it?",
+    "a": "A promise! 🤝"
   },
   "word_of_the_day": {
-    "word": "amphibious",
-    "meaning": "able to live or work both on land and in water",
-    "sentence": "Seals have amphibious hearing, so they hear well in and out of the water."
+    "word": "synchronize",
+    "meaning": "to happen at the same time or move together",
+    "sentence": "The ants seem to synchronize, all waking up at once."
   },
-  "this_day_in_history": "World Kindness Day is celebrated every year on November 13. It reminds people everywhere to be kind to each other. 💛",
-  "did_you_know": "Fruit-eating birds like parrots chew with a sliding jaw, and scientists think a dinosaur did too. 🦜"
+  "this_day_in_history": "On November 14, 1889, reporter Nellie Bly set out from New York to race around the world. She finished in 72 days, faster than anyone had before! 🌍",
+  "did_you_know": "A group of turtles is sometimes called a bale, and sea turtles can hold their breath for hours while resting. 🐢"
 }
