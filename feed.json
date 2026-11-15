@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "news": [
     {
-      "emoji": "🐢",
-      "tag": "Animals",
-      "headline": "Rescuers Warm Up Chilly Sea Turtles",
-      "body": "When ocean water drops below 50°F, sea turtles can get too cold to swim or eat. This is called cold stunning, and every winter hundreds wash up on Massachusetts beaches. Rescuers take them to special turtle hospitals and warm them up slowly, about 5°F a day. In recent years, about three-quarters of the rescued turtles got better and were released back to the ocean.",
+      "emoji": "🚀",
+      "tag": "Space",
+      "headline": "A Baseball-Sized Moon Rover Was Inspired by Toys",
+      "body": "A tiny Japanese rover called SORA-Q starts out as a ball about the size of a baseball. After landing on the moon, the ball splits open and each half becomes a wheel, with cameras popping up in the middle. Its designers worked with a toy company and borrowed ideas from transforming toys like Transformers. The little robot crawled around on its own for more than 90 minutes, taking pictures.",
       "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/cold-sea-turtles-rescue"
+      "url": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover"
     },
     {
-      "emoji": "🐜",
-      "tag": "Science",
-      "headline": "One Ant Can Wake a Whole Colony",
-      "body": "Acorn ant colonies often rest quietly, then suddenly the whole nest bursts into action with no leader in charge. A new computer model shows that one ant starting to move can set off the rest, like falling dominoes. Each ant it bumps starts moving too. Scientists still need to test the idea with real ants.",
+      "emoji": "🪐",
+      "tag": "Space",
+      "headline": "How Astronomers Found Rings Around Uranus",
+      "body": "In 1977, Uranus passed in front of a faraway star. Before the planet blocked it, the starlight dimmed five times, and it flickered five times again afterward. Astronomers realized Uranus has rings, just like Saturn! The rings are dark and hard to see, so a star's blinking was the clue that revealed them. This kind of event, when one space object passes in front of another, is called an occultation.",
       "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/ants-sudden-activity-bursts"
+      "url": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation"
     }
   ],
-  "fun_fact": "Honey never spoils! Jars of honey found in ancient Egyptian tombs were still good to eat after thousands of years. 🍯",
+  "fun_fact": "Uranus spins tilted on its side, like a ball rolling around the sun instead of spinning like a top. 🪐",
   "joke": {
-    "q": "Why did the turtle cross the road?",
-    "a": "To get to the shell station! 🐢"
+    "q": "Why did the clock get in trouble at school?",
+    "a": "It kept tocking too much! ⏰"
   },
   "riddle": {
-    "q": "What can you break without ever touching it?",
-    "a": "A promise! 🤝"
+    "q": "I have keys but no locks and a space but no room. What am I?",
+    "a": "A keyboard! ⌨️"
   },
   "word_of_the_day": {
-    "word": "synchronize",
-    "meaning": "to happen at the same time or move together",
-    "sentence": "The ants seem to synchronize, all waking up at once."
+    "word": "transform",
+    "meaning": "to change into something different",
+    "sentence": "The little moon rover can transform from a ball into a robot with wheels."
   },
-  "this_day_in_history": "On November 14, 1889, reporter Nellie Bly set out from New York to race around the world. She finished in 72 days, faster than anyone had before! 🌍",
-  "did_you_know": "A group of turtles is sometimes called a bale, and sea turtles can hold their breath for hours while resting. 🐢"
+  "this_day_in_history": "On November 15, 1971, Intel introduced the 4004, one of the first tiny computer chips of its kind. Chips like it help power the computers and tablets we use today! 💻",
+  "did_you_know": "Moon dust is so sharp and sticky that it clings to everything, which is one reason wheels and gears on moon robots need careful designs. 🌙"
 }
