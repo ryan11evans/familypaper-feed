@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "news": [
     {
-      "emoji": "🚀",
-      "tag": "Space",
-      "headline": "A Baseball-Sized Moon Rover Was Inspired by Toys",
-      "body": "A tiny Japanese rover called SORA-Q starts out as a ball about the size of a baseball. After landing on the moon, the ball splits open and each half becomes a wheel, with cameras popping up in the middle. Its designers worked with a toy company and borrowed ideas from transforming toys like Transformers. The little robot crawled around on its own for more than 90 minutes, taking pictures.",
-      "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/toy-inspired-mini-moon-rover"
+      "emoji": "🌊",
+      "tag": "Ocean",
+      "headline": "Scientists Find 57 New Animals in an Underwater Canyon",
+      "body": "A robot named SuBastian explored the Mar del Plata Canyon off Argentina, a valley under the sea that is more than twice as deep as the Grand Canyon. Its cameras found coral reefs, sea stars, and animals no person had ever seen. Scientists announced 57 new kinds of sea creatures, including a see-through sea cucumber with horn-like bumps nicknamed Loki. A team plans to explore another canyon in 2027.",
+      "source_name": "TIME for Kids",
+      "url": "https://www.timeforkids.com/g34/canyon-creatures-g3/?rl=en-660"
     },
     {
-      "emoji": "🪐",
+      "emoji": "🔭",
       "tag": "Space",
-      "headline": "How Astronomers Found Rings Around Uranus",
-      "body": "In 1977, Uranus passed in front of a faraway star. Before the planet blocked it, the starlight dimmed five times, and it flickered five times again afterward. Astronomers realized Uranus has rings, just like Saturn! The rings are dark and hard to see, so a star's blinking was the clue that revealed them. This kind of event, when one space object passes in front of another, is called an occultation.",
-      "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/scientists-say-occultation-definition-pronunciation"
+      "headline": "Webb Telescope Shows Baby Stars Blowing Jets of Gas",
+      "body": "NASA used the James Webb Space Telescope to take a new picture of NGC 7129, a place where stars are being born. Gravity pulls gas together to make stars, and young stars then shoot out powerful jets and winds. Those jets stretch the red gas into long, thin threads. By looking at stars of different ages in one picture, scientists can learn how stars grow up.",
+      "source_name": "NASA Astronomy Picture of the Day",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/"
     }
   ],
-  "fun_fact": "Uranus spins tilted on its side, like a ball rolling around the sun instead of spinning like a top. 🪐",
+  "fun_fact": "Sea cucumbers can squirt out sticky threads to confuse enemies, and some can even swim! 🥒",
   "joke": {
-    "q": "Why did the clock get in trouble at school?",
-    "a": "It kept tocking too much! ⏰"
+    "q": "What do you call a sleeping bull?",
+    "a": "A bulldozer! 🐂"
   },
   "riddle": {
-    "q": "I have keys but no locks and a space but no room. What am I?",
-    "a": "A keyboard! ⌨️"
+    "q": "The more you take, the more you leave behind. What am I?",
+    "a": "Footsteps! 👣"
   },
   "word_of_the_day": {
-    "word": "transform",
-    "meaning": "to change into something different",
-    "sentence": "The little moon rover can transform from a ball into a robot with wheels."
+    "word": "canyon",
+    "meaning": "a deep valley with steep sides",
+    "sentence": "The robot dove into a canyon on the ocean floor."
   },
-  "this_day_in_history": "On November 15, 1971, Intel introduced the 4004, one of the first tiny computer chips of its kind. Chips like it help power the computers and tablets we use today! 💻",
-  "did_you_know": "Moon dust is so sharp and sticky that it clings to everything, which is one reason wheels and gears on moon robots need careful designs. 🌙"
+  "this_day_in_history": "On November 16, 1974, scientists beamed the Arecibo message, a short picture message, toward a faraway star cluster using a giant radio telescope in Puerto Rico. 📡",
+  "did_you_know": "Stars are born inside giant clouds of gas and dust, and a single cloud can make thousands of stars. ⭐"
 }
