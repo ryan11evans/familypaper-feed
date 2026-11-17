@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "news": [
     {
-      "emoji": "🌊",
-      "tag": "Ocean",
-      "headline": "Scientists Find 57 New Animals in an Underwater Canyon",
-      "body": "A robot named SuBastian explored the Mar del Plata Canyon off Argentina, a valley under the sea that is more than twice as deep as the Grand Canyon. Its cameras found coral reefs, sea stars, and animals no person had ever seen. Scientists announced 57 new kinds of sea creatures, including a see-through sea cucumber with horn-like bumps nicknamed Loki. A team plans to explore another canyon in 2027.",
+      "emoji": "🏞️",
+      "tag": "Nature",
+      "headline": "America Has a New National Park in Arizona",
+      "body": "Chiricahua National Monument in southeastern Arizona is now a national park! A new law on October 20 upgraded it. A giant volcano erupted there 27 million years ago, and the ash hardened into rock. Over time, wind and water carved the rock into tall pillars called hoodoos. Visitors can hike among them and might spot bears, birds, and mountain lions. The land is also the homeland of the Chiricahua Apache.",
       "source_name": "TIME for Kids",
-      "url": "https://www.timeforkids.com/g34/canyon-creatures-g3/?rl=en-660"
+      "url": "https://www.timeforkids.com/g56/a-new-national-park-g5/"
     },
     {
-      "emoji": "🔭",
-      "tag": "Space",
-      "headline": "Webb Telescope Shows Baby Stars Blowing Jets of Gas",
-      "body": "NASA used the James Webb Space Telescope to take a new picture of NGC 7129, a place where stars are being born. Gravity pulls gas together to make stars, and young stars then shoot out powerful jets and winds. Those jets stretch the red gas into long, thin threads. By looking at stars of different ages in one picture, scientists can learn how stars grow up.",
-      "source_name": "NASA Astronomy Picture of the Day",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/"
+      "emoji": "🎨",
+      "tag": "Space & Art",
+      "headline": "Did Van Gogh Paint a Real Night Sky?",
+      "body": "Astronomers have traced Vincent van Gogh's famous painting The Starry Night to a real night sky. A new study says it shows the sky as it looked on July 22, 1889. The scientists matched clues in the painting to what was really shining overhead that night. It is a fun mix of art and astronomy!",
+      "source_name": "TIME for Kids",
+      "url": "https://www.timeforkids.com/g56/the-real-starry-night/"
     }
   ],
-  "fun_fact": "Sea cucumbers can squirt out sticky threads to confuse enemies, and some can even swim! 🥒",
+  "fun_fact": "Hummingbirds are the only birds that can fly backward, and their wings can flap about 50 times every second! 🐦",
   "joke": {
-    "q": "What do you call a sleeping bull?",
-    "a": "A bulldozer! 🐂"
+    "q": "What do you call a fish wearing a bowtie?",
+    "a": "Sofishticated! 🐟"
   },
   "riddle": {
-    "q": "The more you take, the more you leave behind. What am I?",
-    "a": "Footsteps! 👣"
+    "q": "What has a face and two hands but no arms or legs, and tells you when it's time for school?",
+    "a": "A clock! ⏰"
   },
   "word_of_the_day": {
-    "word": "canyon",
-    "meaning": "a deep valley with steep sides",
-    "sentence": "The robot dove into a canyon on the ocean floor."
+    "word": "erosion",
+    "meaning": "when wind or water slowly wears away rock or soil",
+    "sentence": "Erosion carved the tall rock pillars over millions of years."
   },
-  "this_day_in_history": "On November 16, 1974, scientists beamed the Arecibo message, a short picture message, toward a faraway star cluster using a giant radio telescope in Puerto Rico. 📡",
-  "did_you_know": "Stars are born inside giant clouds of gas and dust, and a single cloud can make thousands of stars. ⭐"
+  "this_day_in_history": "On November 17, 1869, the Suez Canal opened in Egypt, creating a shortcut for ships between the Mediterranean Sea and the Red Sea. 🚢",
+  "did_you_know": "Hoodoos are tall, skinny rock towers that form when harder rock on top protects the softer rock below from wearing away. 🪨"
 }
