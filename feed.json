@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "news": [
     {
-      "emoji": "🏞️",
-      "tag": "Nature",
-      "headline": "America Has a New National Park in Arizona",
-      "body": "Chiricahua National Monument in southeastern Arizona is now a national park! A new law on October 20 upgraded it. A giant volcano erupted there 27 million years ago, and the ash hardened into rock. Over time, wind and water carved the rock into tall pillars called hoodoos. Visitors can hike among them and might spot bears, birds, and mountain lions. The land is also the homeland of the Chiricahua Apache.",
+      "emoji": "🏃",
+      "tag": "Sports",
+      "headline": "Marathon Runners Celebrate a 50th Anniversary",
+      "body": "On November 1, Sheila Chepkirui of Kenya won the women's race at the New York City Marathon. She ran the 26.2 miles in two hours and 24 minutes! This year was the 50th anniversary of the course, which winds through all five boroughs: Staten Island, Brooklyn, Queens, the Bronx, and Manhattan.",
       "source_name": "TIME for Kids",
-      "url": "https://www.timeforkids.com/g56/a-new-national-park-g5/"
+      "url": "https://www.timeforkids.com/g34/strong-finish/"
     },
     {
-      "emoji": "🎨",
-      "tag": "Space & Art",
-      "headline": "Did Van Gogh Paint a Real Night Sky?",
-      "body": "Astronomers have traced Vincent van Gogh's famous painting The Starry Night to a real night sky. A new study says it shows the sky as it looked on July 22, 1889. The scientists matched clues in the painting to what was really shining overhead that night. It is a fun mix of art and astronomy!",
+      "emoji": "🌟",
+      "tag": "Kids Who Help",
+      "headline": "A 9-Year-Old Is TIME's Kid of the Year",
+      "body": "Ledger Mann, age 9, was named TIME's 2026 Kid of the Year. He helps first responders learn how to care for kids with autism, and he helps other neurodivergent kids feel understood. An editor said Ledger's ability to thrive at school and with friends is admirable.",
       "source_name": "TIME for Kids",
-      "url": "https://www.timeforkids.com/g56/the-real-starry-night/"
+      "url": "https://www.timeforkids.com/g34/times-kid-of-the-year-ledger/"
     }
   ],
-  "fun_fact": "Hummingbirds are the only birds that can fly backward, and their wings can flap about 50 times every second! 🐦",
+  "fun_fact": "A group of flamingos is called a flamboyance, and flamingos get their pink color from the food they eat! 🦩",
   "joke": {
-    "q": "What do you call a fish wearing a bowtie?",
-    "a": "Sofishticated! 🐟"
+    "q": "Why did the runner bring a pencil to the race?",
+    "a": "To draw the finish line! ✏️"
   },
   "riddle": {
-    "q": "What has a face and two hands but no arms or legs, and tells you when it's time for school?",
-    "a": "A clock! ⏰"
+    "q": "I have keys but open no locks, and I have space but no room. What am I?",
+    "a": "A keyboard! ⌨️"
   },
   "word_of_the_day": {
-    "word": "erosion",
-    "meaning": "when wind or water slowly wears away rock or soil",
-    "sentence": "Erosion carved the tall rock pillars over millions of years."
+    "word": "marathon",
+    "meaning": "a very long race, 26.2 miles, run on foot",
+    "sentence": "Thousands of runners finished the marathon."
   },
-  "this_day_in_history": "On November 17, 1869, the Suez Canal opened in Egypt, giving ships a shortcut from the Mediterranean Sea to the Red Sea. 🚢",
-  "did_you_know": "Hoodoos are tall, skinny rock towers that form when harder rock on top protects the softer rock below from wearing away. 🪨"
+  "this_day_in_history": "On November 18, 1928, the cartoon Steamboat Willie, starring Mickey Mouse, premiered in New York City. 🐭",
+  "did_you_know": "A marathon is 26.2 miles long, which is about 42 kilometers. 🏃"
 }
