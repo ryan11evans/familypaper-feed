@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "news": [
     {
-      "emoji": "🏃",
-      "tag": "Sports",
-      "headline": "Marathon Runners Celebrate a 50th Anniversary",
-      "body": "On November 1, Sheila Chepkirui of Kenya won the women's race at the New York City Marathon. She ran the 26.2 miles in two hours and 24 minutes! This year was the 50th anniversary of the course, which winds through all five boroughs: Staten Island, Brooklyn, Queens, the Bronx, and Manhattan.",
-      "source_name": "TIME for Kids",
-      "url": "https://www.timeforkids.com/g34/strong-finish/"
+      "emoji": "🤖",
+      "tag": "Science & Tech",
+      "headline": "A Drone That Perches Like a Bird",
+      "body": "Engineers in the Netherlands built a flying robot that can land on a branch and hang on! It has three finger-like grippers with touch sensors, so it can feel its way onto a perch. Once it holds on, it shuts off its motors to save battery. Scientists hope drones like it can watch over forests for a long time.",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/flying-drone-perch-like-bird"
     },
     {
-      "emoji": "🌟",
-      "tag": "Kids Who Help",
-      "headline": "A 9-Year-Old Is TIME's Kid of the Year",
-      "body": "Ledger Mann, age 9, was named TIME's 2026 Kid of the Year. He helps first responders learn how to care for kids with autism, and he helps other neurodivergent kids feel understood. An editor said Ledger's ability to thrive at school and with friends is admirable.",
-      "source_name": "TIME for Kids",
-      "url": "https://www.timeforkids.com/g34/times-kid-of-the-year-ledger/"
+      "emoji": "🔺",
+      "tag": "History & Science",
+      "headline": "Why Egypt's Great Pyramid Survives Earthquakes",
+      "body": "The Great Pyramid of Giza has stood for nearly 5,000 years. Scientists measured tiny vibrations inside it and found the pyramid shakes at a different speed than the ground around it, which helps keep it safe in earthquakes. Its sturdy shape and the empty chambers inside also help spread out its weight.",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/egypt-great-pyramid-resist-earthquake"
     }
   ],
-  "fun_fact": "A group of flamingos is called a flamboyance, and flamingos get their pink color from the food they eat! 🦩",
+  "fun_fact": "Octopuses have three hearts and blue blood! 🐙",
   "joke": {
-    "q": "Why did the runner bring a pencil to the race?",
-    "a": "To draw the finish line! ✏️"
+    "q": "Why did the robot go back to school?",
+    "a": "Because its skills were getting a little rusty! 🤖"
   },
   "riddle": {
-    "q": "I have keys but open no locks, and I have space but no room. What am I?",
-    "a": "A keyboard! ⌨️"
+    "q": "I'm tall when I'm young and short when I'm old. What am I?",
+    "a": "A candle! 🕯️"
   },
   "word_of_the_day": {
-    "word": "marathon",
-    "meaning": "a very long race, 26.2 miles, run on foot",
-    "sentence": "Thousands of runners finished the marathon."
+    "word": "perch",
+    "meaning": "to land and rest on something, like a bird on a branch",
+    "sentence": "The little bird will perch on the fence."
   },
-  "this_day_in_history": "On November 18, 1928, the cartoon Steamboat Willie, starring Mickey Mouse, premiered in New York City. 🐭",
-  "did_you_know": "A marathon is 26.2 miles long, which is about 42 kilometers. 🏃"
+  "this_day_in_history": "On November 19, 1863, President Abraham Lincoln gave the Gettysburg Address, a short speech of just a few minutes that is one of the most famous in American history. 🇺🇸",
+  "did_you_know": "A pyramid's wide base and pointed top make it very steady, which is why this shape has lasted for thousands of years. 🔺"
 }
