@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "news": [
     {
-      "emoji": "🤖",
-      "tag": "Science & Tech",
-      "headline": "A Drone That Perches Like a Bird",
-      "body": "Engineers in the Netherlands built a flying robot that can land on a branch and hang on! It has three finger-like grippers with touch sensors, so it can feel its way onto a perch. Once it holds on, it shuts off its motors to save battery. Scientists hope drones like it can watch over forests for a long time.",
-      "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/flying-drone-perch-like-bird"
+      "emoji": "🦡",
+      "tag": "Animals",
+      "headline": "Meerkats Are Great at Finding Their Way Home",
+      "body": "Meerkats live in big family groups, but scientists found they are also expert solo travelers! Researchers put tiny GPS trackers on 20 meerkats in Africa's Kalahari Desert and let them go about a mile from home. 18 of them headed almost straight back. They often stood up on their back legs to look around first.",
+      "source_name": "Science News",
+      "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home"
     },
     {
-      "emoji": "🔺",
-      "tag": "History & Science",
-      "headline": "Why Egypt's Great Pyramid Survives Earthquakes",
-      "body": "The Great Pyramid of Giza has stood for nearly 5,000 years. Scientists measured tiny vibrations inside it and found the pyramid shakes at a different speed than the ground around it, which helps keep it safe in earthquakes. Its sturdy shape and the empty chambers inside also help spread out its weight.",
-      "source_name": "Science News Explores",
-      "url": "https://www.snexplores.org/article/egypt-great-pyramid-resist-earthquake"
+      "emoji": "🚀",
+      "tag": "Space",
+      "headline": "Voyager 1 Is Now One Light-Day From Earth",
+      "body": "The Voyager 1 spacecraft, launched in 1977, has reached a new milestone. It is now so far away that a beam of light takes a full day to reach it! On November 17, fans shone a flashlight Morse code message toward the sky for Voyager. It is the farthest spacecraft humans have ever made.",
+      "source_name": "NASA Science (APOD)",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
     }
   ],
-  "fun_fact": "A mantis shrimp can punch so fast that it makes tiny bubbles in the water! 🦐",
+  "fun_fact": "A group of meerkats is called a mob, and meerkat pups are babysat by the whole family! 🦡",
   "joke": {
-    "q": "Why did the robot go back to school?",
-    "a": "Because its skills were getting a little rusty! 🤖"
+    "q": "Why did the astronaut bring a broom into space?",
+    "a": "To sweep up the stars! 🧹"
   },
   "riddle": {
-    "q": "What has hands but can't clap?",
-    "a": "A clock! ⏰"
+    "q": "What can you catch but not throw?",
+    "a": "A cold! 🤧"
   },
   "word_of_the_day": {
-    "word": "perch",
-    "meaning": "to land and rest on something, like a bird on a branch",
-    "sentence": "The little bird will perch on the fence."
+    "word": "navigate",
+    "meaning": "to find the way from one place to another",
+    "sentence": "A compass can help you navigate through the forest."
   },
-  "this_day_in_history": "On November 19, 1863, President Abraham Lincoln gave the Gettysburg Address, a short speech of just a few minutes that is one of the most famous in American history. 🇺🇸",
-  "did_you_know": "A pyramid's wide base and pointed top make it very steady, which is why this shape has lasted for thousands of years. 🔺"
+  "this_day_in_history": "On November 20, 1985, Microsoft released Windows 1.0, an early version of the computer screens that so many people use today. 💻",
+  "did_you_know": "Light travels so fast it could circle the Earth about 7 times in one second! ⚡"
 }
