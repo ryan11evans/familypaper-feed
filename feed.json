@@ -1,38 +1,38 @@
 {
   "schema_version": 2,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "news": [
-    {
-      "emoji": "🦡",
-      "tag": "Animals",
-      "headline": "Meerkats Are Great at Finding Their Way Home",
-      "body": "Meerkats live in big family groups, but scientists found they are also expert solo travelers! Researchers put tiny GPS trackers on 20 meerkats in Africa's Kalahari Desert and let them go about a mile from home. 18 of them headed almost straight back. They often stood up on their back legs to look around first.",
-      "source_name": "Science News",
-      "url": "https://www.sciencenews.org/article/solo-meerkats-can-find-their-way-home"
-    },
     {
       "emoji": "🚀",
       "tag": "Space",
-      "headline": "Voyager 1 Is Now One Light-Day From Earth",
-      "body": "The Voyager 1 spacecraft, launched in 1977, has reached a new milestone. It is now so far away that a beam of light takes a full day to reach it! On November 17, fans shone a flashlight Morse code message toward the sky for Voyager. It is the farthest spacecraft humans have ever made.",
-      "source_name": "NASA Science (APOD)",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/"
+      "headline": "Dragon Heads Home From the Space Station",
+      "body": "A SpaceX Dragon spacecraft packed with science experiments and cargo undocked from the International Space Station on Friday. It is set to splash down in the ocean off the California coast on Saturday afternoon. No astronauts are on board, just science from space!",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/blogs/general-blog/2026/11/20/dragon-undocks-from-station-packed-with-science-and-cargo/"
+    },
+    {
+      "emoji": "🧪",
+      "tag": "Science",
+      "headline": "Build a Paper Rocket and Launch It With a Straw",
+      "body": "Science Buddies shared a fun experiment: make tube-shaped rockets from paper and tape, then launch them by blowing through a drinking straw. A rocket without fins spins out of control, but one with fins flies straighter. Try both and see which goes farthest!",
+      "source_name": "Science News Explores",
+      "url": "https://www.snexplores.org/article/paper-rocket-experiment-build-test"
     }
   ],
-  "fun_fact": "A group of meerkats is called a mob, and meerkat pups are babysat by the whole family! 🦡",
+  "fun_fact": "Honey never spoils. Jars of honey thousands of years old have been found in ancient Egyptian tombs and were still safe to eat! 🍯",
   "joke": {
-    "q": "Why did the astronaut bring a broom into space?",
-    "a": "To sweep up the stars! 🧹"
+    "q": "What do you call a bear with no teeth?",
+    "a": "A gummy bear! 🐻"
   },
   "riddle": {
-    "q": "What can you catch but not throw?",
-    "a": "A cold! 🤧"
+    "q": "What gets wetter the more it dries?",
+    "a": "A towel! 🧺"
   },
   "word_of_the_day": {
-    "word": "navigate",
-    "meaning": "to find the way from one place to another",
-    "sentence": "A compass can help you navigate through the forest."
+    "word": "stable",
+    "meaning": "steady and not likely to wobble or fall over",
+    "sentence": "The rocket with fins stayed stable in the air."
   },
-  "this_day_in_history": "On November 20, 1985, Microsoft released Windows 1.0, an early version of the computer screens that so many people use today. 💻",
-  "did_you_know": "Light travels so fast it could circle the Earth about 7 times in one second! ⚡"
+  "this_day_in_history": "On November 21, 1783, the first people flew in a hot air balloon, made by the Montgolfier brothers, over Paris, France. 🎈",
+  "did_you_know": "A day on Earth is about 24 hours, but a day on Jupiter is only about 10 hours long! 🪐"
 }
