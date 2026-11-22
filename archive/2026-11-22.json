@@ -1,0 +1,38 @@
+{
+ "schema_version": 2,
+ "date": "2026-11-22",
+ "news": [
+  {
+   "emoji": "🐋",
+   "tag": "Animals",
+   "headline": "Scientists Use Drones and Whale Snot to Learn About Whales",
+   "body": "Scientists flew small drones with clean petri dishes through the misty breath of a whale to collect samples. From that whale snot they read the animal's whole set of genes, a first! It's a safer way to check on whales than older methods that needed darts.",
+   "source_name": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6044816/scientists-sequenced-a-whales-entire-genome-using-drones-and-whale-snot"
+  },
+  {
+   "emoji": "🪐",
+   "tag": "Space",
+   "headline": "Spacecraft Arrives at Mercury After an Eight-Year Trip",
+   "body": "The BepiColombo mission, built by Europe and Japan, reached Mercury after traveling for eight years. It will adjust its path over the next few months and start studying the planet in April. Mercury is the closest planet to the Sun, and scientists hope to learn how it formed.",
+   "source_name": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03803-8"
+  }
+ ],
+ "fun_fact": "Sea otters hold hands while they sleep so they don't drift apart! 🦦",
+ "joke": {
+  "q": "Why did the scarecrow win an award?",
+  "a": "Because he was outstanding in his field! 🌾"
+ },
+ "riddle": {
+  "q": "What can fill a room but takes up no space?",
+  "a": "Light! 💡"
+ },
+ "word_of_the_day": {
+  "word": "genome",
+  "meaning": "all the instructions inside a living thing that make it who it is",
+  "sentence": "Scientists read the whale's whole genome from its breath."
+ },
+ "this_day_in_history": "On November 22, 1906, the distress signal SOS was first adopted at an international radio conference in Berlin, Germany. 📻",
+ "did_you_know": "Mercury is the smallest planet in our solar system, only a bit bigger than Earth's Moon! 🌙"
+}
