@@ -1,38 +1,38 @@
 {
  "schema_version": 2,
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "news": [
   {
-   "emoji": "\ud83e\udd8f",
+   "emoji": "🦡",
    "tag": "Animals",
-   "headline": "Rare Baby Rhino Takes Its First Steps at Chester Zoo",
-   "body": "A rare greater one-horned rhino calf was born at Chester Zoo in England after its mom, Asha, was pregnant for 15 months. Cameras filmed the wobbly first steps, and keepers say mom and baby are both healthy. This kind of rhino is threatened, so every birth helps.",
-   "source_name": "Chester Zoo",
-   "url": "https://www.chesterzoo.org/news/greater-one-horned-rhino-born-at-chester-zoo"
+   "headline": "Meerkats Can Find Their Way Home All by Themselves",
+   "body": "Scientists in Switzerland put GPS collars on 20 meerkats in Africa's Kalahari Desert and carried them about 1.5 kilometers from their group. Eighteen of the 20 walked back home alone, and even young meerkats made it. They seem to use their eyes and noses to find their friends.",
+   "source_name": "BBC Newsround",
+   "url": "https://www.bbc.co.uk/newsround/articles/cjzx9ypp00d3o"
   },
   {
-   "emoji": "\ud83d\ude80",
+   "emoji": "🚀",
    "tag": "Space",
-   "headline": "Cargo Ship Set to Fly Science and Supplies to the Space Station",
-   "body": "A Cygnus XL spacecraft is scheduled to launch on a SpaceX Falcon 9 rocket from Florida on Sunday, Nov. 29. It will carry about 11,000 pounds of science experiments and supplies to the astronauts on the International Space Station.",
+   "headline": "Voyager 1 Is Now One Light-Day Away From Earth",
+   "body": "NASA's Voyager 1 is the farthest spacecraft ever flown. On Nov. 18 it reached one light-day from Earth, about 16.1 billion miles away. That means a radio message from home takes a whole day to reach it, after more than 49 years of travel!",
    "source_name": "NASA",
-   "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
+   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
   }
  ],
- "fun_fact": "A group of rhinos is called a crash! \ud83e\udd8f",
+ "fun_fact": "Meerkats take turns standing guard on their back legs to watch for danger! 🦡",
  "joke": {
-  "q": "Why did the banana go to the doctor?",
-  "a": "Because it wasn't peeling well! \ud83c\udf4c"
+  "q": "What do you call a bear with no teeth?",
+  "a": "A gummy bear! 🐻"
  },
  "riddle": {
-  "q": "What has a heart that doesn't beat?",
-  "a": "An artichoke! \ud83e\udd6c"
+  "q": "What gets wetter the more it dries?",
+  "a": "A towel! 🛁"
  },
  "word_of_the_day": {
-  "word": "threatened",
-  "meaning": "in danger of disappearing if people don't help protect it",
-  "sentence": "The rhino is a threatened animal, so zoos work hard to protect it."
+  "word": "distance",
+  "meaning": "how far it is from one place to another",
+  "sentence": "Voyager 1 has traveled an amazing distance from Earth."
  },
- "this_day_in_history": "On November 23, 1889, the first jukebox was set up at the Palais Royale Saloon in San Francisco, California. \ud83c\udfb5",
- "did_you_know": "A Cygnus cargo ship burns up safely in Earth's atmosphere at the end of its mission! \ud83d\udd25"
+ "this_day_in_history": "On November 24, 1859, scientist Charles Darwin published his famous book about how living things change over time. 📖",
+ "did_you_know": "Light from the Sun takes about 8 minutes to reach Earth, but Voyager 1 is a whole day away! ☀️"
 }
