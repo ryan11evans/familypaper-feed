@@ -1,38 +1,38 @@
 {
  "schema_version": 2,
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "news": [
   {
-   "emoji": "🦡",
+   "emoji": "🐦",
    "tag": "Animals",
-   "headline": "Meerkats Can Find Their Way Home All by Themselves",
-   "body": "Scientists in Switzerland put GPS collars on 20 meerkats in Africa's Kalahari Desert and carried them about 1.5 kilometers from their group. Eighteen of the 20 walked back home alone, and even young meerkats made it. They seem to use their eyes and noses to find their friends.",
+   "headline": "Phil the Godwit Flies 6,800 Miles and Back",
+   "body": "A bird called a bar-tailed godwit named Phil wore a tiny solar-powered tracker. It showed he flew about 6,800 miles to the Arctic and then home to England! Scientists can now find out which wetlands birds like Phil need for food and rest.",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.co.uk/newsround/articles/cjzx9ypp00d3o"
+   "url": "https://www.bbc.co.uk/newsround/articles/c6x2wry9ln98o"
   },
   {
-   "emoji": "🚀",
-   "tag": "Space",
-   "headline": "Voyager 1 Is Now One Light-Day Away From Earth",
-   "body": "NASA's Voyager 1 is the farthest spacecraft ever flown. On Nov. 18 it reached one light-day from Earth, about 16.1 billion miles away. That means a radio message from home takes a whole day to reach it, after more than 49 years of travel!",
-   "source_name": "NASA",
-   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+   "emoji": "🦖",
+   "tag": "Dinosaurs",
+   "headline": "Meet the Fruit-Loving 'Hell Chicken' Dinosaur",
+   "body": "Scientists have found a new dinosaur called Infernogallus jamesi. Its nickname is the 'hell chicken', but it looks like it liked munching fruit, because its jaws were built for chewing it.",
+   "source_name": "BBC Newsround",
+   "url": "https://www.bbc.co.uk/newsround/articles/cv4g1g3360gno"
   }
  ],
- "fun_fact": "Meerkats take turns standing guard on their back legs to watch for danger! 🦡",
+ "fun_fact": "Octopuses have three hearts and blue blood! 🐙",
  "joke": {
-  "q": "What do you call a fish wearing a bow tie?",
-  "a": "Sofishticated! 🐟"
+  "q": "Why can't a leopard play hide and seek?",
+  "a": "Because it's always spotted! 🐆"
  },
  "riddle": {
-  "q": "What can you keep after giving it to someone else?",
-  "a": "Your word! 🤝"
+  "q": "I have hands but cannot clap. What am I?",
+  "a": "A clock! 🕰️"
  },
  "word_of_the_day": {
-  "word": "distance",
-  "meaning": "how far it is from one place to another",
-  "sentence": "Voyager 1 has traveled an amazing distance from Earth."
+  "word": "wetland",
+  "meaning": "an area of land that is covered with shallow water or very soggy ground",
+  "sentence": "The godwit stopped to rest at a wetland."
  },
- "this_day_in_history": "On November 24, 1859, scientist Charles Darwin published his famous book about how living things change over time. 📖",
- "did_you_know": "Light from the Sun takes about 8 minutes to reach Earth, but Voyager 1 is a whole day away! ☀️"
+ "this_day_in_history": "On November 25, 1783, the last British soldiers left New York City after the American Revolution. 🗽",
+ "did_you_know": "A bar-tailed godwit can fly for days without stopping to eat or rest! 🐦"
 }
