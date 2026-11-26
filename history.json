@@ -841,6 +841,27 @@
    "word_of_the_day": "wetland",
    "this_day_in_history": "On November 25, 1783, the last British soldiers left New York City after the American Revolution. 🗽",
    "did_you_know": "A bar-tailed godwit can fly for days without stopping to eat or rest! 🐦"
+  },
+  {
+   "date": "2026-11-26",
+   "headlines": [
+    "Baby Parrot Brings Hope for a Very Rare Bird",
+    "It's Thanksgiving in the U.S.!"
+   ],
+   "urls": [
+    "https://www.bbc.com/newsround/articles/ckpdw186w24no",
+    "https://www.bbc.co.uk/newsround/34921324"
+   ],
+   "fun_fact": "A turkey can make a gobble sound that travels about a mile! 🦃",
+   "joke": "What do you call a turkey on the day after Thanksgiving?",
+   "riddle": "I have a head but no hat, and I have a tail but no body. What am I?",
+   "word_of_the_day": {
+    "word": "grateful",
+    "meaning": "feeling thankful for something",
+    "sentence": "The pilgrims were grateful for their harvest."
+   },
+   "this_day_in_history": "On November 26, 1789, George Washington declared the first national Thanksgiving Day in the United States. 🍂",
+   "did_you_know": "A Spix's macaw chick like Hope weighed only 12.4 grams when she hatched, about as light as a few grapes! 🍇"
   }
  ]
 }

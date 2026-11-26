@@ -1,38 +1,38 @@
 {
  "schema_version": 2,
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "news": [
   {
-   "emoji": "🐦",
+   "emoji": "🦜",
    "tag": "Animals",
-   "headline": "Phil the Godwit Flies 6,800 Miles and Back",
-   "body": "A bird called a bar-tailed godwit named Phil wore a tiny solar-powered tracker. It showed he flew about 6,800 miles to the Arctic and then home to England! Scientists can now find out which wetlands birds like Phil need for food and rest.",
+   "headline": "Baby Parrot Brings Hope for a Very Rare Bird",
+   "body": "A baby Spix's macaw named Hope hatched at the São Paulo Zoo in Brazil. This bright blue parrot is extinct in the wild, and only about 330 live in human care around the world. Her birth is big news for the people trying to save the species!",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.co.uk/newsround/articles/c6x2wry9ln98o"
+   "url": "https://www.bbc.com/newsround/articles/ckpdw186w24no"
   },
   {
-   "emoji": "🦖",
-   "tag": "Dinosaurs",
-   "headline": "Meet the Fruit-Loving 'Hell Chicken' Dinosaur",
-   "body": "Scientists have found a new dinosaur called Infernogallus jamesi. Its nickname is the 'hell chicken', but it looks like it liked munching fruit, because its jaws were built for chewing it.",
+   "emoji": "🦃",
+   "tag": "Holidays",
+   "headline": "It's Thanksgiving in the U.S.!",
+   "body": "Today families in America gather to share a big meal and say thanks. Many people enjoy turkey, pumpkin pie, parades and football. The holiday's story goes back to a harvest feast in 1621.",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.co.uk/newsround/articles/cv4g1g3360gno"
+   "url": "https://www.bbc.co.uk/newsround/34921324"
   }
  ],
- "fun_fact": "A sea otter holds hands with another otter while sleeping so they do not drift apart! 🦦",
+ "fun_fact": "A turkey can make a gobble sound that travels about a mile! 🦃",
  "joke": {
-  "q": "Why can't a leopard play hide and seek?",
-  "a": "Because it's always spotted! 🐆"
+  "q": "What do you call a turkey on the day after Thanksgiving?",
+  "a": "Lucky! 🦃"
  },
  "riddle": {
-  "q": "I have hands but cannot clap. What am I?",
-  "a": "A clock! 🕰️"
+  "q": "I have a head but no hat, and I have a tail but no body. What am I?",
+  "a": "A coin! 🪙"
  },
  "word_of_the_day": {
-  "word": "wetland",
-  "meaning": "an area of land that is covered with shallow water or very soggy ground",
-  "sentence": "The godwit stopped to rest at a wetland."
+  "word": "grateful",
+  "meaning": "feeling thankful for something",
+  "sentence": "The pilgrims were grateful for their harvest."
  },
- "this_day_in_history": "On November 25, 1783, the last British soldiers left New York City after the American Revolution. 🗽",
- "did_you_know": "A bar-tailed godwit can fly for days without stopping to eat or rest! 🐦"
+ "this_day_in_history": "On November 26, 1789, George Washington declared the first national Thanksgiving Day in the United States. 🍂",
+ "did_you_know": "A Spix's macaw chick like Hope weighed only 12.4 grams when she hatched, about as light as a few grapes! 🍇"
 }
