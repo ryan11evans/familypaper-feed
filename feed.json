@@ -1,38 +1,38 @@
 {
  "schema_version": 2,
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "news": [
   {
-   "emoji": "🦜",
-   "tag": "Animals",
-   "headline": "Baby Parrot Brings Hope for a Very Rare Bird",
-   "body": "A baby Spix's macaw named Hope hatched at the São Paulo Zoo in Brazil. This bright blue parrot is extinct in the wild, and only about 330 live in human care around the world. Her birth is big news for the people trying to save the species!",
+   "emoji": "🌕",
+   "tag": "Space",
+   "headline": "A Rare Supermoon Is Coming on Christmas Eve",
+   "body": "On December 24 there will be a full Moon that is closer to Earth than usual, called a supermoon. It can look up to 14% brighter and 30% bigger than a normal full Moon. A Christmas Eve full Moon this close to Earth has not happened in over 200 years!",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.com/newsround/articles/ckpdw186w24no"
+   "url": "https://www.bbc.co.uk/newsround/articles/c9j3k0j3jy22o"
   },
   {
-   "emoji": "🦃",
-   "tag": "Holidays",
-   "headline": "It's Thanksgiving in the U.S.!",
-   "body": "Today families in America gather to share a big meal and say thanks. Many people enjoy turkey, pumpkin pie, parades and football. The holiday's story goes back to a harvest feast in 1621.",
+   "emoji": "⚽",
+   "tag": "Sports",
+   "headline": "Women's World Cup 2035 Is Heading to the UK",
+   "body": "England, Northern Ireland, Scotland and Wales were named joint hosts of the 2035 Women's World Cup. The tournament will have 48 teams and 104 matches over 39 days. Young players are already excited to watch!",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.co.uk/newsround/34921324"
+   "url": "https://www.bbc.com/newsround/articles/cwm2jyxpzg1vo"
   }
  ],
- "fun_fact": "A turkey can make a gobble sound that travels about a mile! 🦃",
+ "fun_fact": "Octopuses have three hearts and blue blood! 🐙",
  "joke": {
-  "q": "What do you call a turkey on the day after Thanksgiving?",
-  "a": "Lucky! 🦃"
+  "q": "Why did the soccer player bring string to the game?",
+  "a": "So he could tie the score! ⚽"
  },
  "riddle": {
-  "q": "I have a head but no hat, and I have a tail but no body. What am I?",
-  "a": "A coin! 🪙"
+  "q": "I am always in front of you but can never be seen. What am I?",
+  "a": "The future! 🔮"
  },
  "word_of_the_day": {
-  "word": "grateful",
-  "meaning": "feeling thankful for something",
-  "sentence": "The pilgrims were grateful for their harvest."
+  "word": "brilliant",
+  "meaning": "very bright or very clever",
+  "sentence": "The brilliant Moon lit up the whole night sky."
  },
- "this_day_in_history": "On November 26, 1789, George Washington declared the first national Thanksgiving Day in the United States. 🍂",
- "did_you_know": "A Spix's macaw chick like Hope weighed only 12.4 grams when she hatched, about as light as a few grapes! 🍇"
+ "this_day_in_history": "On November 27, 1924, the very first Macy's Thanksgiving Day Parade marched through New York City. 🎈",
+ "did_you_know": "Light from the Moon is really sunlight bouncing off its dusty surface, and it takes about 1.3 seconds to reach Earth! 🌙"
 }
