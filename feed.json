@@ -1,38 +1,38 @@
 {
  "schema_version": 2,
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "news": [
   {
-   "emoji": "🌕",
-   "tag": "Space",
-   "headline": "A Rare Supermoon Is Coming on Christmas Eve",
-   "body": "On December 24 there will be a full Moon that is closer to Earth than usual, called a supermoon. It can look up to 14% brighter and 30% bigger than a normal full Moon. A Christmas Eve full Moon this close to Earth has not happened in over 200 years!",
+   "emoji": "🦏",
+   "tag": "Animals",
+   "headline": "Rare Baby Rhino Takes Its First Steps",
+   "body": "A greater one-horned rhino calf was born at Chester Zoo in the UK to mum Asha after a 15-month pregnancy. Cameras caught the newborn standing up and taking wobbly first steps in less than an hour. Mum and baby are healthy, and this species is under threat of extinction.",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.co.uk/newsround/articles/c9j3k0j3jy22o"
+   "url": "https://www.bbc.co.uk/newsround/articles/c6qj5dpy7v20o"
   },
   {
-   "emoji": "⚽",
-   "tag": "Sports",
-   "headline": "Women's World Cup 2035 Is Heading to the UK",
-   "body": "England, Northern Ireland, Scotland and Wales were named joint hosts of the 2035 Women's World Cup. The tournament will have 48 teams and 104 matches over 39 days. Young players are already excited to watch!",
+   "emoji": "🧩",
+   "tag": "Records",
+   "headline": "Six-Year-Old Smashes Rubik's Cube Record",
+   "body": "Six-year-old Lian Yunzhi from China broke the women's Rubik's Cube world record twice in three days. She solved the cube in 4.52 seconds and then in just 4.27 seconds. That is faster than most people can blink a few times!",
    "source_name": "BBC Newsround",
-   "url": "https://www.bbc.com/newsround/articles/cwm2jyxpzg1vo"
+   "url": "https://www.bbc.co.uk/newsround/articles/cmjrxg47y392o"
   }
  ],
- "fun_fact": "A day on Venus is longer than a year on Venus! 🪐",
+ "fun_fact": "An octopus has three hearts and blue blood! 🐙",
  "joke": {
-  "q": "Why did the soccer player bring string to the game?",
-  "a": "So he could tie the score! ⚽"
+  "q": "What do you call a dinosaur that is never on time?",
+  "a": "A Dino-late! 🦖"
  },
  "riddle": {
-  "q": "I am always in front of you but can never be seen. What am I?",
-  "a": "The future! 🔮"
+  "q": "What has a neck but no head, and wears a cap?",
+  "a": "A bottle! 🍾"
  },
  "word_of_the_day": {
-  "word": "brilliant",
-  "meaning": "very bright or very clever",
-  "sentence": "The brilliant Moon lit up the whole night sky."
+  "word": "wobbly",
+  "meaning": "shaking or unsteady from side to side",
+  "sentence": "The baby giraffe took a few wobbly steps."
  },
- "this_day_in_history": "On November 27, 1924, the very first Macy's Thanksgiving Day Parade marched through New York City. 🎈",
- "did_you_know": "Light from the Moon is really sunlight bouncing off its dusty surface, and it takes about 1.3 seconds to reach Earth! 🌙"
+ "this_day_in_history": "On November 28, 1964, NASA launched the Mariner 4 spacecraft, which later sent back the first close-up pictures of Mars. 🚀",
+ "did_you_know": "A newborn rhino can stand up within an hour of being born, which helps it stay safe near its mum! 🦏"
 }
